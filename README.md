@@ -6,8 +6,15 @@
 
 ### Contents
 
+### Folder Structure
 - **Data**: CSV files stored in the `data/` folder, organised by tournaments, teams, leagues, and player roles.
 - **Documentation**: README files in each subfolder that explain the structure, key fields, and usage of the data files.
+
+  - **data/**
+  - **intl/**: Contains data related to the VCT International 2024 events.
+  - **challengers/**: Data related to the VCT Challengers 2024 series, including regional competitions.
+  - **game_changers (GC)**: Data for the VCT Game Changers 2024 series, focused on promoting diversity and inclusivity in competitive VALORANT.
+  - **roles/**: Data on agent roles, player roles, and team compositions, outlining how different players fulfill their roles during matches.
 
 ### Usage
 
