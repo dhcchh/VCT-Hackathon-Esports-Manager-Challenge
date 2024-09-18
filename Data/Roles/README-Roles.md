@@ -3,14 +3,15 @@
 This folder contains data related to player roles in VALORANT and how these roles fit into team compositions.
 
 ## Data Overview
-
-### agents.csv Documentation
+***
+### agents.csv 
 
 | Column Name    | Description                                          | Data Type |
 |----------------|------------------------------------------------------|-----------|
 | `agent_name`   | The name of the VALORANT agent (e.g., Jett, Brimstone). | String    |
 | `agent_role`   | The role the agent plays in the game (Duelist, Controller, Initiator, Sentinel). | String    |
 
+***
 ## Role Definitions
 
 ### Agent Roles:
