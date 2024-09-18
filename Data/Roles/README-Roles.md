@@ -34,6 +34,8 @@ For example:
 - Some teams may opt to **forgo a dedicated Lurker**, choosing instead to adopt more aggressive or cohesive team strategies that don’t rely on a player operating independently. In these cases, teams might use other roles more dynamically to adapt to their opponents.
 - **Fragger roles**, typically associated with **Duelists**, may sometimes be filled by agents from other classes. For instance, a player who usually plays a Duelist could pick **Sage** (a Sentinel) and still fulfill the Fragger role by using aggressive positioning and gunplay. This highlights the adaptability of players within teams.
 
+Both **team roles** and **agent choices** are highly map-dependent. Maps with tight corners and choke points may encourage more defensive setups, while open maps might see teams focus on more aggressive agent compositions and role swaps. Teams adapt their strategies and agent picks to take advantage of the unique layout and dynamics of each map, demonstrating the importance of flexibility in both roles and agents.
+
 Ultimately, team compositions and roles are influenced by a combination of the agents available, the map being played, and the overall strategy. Players often switch roles to maximize team cohesion and effectiveness, showing that flexibility is key to success in competitive play.
 
 
