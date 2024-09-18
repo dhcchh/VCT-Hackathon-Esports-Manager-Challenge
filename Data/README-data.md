@@ -7,6 +7,8 @@ This folder contains data related to the 2024 season of the VALORANT Champions T
 - **VCT2024-International/**: Contains data for VCT International 2024.
 - **VCT2024-Challengers/**: Contains data for the 2024 VCT Challengers series.
 - **VCT2024-Game-Changers/**: Contains data for the 2024 VCT Game Changers series.
+- **Roles/**: Contains data about player roles and team compositions in VALORANT, including agent-specific roles and how these fit into team strategies.
+
 
 ## Tier Information 
 
