@@ -1,7 +1,7 @@
 # VCT International 2024 Data
 
 ## Overview
-This repository contains CSV files related to the VCT International 2024 season.
+This folder contains CSV files related to the VCT International 2024 season.
 
 ## CSV Files
 - **teams_vct_intl_2024.csv**: Contains details of all the teams participating in VCT International 2024.
