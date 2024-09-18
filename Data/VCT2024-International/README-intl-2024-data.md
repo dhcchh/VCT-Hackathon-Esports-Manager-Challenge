@@ -17,7 +17,7 @@ This folder contains CSV files related to the VCT International 2024 season.
 | `owner`           | Name of the organisation or owner           | String    |
 | `type`            | Type of the team. Partnered : Joined VCT-International through a partnership league, Ascended : Joined through VCT-Ascension, the final tournament in VCT Challengers| String    |
 | `first_season`    | Year when the team joined the international league         | Integer   |
-| `region`          | Geographic region where the team competes, AMER : Americas , APAC : Pacific, CN : China, EMEA : Eurpoe, Middle-East & Africa  | String |
+| `region`          | Geographic region where the team competes, AMER : Americas - North & South America , APAC : Asia Pacific, CN : China, EMEA : Eurpoe, Middle-East & Africa  | String |
 
 ### leagues_vct_intl_2024.csv
 
