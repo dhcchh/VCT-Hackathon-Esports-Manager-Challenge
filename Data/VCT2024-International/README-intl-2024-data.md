@@ -27,7 +27,7 @@ This folder contains CSV files related to the VCT International 2024 season.
 | `no_teams`       | Number of teams participating                   | String    |
 | `abbreviation`    | Location(s) where the tournaments were being held     | String    |
 | `start_date`           | First date of the tournament          | Datetime    |
-| `end_date`            |Last date of the tournament| String    |Datetime |
+| `end_date`            |Last date of the tournament| Datetime |
 | `prize_pool_usd`    | Total prize pool of the tournament        | Integer   |
 | `winner`          | Winner of the tournament, #1 placement overall | String|
 |`runner_up` | RUnner up of the tournament, #2 placement overall |String |
