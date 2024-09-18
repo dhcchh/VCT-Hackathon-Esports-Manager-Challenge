@@ -16,8 +16,6 @@
   - **game_changers (GC)**: Data for the VCT Game Changers 2024 series, focused on promoting diversity and inclusivity in competitive VALORANT.
   - **roles/**: Data on agent roles, player roles, and team compositions, outlining how different players fulfill their roles during matches.
 
-### Usage
-
 ### Attributions
 
 This project incorporates data from multiple sources, including:
