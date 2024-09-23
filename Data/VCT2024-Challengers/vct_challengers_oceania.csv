@@ -1,0 +1,78 @@
+country,ign,language_1,language_2,language_3,team_name_full,shorthand,standings,role,agent_1,agent_2,agent_3,maps,k,d,a,kd,kda,acs_per_map,k_per_map,d_per_map,a_per_map
+New Zealand,FETA,English,NaN,NaN,ARENA Internet Cafe,AIC,1,Entry,Jett,Raze,Neon,18,329,260,57,1.26,1.48,247,18.2,14.4,3.1
+Australia,Sinaway,English,NaN,NaN,ARENA Internet Cafe,AIC,1,Anchor,Killjoy,Cypher,Viper,18,311,249,68,1.24,1.52,233,17.2,13.8,3.7
+New Zealand,BiggieCheese,English,NaN,NaN,ARENA Internet Cafe,AIC,1,Smoker,KAY/O,Astra,Viper,18,238,268,132,0.88,1.38,187,13.2,14.8,7.3
+Australia,McKinley,English,NaN,NaN,ARENA Internet Cafe,AIC,1,Recon,Sova,Skye,NaN,18,230,243,122,0.94,1.44,183,12.7,13.5,6.7
+Australia,MILKY,English,NaN,NaN,ARENA Internet Cafe,AIC,1,Flash,Breach,Omen,Sage,18,214,247,155,0.86,1.49,166,11.8,13.7,8.6
+Australia,vizsla,English,NaN,NaN,FOCUSGG,FOC,1,Anchor,Killjoy,Viper,Cypher,19,301,286,76,1.05,1.31,219,15.8,15,4
+Australia,Bonobo,English,NaN,NaN,FOCUSGG,FOC,1,Entry,Raze,Jett,Neon,19,288,294,58,0.97,1.17,199,15.1,15.4,3
+New Zealand,MaiShiu,English,NaN,NaN,FOCUSGG,FOC,1,Recon,Fade,Sova,NaN,19,266,273,126,0.97,1.43,196,14,14.3,6.6
+Australia,Myth,English,NaN,NaN,FOCUSGG,FOC,1,Smoker,Omen,Brimstone,Sage,19,269,272,185,0.98,1.66,192,14.1,14.3,9.7
+Iran,Blessed,Persian,English,NaN,FOCUSGG,FOC,1,Flash,Viper,Gekko,KAY/O,19,255,286,156,0.89,1.43,184,13.4,15,8.2
+Australia,Zauqk,English,NaN,NaN,BOBO,BOBO,3,Recon,Sova,Breach,Fade,15,242,206,108,1.17,1.69,226,16.1,13.7,7.2
+Australia,Exirst,English,NaN,NaN,BOBO,BOBO,3,Entry,Jett,Raze,Iso,15,234,225,61,1.04,1.31,221,15.6,15,4
+Australia,Crunchy,English,NaN,NaN,BOBO,BOBO,3,Recon,KAY/O,Omen,Skye,15,237,209,141,1.13,1.8,213,15.8,13.9,9.4
+Australia,M1kE,English,NaN,NaN,BOBO,BOBO,3,Anchor,Killjoy,Cypher,Viper,15,221,210,79,1.05,1.42,203,14.7,14,5.2
+Australia,Nozz,English,NaN,NaN,BOBO,BOBO,3,Smoker,Omen,Viper,Fade,15,213,209,117,1.01,1.57,193,14.2,13.9,7.8
+Australia,songry,English,NaN,NaN,iPGN,iPGN,3,Anchor,Killjoy,Cypher,Brimstone,20,336,285,82,1.17,1.46,236,16.8,14.2,4.1
+Australia,lg1c,English,NaN,NaN,iPGN,iPGN,3,Entry,Raze,Jett,NaN,20,301,288,60,1.04,1.25,212,15,14.4,3
+Australia,phi,English,NaN,NaN,iPGN,iPGN,3,Flash,Breach,Gekko,KAY/O,18,254,262,148,0.96,1.53,192,14.1,14.5,8.2
+Australia,maine,English,NaN,NaN,iPGN,iPGN,3,Lurker,Omen,Viper,Yoru,20,263,298,142,0.88,1.35,192,13.1,14.9,7.1
+Australia,Hxsh,English,NaN,NaN,iPGN,iPGN,3,Anchor,Killjoy,Brimstone,NaN,2,19,28,8,0.67,0.96,164,9.5,14,4
+Australia,alu,English,NaN,NaN,iPGN,iPGN,3,Recon,Fade,Sova,Gekko,20,216,287,135,0.75,1.22,158,10.8,14.3,6.7
+United Kingdom,LEW,English,NaN,NaN,JiJieHao BONK,JJH,3,Entry,Jett,Raze,NaN,19,343,255,78,1.34,1.65,247,18,13.4,4.1
+Indonesia,dragoN,Indonesian,English,NaN,JiJieHao BONK,JJH,3,Smoker,Omen,Brimstone,Killjoy,19,328,261,121,1.25,1.72,225,17.2,13.7,6.3
+Australia,rDeeW,English,NaN,NaN,JiJieHao BONK,JJH,3,Anchor,Cypher,Viper,Killjoy,19,289,276,96,1.04,1.39,208,15.2,14.5,5
+New Zealand,signed,English,NaN,NaN,JiJieHao BONK,JJH,3,Recon,Sova,Viper,Gekko,19,281,244,115,1.15,1.62,195,14.7,12.8,6
+Australia,Minimise,English,NaN,NaN,JiJieHao BONK,JJH,3,Flash,KAY/O,Gekko,Breach,19,243,274,158,0.88,1.46,173,12.7,14.4,8.3
+Australia,kadiri,English,NaN,NaN,EDGE,EDGE,6,Entry,Cypher,Reyna,Phoenix,19,360,277,82,1.29,1.59,258,18.9,14.5,4.3
+Australia,Prophet,English,NaN,NaN,EDGE,EDGE,6,Entry,Jett,Raze,Reyna,13,217,201,45,1.07,1.3,233,16.6,15.4,3.4
+Australia,azoh,English,NaN,NaN,EDGE,EDGE,6,Recon,Sova,Gekko,Deadlock,19,258,268,146,0.96,1.5,198,13.5,14.1,7.6
+Pakistan,Strame,Urdu,English,NaN,EDGE,EDGE,6,Anchor,Cypher,Sova,Viper,6,84,81,23,1.03,1.32,180,14,13.5,3.8
+Australia,kaza,English,NaN,NaN,EDGE,EDGE,6,Recon,Sova,Skye,KAY/O,19,221,270,169,0.81,1.44,171,11.6,14.2,8.8
+Australia,Loubert,English,NaN,NaN,EDGE,EDGE,6,Lurker,Omen,Killjoy,Cypher,19,221,279,139,0.79,1.29,170,11.6,14.6,7.3
+Cyprus,ANDY,Greek,Turkish,English,JFT Esports,JFT,6,Flex,Iso,Jett,Deadlock,16,280,212,97,1.32,1.77,243,17.5,13.2,6
+Turkey,MURZA,Turkish,English,NaN,JFT Esports,JFT,6,Entry,Jett,Raze,Reyna,22,364,304,80,1.19,1.46,233,16.5,13.8,3.6
+Vietnam,IKANA,Vietnamese,English,NaN,JFT Esports,JFT,6,Recon,Sova,Fade,Skye,24,367,296,170,1.23,1.81,214,15.2,12.3,7
+United Arab Emirates,kiss,Arabic,English,NaN,JFT Esports,JFT,6,Smoker,Omen,Jett,Viper,22,316,310,157,1.01,1.52,207,14.3,14,7.1
+Philippines,RAMEN,Filipino,English,NaN,JFT Esports,JFT,6,Anchor,Killjoy,Cypher,Gekko,24,337,292,112,1.15,1.53,193,14,12.1,4.6
+Australia,zenox,English,NaN,NaN,Rub n' Pug,RNP,6,Flex,Raze,Killjoy,Yoru,14,247,230,65,1.07,1.35,247,17.6,16.4,4.6
+Australia,phequa,English,NaN,NaN,Rub n' Pug,RNP,6,Entry,Jett,Neon,Iso,14,242,226,45,1.07,1.26,224,17.2,16.1,3.2
+Australia,JAWSY,English,NaN,NaN,Rub n' Pug,RNP,6,Smoker,Omen,Astra,Viper,14,222,221,111,1,1.5,202,15.8,15.7,7.9
+Australia,AMNESTY,English,NaN,NaN,Rub n' Pug,RNP,6,Recon,Sova,Gekko,Deadlock,14,212,210,96,1,1.46,199,15.1,15,6.8
+Australia,exempt,English,NaN,NaN,Rub n' Pug,RNP,6,Recon,KAY/O,Gekko,Sova,14,177,205,152,0.86,1.6,177,12.6,14.6,10.8
+Croatia,Chax,Croatian,English,NaN,Koopa Troopas,KTS,9,Entry,Jett,Raze,Reyna,8,130,127,24,1.02,1.21,209,16.2,15.8,3
+Australia,Dasani,English,NaN,NaN,Koopa Troopas,KTS,9,Entry,Breach,Jett,Phoenix,8,120,129,40,0.93,1.24,207,15,16.1,5
+Australia,brock,English,NaN,NaN,Koopa Troopas,KTS,9,Recon,Sova,Fade,Skye,8,114,129,60,0.88,1.34,190,14.2,16.1,7.5
+Australia,Art,English,NaN,NaN,Koopa Troopas,KTS,9,Smoker,Omen,Viper,Brimstone,8,106,102,68,1.03,1.7,175,13.2,12.7,8.5
+New Zealand,Noir,English,NaN,NaN,Koopa Troopas,KTS,9,Anchor,Killjoy,Harbor,Cypher,8,107,131,55,0.81,1.23,172,13.3,16.3,6.8
+Australia,Kiseki,English,NaN,NaN,Peace & Love,PL,9,Entry,Neon,Reyna,NaN,12,232,199,47,1.16,1.4,229,19.3,16.5,3.9
+New Zealand,RESLYDE,English,NaN,NaN,Peace & Love,PL,9,Entry,Sova,Raze,Reyna,12,191,210,62,0.9,1.2,199,15.9,17.5,5.1
+Afghanistan,Esuh,Dari,Pashto,English,Peace & Love,PL,9,Flash,Killjoy,Skye,Gekko,5,65,72,37,0.9,1.41,199,13,14.4,7.4
+Australia,Lazy,English,NaN,NaN,Peace & Love,PL,9,Smoker,Omen,Viper,Brimstone,11,151,209,102,0.72,1.21,185,13.7,19,9.2
+Australia,WATER,English,NaN,NaN,Peace & Love,PL,9,Entry,Phoenix,Reyna,Jett,12,178,214,51,0.83,1.07,184,14.8,17.8,4.2
+Australia,NOVAE,English,NaN,NaN,Tiny Turtle Squad,TTS,9,Entry,Jett,Raze,NaN,11,218,157,43,1.38,1.66,272,19.8,14.2,3.9
+New Zealand,WisdomCats,English,NaN,NaN,Tiny Turtle Squad,TTS,9,Smoker,Omen,Viper,NaN,11,160,162,60,0.98,1.35,208,14.5,14.7,5.4
+Australia,BREW,English,NaN,NaN,Tiny Turtle Squad,TTS,9,Anchor,Killjoy,Chamber,Brimstone,11,126,160,47,0.78,1.08,168,11.4,14.5,4.2
+Australia,R3GEN,English,NaN,NaN,Tiny Turtle Squad,TTS,9,Recon,Sova,Gekko,Sage,11,123,165,65,0.74,1.13,165,11.1,15,5.9
+Australia,gon,English,NaN,NaN,Tiny Turtle Squad,TTS,9,Flash,Breach,Fade,KAY/O,11,126,169,84,0.74,1.24,160,11.4,15.3,7.6
+Australia,ACE,English,NaN,NaN,Bandits E-Sports Club,BNDT,12,Entry,Jett,Raze,Deadlock,5,122,76,15,1.6,1.8,334,24.4,15.2,3
+Australia,Shinon,English,NaN,NaN,Bandits E-Sports Club,BNDT,12,Smoker,Viper,Omen,NaN,7,115,96,37,1.19,1.58,230,16.4,13.7,5.2
+Australia,doleful,English,NaN,NaN,Bandits E-Sports Club,BNDT,12,Recon,Sova,Raze,Gekko,7,102,109,40,0.93,1.3,212,14.5,15.5,5.7
+New Zealand,Wiqzu,English,NaN,NaN,Bandits E-Sports Club,BNDT,12,Anchor,Cypher,Deadlock,Gekko,7,83,98,21,0.84,1.06,161,11.8,14,3
+Australia,Avi,English,NaN,NaN,Bandits E-Sports Club,BNDT,12,Flash,KAY/O,Breach,Brimstone,7,66,99,65,0.66,1.32,138,9.4,14.1,9.2
+International,AcZy,English,NaN,NaN,Wolf Pack,WP,12,Smoker,Clove,Reyna,Viper,4,63,74,19,0.85,1.1,221,15.7,18.5,4.7
+International,JiYn,English,NaN,NaN,Wolf Pack,WP,12,Anchor,Gekko,Deadlock,Killjoy,7,107,110,37,0.97,1.3,201,15.2,15.7,5.2
+Australia,rossi,English,NaN,NaN,Wolf Pack,WP,12,Entry,Raze,Jett,NaN,7,87,121,24,0.71,0.91,183,12.4,17.2,3.4
+Australia,sommboiii,English,NaN,NaN,Wolf Pack,WP,12,Lurker,Killjoy,Omen,Viper,7,90,106,24,0.84,1.07,171,12.8,15.1,3.4
+International,Kyun,English,NaN,NaN,Wolf Pack,WP,12,Recon,Sova,Skye,Omen,7,70,111,44,0.63,1.02,149,10,15.8,6.2
+International,DOWNTAIL,English,NaN,NaN,Xu Gang,XG,12,Entry,Raze,Jett,NaN,7,113,110,21,1.02,1.21,231,16.1,15.7,3
+Australia,Yuji,English,NaN,NaN,Xu Gang,XG,12,Anchor,Killjoy,Cypher,NaN,7,92,118,24,0.77,0.98,196,13.1,16.8,3.4
+International,spartabang,English,NaN,NaN,Xu Gang,XG,12,Flash,Breach,KAY/O,NaN,7,88,111,59,0.79,1.32,182,12.5,15.8,8.4
+International,Shinobu,English,NaN,NaN,Xu Gang,XG,12,Smoker,Omen,Viper,NaN,7,69,112,59,0.61,1.14,148,9.8,16,8.4
+South Korea,Dynasty,Korean,English,NaN,Xu Gang,XG,12,Recon,Sova,Deadlock,Fade,7,65,113,35,0.57,0.88,147,9.2,16.1,5
+United States,BAO,English,NaN,NaN,Corn Dawgs,CD,15,Flash,KAY/O,Gekko,NaN,2,40,32,15,1.25,1.71,261,20,16,7.5
+International,glaive,English,NaN,NaN,Corn Dawgs,CD,15,Entry,Raze,Jett,NaN,2,28,41,5,0.68,0.8,191,14,20.5,2.5
+International,Saitama,English,NaN,NaN,Corn Dawgs,CD,15,Smoker,Omen,NaN,NaN,2,25,30,17,0.83,1.4,159,12.5,15,8.5
+Australia,Zuper,English,NaN,NaN,Corn Dawgs,CD,15,Anchor,Cypher,Killjoy,NaN,2,25,32,9,0.78,1.06,154,12.5,16,4.5
+Australia,Don,English,NaN,NaN,Corn Dawgs,CD,15,Recon,Sova,Breach,NaN,2,21,32,18,0.65,1.21,147,10.5,16,9
