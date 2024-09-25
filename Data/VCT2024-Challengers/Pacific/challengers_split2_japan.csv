@@ -1,0 +1,42 @@
+country,ign,team_name_full,shorthand,standings,role,agent_1,agent_2,agent_3,maps,k,d,a,kd,kda,acs_per_map,k_per_map,d_per_map,a_per_map,language_1,language_2,language_3
+Japan,Yotaa,SCARZ,SZ,5,Entry,Raze,Jett,Viper,20,366,312,75,1.17,1.41,255,18.3,15.6,3.7,Japanese,NaN,NaN
+South Korea,Gwangboong,Sengoku Gaming,SG,3,Entry,Raze,Jett,Yoru,23,437,366,75,1.19,1.39,242,19,15.9,3.2,Japanese,Korean,NaN
+South Korea,Akame,REJECT,RC,7,Lurker,Raze,Astra,Killjoy,18,336,312,78,1.07,1.32,241,18.6,17.3,4.3,Japanese,Korean,NaN
+Japan,Absol,Murash gaming,MRSH,4,Entry,Raze,Phoenix,Jett,22,395,366,105,1.07,1.36,238,17.9,16.6,4.7,Japanese,NaN,NaN
+South Korea,Seoldam,Riddle,RID,1,Entry,Jett,Gekko,Yoru,22,415,326,89,1.27,1.54,235,18.8,14.8,4,Japanese,Korean,NaN
+South Korea,L0B,VARREL,VL,5,Recon,Sova,Gekko,Skye,20,356,275,134,1.29,1.78,229,17.8,13.7,6.7,Japanese,Korean,NaN
+Japan,SyouTa,FENNEL,FL,2,Entry,Raze,Jett,Viper,30,538,457,106,1.17,1.4,225,17.9,15.2,3.5,Japanese,NaN,NaN
+Japan,Xdll,FENNEL,FL,2,Recon,Sova,Fade,Sage,30,497,478,168,1.03,1.39,222,16.5,15.9,5.6,Japanese,NaN,NaN
+Japan,Caedye,Riddle,RID,1,Entry,Raze,Sova,Gekko,22,384,340,101,1.12,1.42,221,17.4,15.4,4.5,Japanese,NaN,NaN
+South Korea,kAyle,VARREL,VL,5,Entry,Raze,Cypher,Reyna,20,306,320,97,0.95,1.25,215,15.3,16,4.8,Japanese,Korean,NaN
+Japan,nobita,Sengoku Gaming,SG,3,Recon,Sova,Fade,Gekko,23,385,360,134,1.06,1.44,213,16.7,15.6,5.8,Japanese,NaN,NaN
+South Korea,Esperanza,Northeption,NTH,8,Flash,Skye,Cypher,Gekko,17,268,260,70,1.03,1.3,212,15.7,15.2,4.1,Japanese,Korean,NaN
+Japan,thiefy,Northeption,NTH,8,Flash,Raze,KAY/O,Breach,17,252,272,95,0.92,1.27,211,14.8,16,5.5,Japanese,NaN,NaN
+South Korea,JinboongE,Sengoku Gaming,SG,3,Anchor,Killjoy,Cypher,Viper,23,372,355,109,1.04,1.35,210,16.1,15.4,4.7,Japanese,Korean,NaN
+Philippines,Yoshiii,SCARZ,SZ,5,Anchor,Killjoy,Cypher,Viper,20,319,281,71,1.13,1.38,209,15.9,14,3.5,Japanese,Filipino,English
+Japan,Hals,REJECT,RC,7,Anchor,Cypher,Killjoy,Jett,18,284,274,96,1.03,1.38,209,15.7,15.2,5.3,Japanese,NaN,NaN
+Japan,Aace,Riddle,RID,1,Smoker,Viper,Omen,Brimstone,22,374,319,143,1.17,1.62,206,17,14.5,6.5,Japanese,NaN,NaN
+Japan,muto,REJECT,RC,7,Recon,Fade,Sova,Skye,18,279,264,168,1.05,1.69,201,15.5,14.6,9.3,Japanese,NaN,NaN
+Russia,Lumo,SCARZ,SZ,5,Flash,Breach,KAY/O,Skye,20,296,248,222,1.19,2.08,200,14.8,12.4,11.1,Japanese,Russian,NaN
+Japan,million,Murash gaming,MRSH,4,Flash,Sage,KAY/O,Breach,22,309,344,233,0.89,1.57,193,14,15.6,10.5,Japanese,NaN,NaN
+Japan,Reita,Murash gaming,MRSH,4,Anchor,Killjoy,Clove,Skye,22,313,378,106,0.82,1.1,193,14.2,17.1,4.8,Japanese,NaN,NaN
+Japan,zepher,VARREL,VL,5,Lurker,Killjoy,Cypher,Omen,20,283,303,81,0.93,1.2,192,14.1,15.1,4,Japanese,NaN,NaN
+South Korea,GangPin,REJECT,RC,7,Smoker,Viper,Omen,NaN,18,274,261,147,1.04,1.61,191,15.2,14.5,8.1,Japanese,Korean,NaN
+Japan,CLZ,FENNEL,FL,2,Flash,KAY/O,Breach,Gekko,30,440,434,264,1.01,1.62,191,14.6,14.4,8.8,Japanese,NaN,NaN
+South Korea,Wolverine,Northeption,NTH,8,Entry,Jett,Raze,Yoru,17,236,293,58,0.8,1,190,13.8,17.2,3.4,Japanese,Korean,NaN
+Japan,Tonbo,Murash gaming,MRSH,4,Recon,Sova,Gekko,Cypher,22,317,344,99,0.92,1.2,187,14.4,15.6,4.5,Japanese,NaN,NaN
+Japan,MrTenzouEz,SCARZ,SZ,5,Recon,Sova,Gekko,Sage,20,276,276,117,1,1.42,185,13.8,13.8,5.8,Japanese,NaN,NaN
+Japan,GON,FENNEL,FL,2,Smoker,Omen,Brimstone,Harbor,30,431,429,239,1,1.56,184,14.3,14.3,7.9,Japanese,NaN,NaN
+Australia,tixx,SCARZ,SZ,5,Smoker,Omen,Viper,Brimstone,20,266,279,195,0.95,1.65,183,13.3,13.9,9.7,Japanese,English,NaN
+Japan,xnfri,VARREL,VL,5,Entry,Raze,Deadlock,Sova,20,275,302,108,0.91,1.26,183,13.7,15.1,5.4,Japanese,NaN,NaN
+Japan,yatsuka,Riddle,RID,1,Lurker,Omen,Killjoy,Cypher,22,328,311,131,1.05,1.47,182,14.9,14.1,5.9,Japanese,NaN,NaN
+Japan,BRIAN,REJECT,RC,7,Lurker,Omen,Gekko,Yoru,18,245,275,123,0.89,1.33,180,13.6,15.2,6.8,Japanese,NaN,NaN
+South Korea,JoXJo,Riddle,RID,1,Flash,KAY/O,Skye,Breach,21,293,314,219,0.93,1.63,180,13.9,14.9,10.4,Japanese,Korean,NaN
+Japan,misaya,Sengoku Gaming,SG,3,Flash,KAY/O,Viper,Breach,23,308,359,206,0.85,1.43,175,13.3,15.6,8.9,Japanese,NaN,NaN
+Japan,TENNN,FENNEL,FL,2,Anchor,Cypher,Killjoy,Viper,30,426,464,100,0.91,1.13,175,14.2,15.4,3.3,Japanese,NaN,NaN
+Japan,BlackWiz,VARREL,VL,5,Smoker,Viper,Omen,Deadlock,20,256,323,130,0.79,1.19,171,12.8,16.1,6.5,Japanese,NaN,NaN
+Japan,Biju,Murash gaming,MRSH,4,Smoker,Omen,Brimstone,Viper,22,287,348,159,0.82,1.28,171,13,15.8,7.2,Japanese,NaN,NaN
+Japan,Tempura,Northeption,NTH,8,Lurker,Viper,Omen,Cypher,17,208,279,85,0.74,1.05,169,12.2,16.4,5,Japanese,NaN,NaN
+Japan,gatorada,Sengoku Gaming,SG,3,Smoker,Omen,Brimstone,Viper,23,268,353,251,0.75,1.47,160,11.6,15.3,10.9,Japanese,NaN,NaN
+Japan,Pepper,Northeption,NTH,8,Flash,Sova,Breach,Gekko,8,93,125,29,0.74,0.97,157,11.6,15.6,3.6,Japanese,NaN,NaN
+Japan,HaReeee,Northeption,NTH,8,Lurker,Omen,Killjoy,NaN,9,116,140,42,0.82,1.12,156,12.8,15.5,4.6,Japanese,NaN,NaN

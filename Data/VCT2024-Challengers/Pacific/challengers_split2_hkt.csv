@@ -1,0 +1,48 @@
+country,ign,team_name_full,shorthand,standings,role,agent_1,agent_2,agent_3,maps,k,d,a,kd,kda,acs_per_map,k_per_map,d_per_map,a_per_map,language_1,language_2,language_3
+Taiwan,SpiritZ,Five Ace e-Sports,FA,4,Entry,Jett,Raze,Iso,24,488,406,86,1.2,1.41,276,20.3,16.9,3.5,Mandarin,NaN,NaN
+Taiwan,XyuS,ONE Team,ONE,2,Entry,Raze,Jett,Neon,27,529,383,99,1.38,1.63,259,19.5,14.1,3.6,Mandarin,NaN,NaN
+Taiwan,Nasty,PAPA Esports,PAPA,5,Entry,Jett,Raze,Cypher,20,373,308,63,1.21,1.41,255,18.6,15.4,3.1,Mandarin,NaN,NaN
+Hong Kong,GGHuiii,Oblivion Force,OF,1,Flex,Chamber,NaN,NaN,1,32,22,7,1.45,1.77,255,32,22,7,Mandarin,Cantonese,English
+Hong Kong,riyabtw,Oblivion Force,OF,1,Entry,Raze,Jett,NaN,29,526,412,95,1.27,1.5,245,18.1,14.2,3.2,Mandarin,Cantonese,English
+Taiwan,S1Mon,PAPA Esports,PAPA,5,Smoker,Omen,Iso,Jett,13,234,184,90,1.27,1.76,244,18,14.1,6.9,Mandarin,NaN,NaN
+Hong Kong,Uta,Oblivion Force,OF,1,Lurker,Jett,Cypher,Omen,29,519,377,144,1.37,1.75,240,17.8,13,4.9,Mandarin,Cantonese,English
+Mongolia,123,Team Kobolds,KBLD,3,Entry,Jett,Raze,Neon,29,526,508,102,1.03,1.23,230,18.1,17.5,3.5,Mandarin,Khalkha Mongol,NaN
+Taiwan,Tsanyu,Hungkuang Falcon,HKUF,7,Entry,Jett,Raze,NaN,15,267,255,55,1.04,1.26,229,17.8,17,3.6,Mandarin,NaN,NaN
+Hong Kong,coconut,Oblivion Force,OF,1,Anchor,Cypher,Gekko,Viper,29,476,386,165,1.23,1.66,219,16.4,13.3,5.6,Mandarin,Cantonese,English
+International,Youjun,Da Feng Gou,DFG,8,Recon,Sova,Fade,Breach,16,248,253,108,0.98,1.4,217,15.5,15.8,6.7,Mandarin,English,NaN
+Taiwan,Zhannn,ROA,ROA,5,Smoker,Astra,Viper,Omen,18,307,270,132,1.13,1.62,216,17,15,7.3,Mandarin,NaN,NaN
+Hong Kong,Kiuuuu,Oblivion Force,OF,1,Smoker,Omen,Viper,NaN,28,450,374,198,1.2,1.73,214,16,13.3,7,Mandarin,Cantonese,English
+Mongolia,Answerz,Team Kobolds,KBLD,3,Anchor,Killjoy,Cypher,Viper,29,483,469,130,1.02,1.3,213,16.6,16.1,4.4,Mandarin,Khalkha Mongol,NaN
+Taiwan,YanLi,ONE Team,ONE,2,Flash,KAY/O,Viper,Breach,27,430,375,234,1.14,1.77,212,15.9,13.8,8.6,Mandarin,NaN,NaN
+International,Youze,Da Feng Gou,DFG,8,Entry,Raze,Jett,KAY/O,16,247,255,93,0.96,1.33,207,15.4,15.9,5.8,Mandarin,English,NaN
+Taiwan,Unhappy,Hungkuang Falcon,HKUF,7,Anchor,Killjoy,Cypher,Deadlock,15,246,224,39,1.09,1.27,206,16.4,14.9,2.6,Mandarin,NaN,NaN
+Taiwan,W1nner,ONE Team,ONE,2,Anchor,Killjoy,Cypher,Sova,27,428,395,118,1.08,1.38,205,15.8,14.6,4.3,Mandarin,NaN,NaN
+Taiwan,XiaoFeng,ROA,ROA,5,Entry,Raze,Jett,Clove,18,263,331,83,0.79,1.04,204,14.6,18.3,4.6,Mandarin,NaN,NaN
+Mongolia,nex1,Team Kobolds,KBLD,3,Smoker,Omen,KAY/O,Brimstone,29,472,447,265,1.05,1.64,204,16.2,15.4,9.1,Mandarin,Khalkha Mongol,NaN
+International,Selin,Da Feng Gou,DFG,8,Anchor,Killjoy,Jett,KAY/O,14,204,225,76,0.9,1.24,200,14.5,16,5.4,Mandarin,English,NaN
+Taiwan,Awei,ROA,ROA,5,Anchor,Cypher,Phoenix,Killjoy,17,261,279,84,0.93,1.23,199,15.3,16.4,4.9,Mandarin,NaN,NaN
+Taiwan,yZkA1,ROA,ROA,5,Smoker,Omen,Reyna,Brimstone,18,278,321,103,0.86,1.18,197,15.4,17.8,5.7,Mandarin,NaN,NaN
+Taiwan,N11,PAPA Esports,PAPA,5,Recon,KAY/O,Sova,Gekko,22,307,324,155,0.94,1.42,196,13.9,14.7,7,Mandarin,NaN,NaN
+Taiwan,Ethan1,PAPA Esports,PAPA,5,Anchor,Killjoy,Cypher,Reyna,22,297,321,79,0.92,1.17,194,13.5,14.5,3.5,Mandarin,NaN,NaN
+Taiwan,Dizzy,Hungkuang Falcon,HKUF,7,Smoker,Omen,Gekko,Sova,15,217,247,101,0.87,1.28,193,14.4,16.4,6.7,Mandarin,NaN,NaN
+Taiwan,GunterR,Hungkuang Falcon,HKUF,7,Smoker,Viper,Omen,Skye,15,225,245,114,0.91,1.38,193,15,16.3,7.6,Mandarin,NaN,NaN
+Taiwan,rAb1q,Five Ace e-Sports,FA,4,Recon,Sova,Omen,Breach,24,322,355,165,0.9,1.37,190,13.4,14.7,6.8,Mandarin,NaN,NaN
+Taiwan,Cangshu,Five Ace e-Sports,FA,4,Recon,Neon,KAY/O,Skye,12,159,195,87,0.81,1.26,186,13.2,16.2,7.2,Mandarin,NaN,NaN
+Taiwan,ngk,ONE Team,ONE,2,Lurker,Omen,Iso,Yoru,10,154,154,70,1,1.45,186,15.4,15.4,7,Mandarin,NaN,NaN
+Taiwan,B1ngXun,Five Ace e-Sports,FA,4,Anchor,Killjoy,Cypher,Viper,24,324,348,99,0.93,1.21,185,13.5,14.5,4.1,Mandarin,NaN,NaN
+Mongolia,Orgil,Team Kobolds,KBLD,3,Flash,Breach,KAY/O,Sova,29,407,490,225,0.83,1.28,185,14,16.8,7.7,Mandarin,Khalkha Mongol,NaN
+International,Bubble,Da Feng Gou,DFG,8,Entry,Jett,NaN,NaN,2,26,34,4,0.76,0.88,182,13,17,2,Mandarin,English,NaN
+Taiwan,ShuXz,PAPA Esports,PAPA,5,Entry,Reyna,Omen,Raze,11,140,168,65,0.83,1.22,181,12.7,15.2,5.9,Mandarin,NaN,NaN
+Taiwan,Yoyoman,Hungkuang Falcon,HKUF,7,Flash,Gekko,Fade,Raze,15,212,241,106,0.87,1.31,180,14.1,16,7,Mandarin,NaN,NaN
+Taiwan,Rainy,ONE Team,ONE,2,Recon,Fade,Omen,Gekko,27,367,352,213,1.04,1.64,178,13.5,13,7.8,Mandarin,NaN,NaN
+Taiwan,KiN0,ONE Team,ONE,2,Smoker,Brimstone,Viper,NaN,4,59,64,27,0.92,1.34,177,14.7,16,6.7,Mandarin,NaN,NaN
+Taiwan,SecreT3,ONE Team,ONE,2,Smoker,Omen,Sova,NaN,13,165,183,64,0.9,1.25,176,12.6,14,4.9,Mandarin,NaN,NaN
+Taiwan,Weber,Five Ace e-Sports,FA,4,Recon,Sova,Fade,KAY/O,12,150,180,90,0.83,1.33,173,12.5,15,7.5,Mandarin,NaN,NaN
+Taiwan,SFVV,ROA,ROA,5,Flash,Breach,NaN,NaN,1,12,14,11,0.85,1.64,170,12,14,11,Mandarin,NaN,NaN
+Hong Kong,CHIMEI,Oblivion Force,OF,1,Recon,Skye,KAY/O,Fade,29,339,389,290,0.87,1.61,168,11.6,13.4,10,Mandarin,Cantonese,English
+Taiwan,Popoman4Q,PAPA Esports,PAPA,5,Smoker,Sova,Viper,Omen,22,255,299,167,0.85,1.41,166,11.5,13.5,7.5,Mandarin,NaN,NaN
+Taiwan,roud,Five Ace e-Sports,FA,4,Lurker,Omen,Viper,Chamber,24,290,370,191,0.78,1.3,165,12,15.4,7.9,Mandarin,NaN,NaN
+Mongolia,BE,Team Kobolds,KBLD,3,Recon,Skye,Omen,Sova,29,385,462,191,0.83,1.24,163,13.2,15.9,6.5,Mandarin,Khalkha Mongol,NaN
+Taiwan,QueYa,ROA,ROA,5,Flash,Gekko,Sova,Skye,18,220,308,123,0.71,1.11,163,12.2,17.1,6.8,Mandarin,NaN,NaN
+International,Sheny9,Da Feng Gou,DFG,8,Anchor,Killjoy,Viper,Cypher,16,197,259,66,0.76,1.01,163,12.3,16.1,4.1,Mandarin,English,NaN
+International,Boyi,Da Feng Gou,DFG,8,Smoker,Omen,Viper,Brimstone,16,194,258,135,0.75,1.27,161,12.1,16.1,8.4,Mandarin,English,NaN

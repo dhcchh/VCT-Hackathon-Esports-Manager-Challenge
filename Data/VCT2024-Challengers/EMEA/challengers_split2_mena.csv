@@ -1,0 +1,21 @@
+country,ign,team_name_full,shorthand,standings,role,agent_1,agent_2,agent_3,maps,k,d,a,kd,kda,acs_per_map,k_per_map,d_per_map,a_per_map,language_1,language_2,language_3
+Belarus,SimonD4rk,R8 Esports,R8,2,Flex,Raze,Yoru,Reyna,15,275,223,80,1.23,1.59,253,18.3,14.8,5.3,Russian,Belarusian,NaN
+United Arab Emirates,Akai,Team Falcons,FLC,1,Entry,Raze,Neon,Jett,10,178,169,28,1.05,1.21,230,17.8,16.9,2.8,Arabic,NaN,NaN
+Egypt,avez,NASR Esports,NASR,3,Anchor,Cypher,Killjoy,Viper,10,176,151,39,1.16,1.42,227,17.6,15.1,3.9,Arabic,NaN,NaN
+United Arab Emirates,vAgue,United Gaming,UNT,4,Entry,Jett,Raze,NaN,5,87,85,13,1.02,1.17,223,17.4,17,2.6,Arabic,NaN,NaN
+Kuwait,SnipKw,United Gaming,UNT,4,Smoker,Omen,Harbor,NaN,5,83,83,43,1,1.51,216,16.6,16.6,8.6,Arabic,NaN,NaN
+Russia,sickrey,R8 Esports,R8,2,Recon,Sova,Skye,Gekko,15,245,186,116,1.31,1.94,214,16.3,12.4,7.7,Russian,NaN,NaN
+Saudi Arabia,Moh,Team Falcons,FLC,1,Lurker,Omen,Chamber,NaN,10,170,149,53,1.14,1.49,212,17,14.9,5.3,Arabic,NaN,NaN
+Russia,sibeastw0w,NASR Esports,NASR,3,Entry,Jett,Neon,Raze,10,137,164,49,0.83,1.13,191,13.7,16.4,4.9,Russian,NaN,NaN
+Egypt,sand,Team Falcons,FLC,1,Anchor,Cypher,Viper,Harbor,10,156,136,41,1.14,1.44,190,15.6,13.6,4.1,Arabic,NaN,NaN
+Russia,moner,R8 Esports,R8,2,Anchor,Killjoy,Cypher,Chamber,15,213,206,55,1.03,1.3,190,14.2,13.7,3.6,Russian,NaN,NaN
+Belarus,7ssk7,NASR Esports,NASR,3,Flash,Breach,Phoenix,Skye,10,140,150,100,0.93,1.6,190,14,15,10,Russian,Belarusian,NaN
+Saudi Arabia,Kuro,United Gaming,UNT,4,Anchor,Cypher,Killjoy,NaN,5,71,88,27,0.8,1.11,187,14.2,17.6,5.4,Arabic,NaN,NaN
+Belarus,Winteryrook,R8 Esports,R8,2,Anchor,Astra,Sage,Deadlock,15,205,226,106,0.9,1.37,183,13.6,15,7,Russian,Belarusian,NaN
+Russia,Bgg,R8 Esports,R8,2,Smoker,Omen,Astra,Viper,15,202,198,89,1.02,1.46,180,13.4,13.2,5.9,Russian,NaN,NaN
+Lithuania,vakk,NASR Esports,NASR,3,Recon,Sova,Gekko,Cypher,10,131,147,56,0.89,1.27,170,13.1,14.7,5.6,Lithuanian,NaN,NaN
+Kuwait,Near,United Gaming,UNT,4,Recon,Fade,Sova,Viper,5,68,72,27,0.94,1.31,169,13.6,14.4,5.4,Arabic,NaN,NaN
+Russia,xenon,NASR Esports,NASR,3,Smoker,Omen,Brimstone,Astra,10,127,154,81,0.82,1.35,168,12.7,15.4,8.1,Russian,NaN,NaN
+Saudi Arabia,KHaaLiD,Team Falcons,FLC,1,Recon,Sova,Omen,Breach,10,126,150,53,0.84,1.19,167,12.6,15,5.3,Arabic,NaN,NaN
+Lebanon,SpY,Team Falcons,FLC,1,Flash,Gekko,Iso,KAY/O,10,121,153,61,0.79,1.18,165,12.1,15.3,6.1,Arabic,NaN,NaN
+Kuwait,xelouz,United Gaming,UNT,4,Flash,Breach,Sova,NaN,5,58,82,27,0.7,1.03,141,11.6,16.4,5.4,Arabic,NaN,NaN

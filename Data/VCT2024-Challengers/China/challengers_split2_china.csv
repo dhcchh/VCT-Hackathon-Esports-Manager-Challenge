@@ -1,0 +1,83 @@
+country,ign,team_name_full,shorthand,standings,role,agent_1,agent_2,agent_3,maps,k,d,a,kd,kda,acs_per_map,k_per_map,d_per_map,a_per_map,language_1,language_2,language_3
+Russia,Kr1stal,XLG Esports,XLG,1,Recon,Sova,Raze,Fade,5,103,71,42,1.45,2.04,282,20.6,14.2,8.4,Mandarin,Russian,NaN
+Australia,Maple,Chosen Clique Gaming,CCG,3,Recon,KAY/O,Fade,Breach,5,103,73,57,1.41,2.19,277,20.6,14.6,11.4,Mandarin,English,NaN
+China,SuNuo,LanTu Gaming,LTG,13,Smoker,Omen,Brimstone,NaN,3,57,41,16,1.39,1.78,277,19,13.6,5.3,Mandarin,NaN,NaN
+China,cxy0714,Kulin Esports,KE,3,Entry,Jett,Raze,Reyna,7,126,95,24,1.32,1.57,273,18,13.5,3.4,Mandarin,NaN,NaN
+China,Ch1ka,LaoTouLe,LTL,13,Flex,Reyna,Chamber,NaN,2,48,41,13,1.17,1.48,272,24,20.5,6.5,Mandarin,NaN,NaN
+South Korea,Sylvan,Octagonal Disposition Gaming,ODG,9,Smoker,Omen,NaN,NaN,4,93,59,45,1.57,2.33,267,23.2,14.7,11.2,Mandarin,Korean,NaN
+China,Cartie,Ambitious Legend Gaming,ALG,5,Entry,Raze,Jett,NaN,8,152,123,25,1.23,1.43,264,19,15.3,3.1,Mandarin,NaN,NaN
+South Korea,UdoTan,Rare Atom,RA,5,Entry,Raze,Jett,NaN,5,93,78,19,1.19,1.43,259,18.6,15.6,3.8,Mandarin,Korean,NaN
+Russia,Anoxai,KeepBest Gaming,KBG,2,Entry,Jett,Raze,Neon,7,120,100,33,1.2,1.53,255,17.1,14.2,4.7,Mandarin,Russian,NaN
+China,Strawberrycc,Octagonal Disposition Gaming,ODG,9,Entry,Raze,Jett,NaN,4,77,78,21,0.98,1.25,246,19.2,19.5,5.2,Mandarin,NaN,NaN
+China,Core,Xtreme Gaming,XG,9,Anchor,Killjoy,Cypher,NaN,4,83,68,8,1.22,1.33,246,20.7,17,2,Mandarin,NaN,NaN
+Russia,rarga,XLG Esports,XLG,1,Entry,Neon,Iso,Raze,5,91,77,29,1.18,1.55,240,18.2,15.4,5.8,Mandarin,Russian,NaN
+Taiwan,Green,Chosen Clique Gaming,CCG,3,Lurker,Sova,Yoru,Viper,5,100,76,32,1.31,1.73,239,20,15.2,6.4,Mandarin,NaN,NaN
+China,Jamppi,LaoTouLe,LTL,13,Smoker,Harbor,Breach,NaN,2,45,32,12,1.4,1.78,238,22.5,16,6,Mandarin,NaN,NaN
+China,5CM,Xtreme Gaming,XG,9,Entry,Neon,NaN,NaN,4,73,73,23,1,1.31,237,18.2,18.2,5.7,Mandarin,NaN,NaN
+China,K1ra,Qing Jiu Club,Q9,5,Anchor,Cypher,Killjoy,Viper,5,91,64,15,1.42,1.65,233,18.2,12.8,3,Mandarin,NaN,NaN
+Kazakhstan,dimasick,KeepBest Gaming,KBG,2,Smoker,Omen,Harbor,Sova,7,121,87,54,1.39,2.01,230,17.2,12.4,7.7,Mandarin,Kazakh,Russian
+China,Click,Kulin Esports,KE,3,Anchor,Killjoy,Clove,KAY/O,7,115,88,33,1.3,1.68,230,16.4,12.5,4.7,Mandarin,NaN,NaN
+China,slowly,ZY Gaming,ZYG,5,Smoker,Omen,NaN,NaN,5,90,74,41,1.21,1.77,230,18,14.8,8.2,Mandarin,NaN,NaN
+Hong Kong,YoU,ZY Gaming,ZYG,5,Recon,Sova,Fade,Skye,5,89,125,45,0.71,1.07,229,17.8,25,9,Mandarin,Cantonese,English
+China,M1ng,1one,ONE,9,Smoker,Brimstone,Omen,NaN,4,63,61,33,1.03,1.57,225,15.7,15.2,8.2,Mandarin,NaN,NaN
+China,Suyjing,KeepBest Gaming,KBG,2,Anchor,Cypher,Killjoy,Gekko,7,122,89,33,1.37,1.74,224,17.4,12.7,4.7,Mandarin,NaN,NaN
+Taiwan,happywe1,XLG Esports,XLG,1,Anchor,Cypher,Viper,NaN,5,90,66,30,1.36,1.81,222,18,13.2,6,Mandarin,NaN,NaN
+China,LuSe4y,LanTu Gaming,LTG,13,Flash,Breach,Gekko,NaN,3,42,43,15,0.97,1.32,222,14,14.3,5,Mandarin,NaN,NaN
+Taiwan,XII,Tpx,TPX,13,Entry,Jett,Neon,Raze,3,47,49,13,0.95,1.22,221,15.6,16.3,4.3,Mandarin,NaN,NaN
+China,TianQiZhiZi,LaoTouLe,LTL,13,Recon,Skye,Viper,NaN,2,42,33,10,1.27,1.57,218,21,16.5,5,Mandarin,NaN,NaN
+China,WuDiXiaoXueSheng,1one,ONE,9,Lurker,Yoru,Killjoy,KAY/O,4,66,65,25,1.01,1.4,214,16.5,16.2,6.2,Mandarin,NaN,NaN
+China,yll,I May,IMAY,13,Flex,Reyna,Iso,NaN,2,27,30,10,0.9,1.23,211,13.5,15,5,Mandarin,NaN,NaN
+China,babyblue,ZY Gaming,ZYG,5,Flex,Yoru,Neon,NaN,5,82,82,31,1,1.37,209,16.4,16.4,6.2,Mandarin,NaN,NaN
+China,k1te,Kulin Esports,KE,3,Recon,Sova,Cypher,Skye,7,98,78,37,1.25,1.73,209,14,11.1,5.2,Mandarin,NaN,NaN
+China,izyy,KeepBest Gaming,KBG,2,Smoker,Viper,Astra,NaN,7,98,99,41,0.98,1.4,208,14,14.1,5.8,Mandarin,NaN,NaN
+China,huNter,Ambitious Legend Gaming,ALG,5,Smoker,Omen,Astra,NaN,8,122,111,68,1.09,1.71,208,15.2,13.8,8.5,Mandarin,NaN,NaN
+China,WudiYuChEn,Qing Jiu Club,Q9,5,Flash,KAY/O,Breach,NaN,5,73,85,56,0.85,1.51,207,14.6,17,11.2,Mandarin,NaN,NaN
+Taiwan,HanChe,Tpx,TPX,13,Anchor,Killjoy,Viper,Cypher,3,45,49,15,0.91,1.22,207,15,16.3,5,Mandarin,NaN,NaN
+China,DK,Tpx,TPX,13,Recon,KAY/O,Fade,NaN,3,46,46,24,1,1.52,205,15.3,15.3,8,Mandarin,NaN,NaN
+China,Snow,Rare Atom,RA,5,Smoker,Viper,Omen,NaN,5,71,72,33,0.98,1.44,203,14.2,14.4,6.6,Mandarin,NaN,NaN
+China,x3b,Qing Jiu Club,Q9,5,Flash,Gekko,NaN,NaN,5,76,72,27,1.05,1.43,198,15.2,14.4,5.4,Mandarin,NaN,NaN
+China,Main,Ambitious Legend Gaming,ALG,5,Anchor,Killjoy,Cypher,NaN,8,123,126,16,0.97,1.1,197,15.3,15.7,2,Mandarin,NaN,NaN
+South Korea,WIX,Octagonal Disposition Gaming,ODG,9,Anchor,Killjoy,Cypher,NaN,4,66,77,24,0.85,1.16,197,16.5,19.2,6,Mandarin,Korean,NaN
+China,ZiXuan,Chosen Clique Gaming,CCG,3,Smoker,Omen,NaN,NaN,1,17,18,13,0.94,1.66,196,17,18,13,Mandarin,NaN,NaN
+Portugal,KaweNtw,Chosen Clique Gaming,CCG,3,Anchor,Cypher,Deadlock,Killjoy,5,83,70,31,1.18,1.62,194,16.6,14,6.2,Mandarin,Portuguese,Mirandese
+China,Exile,Rare Atom,RA,5,Smoker,Omen,Sova,Gekko,5,67,67,46,1,1.68,194,13.4,13.4,9.2,Mandarin,NaN,NaN
+Taiwan,yCw,Octagonal Disposition Gaming,ODG,9,Smoker,Viper,Sova,NaN,4,65,68,30,0.95,1.39,194,16.2,17,7.5,Mandarin,NaN,NaN
+Vietnam,Mihlog,Rare Atom,RA,5,Recon,KAY/O,Skye,Omen,5,74,69,39,1.07,1.63,193,14.8,13.8,7.8,Mandarin,Vietnamese,NaN
+China,DELETE,Qing Jiu Club,Q9,5,Lurker,Omen,Killjoy,NaN,5,78,73,25,1.06,1.41,192,15.6,14.6,5,Mandarin,NaN,NaN
+China,player,Qing Jiu Club,Q9,5,Entry,Raze,Jett,NaN,5,69,85,19,0.81,1.03,192,13.8,17,3.8,Mandarin,NaN,NaN
+Hong Kong,star,ZY Gaming,ZYG,5,Anchor,Cypher,NaN,NaN,1,17,17,5,1,1.29,191,17,17,5,Mandarin,Cantonese,English
+China,MarT1n,XLG Esports,XLG,1,Smoker,Omen,Brimstone,NaN,5,78,66,45,1.18,1.86,191,15.6,13.2,9,Mandarin,NaN,NaN
+China,Tapp,I May,IMAY,13,Smoker,Brimstone,Viper,NaN,2,24,30,6,0.8,1,188,12,15,3,Mandarin,NaN,NaN
+China,Zoomer,Chosen Clique Gaming,CCG,3,Entry,Jett,Raze,NaN,5,75,85,15,0.88,1.05,188,15,17,3,Mandarin,NaN,NaN
+China,9st,Kulin Esports,KE,3,Recon,KAY/O,Skye,Viper,7,82,102,61,0.8,1.4,187,11.7,14.5,8.7,Mandarin,NaN,NaN
+China,yeoj,Kulin Esports,KE,3,Smoker,Omen,Brimstone,NaN,7,81,88,82,0.92,1.85,184,11.5,12.5,11.7,Mandarin,NaN,NaN
+China,Yueluo,Rare Atom,RA,5,Anchor,Cypher,Killjoy,NaN,5,67,75,16,0.89,1.1,182,13.4,15,3.2,Mandarin,NaN,NaN
+China,Amanoh,LaoTouLe,LTL,13,Entry,Raze,Omen,NaN,2,31,40,9,0.77,1,181,15.5,20,4.5,Mandarin,NaN,NaN
+China,Lucky,1one,ONE,9,Entry,Raze,Jett,NaN,4,52,66,8,0.78,0.9,181,13,16.5,2,Mandarin,NaN,NaN
+China,Volay,Ambitious Legend Gaming,ALG,5,Recon,Sova,Skye,Gekko,8,105,112,46,0.93,1.34,180,13.1,14,5.7,Mandarin,NaN,NaN
+China,Link,Ambitious Legend Gaming,ALG,5,Flash,Breach,Omen,KAY/O,8,103,113,88,0.91,1.69,180,12.8,14.1,11,Mandarin,NaN,NaN
+China,maizi,ZY Gaming,ZYG,5,Anchor,Killjoy,Viper,Cypher,4,54,62,21,0.87,1.2,179,13.5,15.5,5.2,Mandarin,NaN,NaN
+China,WeiYu,ZFGaming,ZFG,9,Smoker,Brimstone,Viper,Omen,3,41,48,26,0.85,1.39,179,13.6,16,8.6,Mandarin,NaN,NaN
+China,QnxD,Tpx,TPX,13,Anchor,Killjoy,Sova,Gekko,3,40,53,17,0.75,1.07,178,13.3,17.6,5.6,Mandarin,NaN,NaN
+Macau,FFs,ZY Gaming,ZYG,5,Flash,Gekko,Viper,Sova,5,67,84,30,0.79,1.15,177,13.4,16.8,6,Country not mapped,Country not mapped,Country not mapped
+Hong Kong,Ace,KeepBest Gaming,KBG,2,Flash,Skye,Gekko,KAY/O,7,89,82,65,1.08,1.87,176,12.7,11.7,9.2,Mandarin,Cantonese,English
+China,one1,ZFGaming,ZFG,9,Flash,Skye,Gekko,NaN,3,42,47,13,0.89,1.17,176,14,15.6,4.3,Mandarin,NaN,NaN
+China,PPQueen,ZFGaming,ZFG,9,Anchor,Cypher,NaN,NaN,3,44,45,6,0.97,1.11,174,14.6,15,2,Mandarin,NaN,NaN
+China,YaoBaiKe,ZFGaming,ZFG,9,Entry,Jett,Omen,NaN,3,42,49,12,0.85,1.1,172,14,16.3,4,Mandarin,NaN,NaN
+China,FishQAQ,LanTu Gaming,LTG,13,Recon,Sova,Skye,Fade,3,30,47,14,0.63,0.93,168,10,15.6,4.6,Mandarin,NaN,NaN
+China,BaiLanDi,I May,IMAY,13,Anchor,Cypher,NaN,NaN,2,19,34,5,0.55,0.7,167,9.5,17,2.5,Mandarin,NaN,NaN
+China,shame,I May,IMAY,13,Recon,Skye,Sova,NaN,2,21,30,9,0.7,1,166,10.5,15,4.5,Mandarin,NaN,NaN
+Taiwan,MrCANI,XLG Esports,XLG,1,Flash,Breach,Skye,Gekko,5,54,62,56,0.87,1.77,163,10.8,12.4,11.2,Mandarin,NaN,NaN
+China,Coco,Chosen Clique Gaming,CCG,3,Smoker,Omen,NaN,NaN,3,38,40,27,0.95,1.62,158,12.6,13.3,9,Mandarin,NaN,NaN
+China,Faraway,ZFGaming,ZFG,9,Entry,Raze,NaN,NaN,3,33,60,2,0.55,0.58,158,11,20,0.6,Mandarin,NaN,NaN
+China,Deep9,Chosen Clique Gaming,CCG,3,Smoker,Omen,NaN,NaN,1,13,19,9,0.68,1.15,155,13,19,9,Mandarin,NaN,NaN
+China,JuSangBaBaRen,1one,ONE,9,Anchor,Cypher,Breach,NaN,4,46,65,19,0.7,1,153,11.5,16.2,4.7,Mandarin,NaN,NaN
+China,DC,Tpx,TPX,13,Smoker,Omen,Viper,NaN,3,33,50,31,0.66,1.28,151,11,16.6,10.3,Mandarin,NaN,NaN
+China,waituu,Xtreme Gaming,XG,9,Flash,Gekko,Breach,NaN,4,47,69,28,0.68,1.08,145,11.7,17.2,7,Mandarin,NaN,NaN
+China,XiaoBao,1one,ONE,9,Flash,Gekko,Raze,Sova,4,36,66,27,0.54,0.95,145,9,16.5,6.7,Mandarin,NaN,NaN
+China,S1n,Xtreme Gaming,XG,9,Smoker,Sova,Brimstone,Omen,4,40,69,35,0.57,1.08,144,10,17.2,8.7,Mandarin,NaN,NaN
+China,Cykk,LanTu Gaming,LTG,13,Entry,Raze,NaN,NaN,3,26,51,7,0.5,0.64,142,8.6,17,2.3,Mandarin,NaN,NaN
+China,YU,I May,IMAY,13,Entry,Raze,Jett,NaN,2,16,32,4,0.5,0.62,136,8,16,2,Mandarin,NaN,NaN
+China,Jerry,LanTu Gaming,LTG,13,Anchor,Cypher,NaN,NaN,3,29,48,8,0.6,0.77,135,9.6,16,2.6,Mandarin,NaN,NaN
+China,2cy,Octagonal Disposition Gaming,ODG,9,Recon,Skye,KAY/O,NaN,4,42,75,36,0.56,1.04,117,10.5,18.7,9,Mandarin,NaN,NaN
+China,ropz,Lao Tou Le,LTL,13,Smoker,Brimstone,Fade,NaN,2,17,35,15,0.48,0.91,101,8.5,17.5,7.5,Mandarin,NaN,NaN

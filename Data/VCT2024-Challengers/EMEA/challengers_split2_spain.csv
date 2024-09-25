@@ -1,0 +1,49 @@
+country,ign,team_name_full,shorthand,standings,role,agent_1,agent_2,agent_3,maps,k,d,a,kd,kda,acs_per_map,k_per_map,d_per_map,a_per_map,language_1,language_2,language_3
+Finland,Famsii,UCAM Esports Club,UCAM,2,Entry,Raze,Neon,Jett,21,377,302,109,1.24,1.6,266,17.9,14.3,5.1,Spanish,Finnish,Swedish
+Moldova,Sayonara,KPI Gaming,KPI,3,Flash,Skye,KAY/O,Breach,22,405,266,171,1.52,2.16,261,18.4,12,7.7,Spanish,Moldovan,NaN
+Poland,krejzzs,FIVE Media Clan,FIVE,5,Entry,Jett,Raze,NaN,16,297,237,42,1.25,1.43,253,18.5,14.8,2.6,Spanish,Polish,NaN
+Spain,azaziN,Imperium Gaming,IMP,8,Entry,Raze,Jett,NaN,4,72,68,12,1.05,1.23,232,18,17,3,Spanish,NaN,NaN
+Spain,Michel,ZETA (Spanish team),ZETA,7,Entry,Raze,Jett,NaN,14,226,238,44,0.94,1.13,232,16.1,17,3.1,Spanish,NaN,NaN
+Russia,B1SK,KPI Gaming,KPI,3,Entry,Jett,Raze,Neon,22,362,295,76,1.22,1.48,231,16.4,13.4,3.4,Spanish,Russian,NaN
+Poland,maniek,Barça eSports,BAR,1,Entry,Raze,Neon,Yoru,24,408,363,83,1.12,1.35,230,17,15.1,3.4,Spanish,Polish,NaN
+Turkey,Mykoz,Imperium Gaming,IMP,8,Smoker,Viper,Omen,Sova,10,157,165,42,0.95,1.2,228,15.7,16.5,4.2,Spanish,Turkish,NaN
+Portugal,jannyXD,Ramboot Club,RBT,4,Entry,Jett,Raze,Yoru,21,373,317,84,1.17,1.44,227,17.7,15,4,Spanish,Portuguese,Mirandese
+Ukraine,niwt,Imperium Gaming,IMP,8,Entry,Reyna,Jett,Yoru,8,126,121,45,1.04,1.41,217,15.7,15.1,5.6,Spanish,Ukrainian,NaN
+Ukraine,stonezy,FALKE ESPORTS,FLK,6,Entry,Jett,Raze,Yoru,17,266,243,54,1.09,1.31,216,15.6,14.2,3.1,Spanish,Ukrainian,NaN
+Denmark,KPZET,Barça eSports,BAR,1,Smoker,Viper,Omen,Clove,24,370,326,163,1.13,1.63,213,15.4,13.5,6.7,Spanish,Danish,English
+Poland,Katu,Ramboot Club,RBT,4,Flash,Skye,Gekko,Phoenix,21,330,319,144,1.03,1.48,210,15.7,15.1,6.8,Spanish,Polish,NaN
+Portugal,OLIZERA,UCAM Esports Club,UCAM,2,Anchor,Cypher,Killjoy,Raze,21,310,269,105,1.15,1.54,209,14.7,12.8,5,Spanish,Portuguese,Mirandese
+Spain,neptuNo,ZETA (Spanish team),ZETA,7,Smoker,Omen,Sova,Breach,14,191,201,129,0.95,1.59,206,13.6,14.3,9.2,Spanish,NaN,NaN
+Poland,Kamisseq,Ramboot Club,RBT,4,Smoker,Omen,Sova,NaN,21,344,309,136,1.11,1.55,204,16.3,14.7,6.4,Spanish,Polish,NaN
+Spain,Saiz,Barça eSports,BAR,1,Anchor,Killjoy,Cypher,Sage,24,366,338,110,1.08,1.4,204,15.2,14,4.5,Spanish,NaN,NaN
+Spain,Jolpi,ZETA (Spanish team),ZETA,7,Smoker,Omen,NaN,NaN,4,57,59,24,0.96,1.37,202,14.2,14.7,6,Spanish,NaN,NaN
+Russia,insider,KPI Gaming,KPI,3,Anchor,Cypher,Killjoy,Viper,22,313,268,69,1.16,1.42,202,14.2,12.1,3.1,Spanish,Russian,NaN
+Spain,Guardy,Barça eSports,BAR,1,Flash,Skye,Gekko,KAY/O,24,358,327,169,1.09,1.61,202,14.9,13.6,7,Spanish,NaN,NaN
+Germany,azury,UCAM Esports Club,UCAM,2,Smoker,Omen,Brimstone,Viper,21,291,255,170,1.14,1.8,194,13.8,12.1,8,Spanish,German,NaN
+Ukraine,Kiles,KPI Gaming,KPI,3,Lurker,Viper,Breach,Killjoy,22,311,262,150,1.18,1.75,193,14.1,11.9,6.8,Spanish,Ukrainian,NaN
+Spain,YuNo,FIVE Media Clan,FIVE,5,Smoker,Omen,Viper,Gekko,17,233,248,114,0.93,1.39,193,13.7,14.5,6.7,Spanish,NaN,NaN
+Belgium,Flickless,UCAM Esports Club,UCAM,2,Flash,Breach,Brimstone,KAY/O,21,280,237,229,1.18,2.14,193,13.3,11.2,10.9,Spanish,Dutch,French
+Lithuania,l0udly,Ramboot Club,RBT,4,Lurker,Viper,Cypher,Killjoy,21,299,298,110,1,1.37,187,14.2,14.1,5.2,Spanish,Lithuanian,NaN
+Russia,m4xikk,FALKE ESPORTS,FLK,6,Smoker,Viper,Omen,KAY/O,17,219,256,82,0.85,1.17,183,12.8,15,4.8,Spanish,Russian,NaN
+Spain,Quick,UCAM Esports Club,UCAM,2,Recon,Sova,Fade,NaN,21,280,265,108,1.05,1.46,183,13.3,12.6,5.1,Spanish,NaN,NaN
+Belarus,zeddy,KPI Gaming,KPI,3,Smoker,Omen,Gekko,Astra,22,267,279,175,0.95,1.58,180,12.1,12.6,7.9,Spanish,Russian,Belarusian
+Spain,TiTaN,FIVE Media Clan,FIVE,5,Recon,Sova,Viper,KAY/O,11,138,150,69,0.92,1.38,179,12.5,13.6,6.2,Spanish,NaN,NaN
+Spain,Nunu,Imperium Gaming,IMP,8,Smoker,KAY/O,Omen,Viper,14,176,223,92,0.78,1.2,179,12.5,15.9,6.5,Spanish,NaN,NaN
+Spain,Ximy,FIVE Media Clan,FIVE,5,Flash,KAY/O,Breach,NaN,10,136,141,105,0.96,1.7,178,13.6,14.1,10.5,Spanish,NaN,NaN
+Spain,mober,FIVE Media Clan,FIVE,5,Anchor,Killjoy,Cypher,NaN,17,228,245,48,0.93,1.12,178,13.4,14.4,2.8,Spanish,NaN,NaN
+Spain,JKG,Imperium Gaming,IMP,8,Smoker,Omen,Viper,NaN,4,57,60,25,0.95,1.36,176,14.2,15,6.2,Spanish,NaN,NaN
+Spain,krysyS,FIVE Media Clan,FIVE,5,Flash,KAY/O,Skye,Gekko,7,83,106,49,0.78,1.24,174,11.8,15.1,7,Spanish,NaN,NaN
+Spain,Vorwenn,Barça eSports,BAR,1,Lurker,Astra,Cypher,Sova,24,305,331,166,0.92,1.42,170,12.7,13.7,6.9,Spanish,NaN,NaN
+Belgium,iDex,Ramboot Club,RBT,4,Recon,Sova,Cypher,Breach,6,85,95,29,0.89,1.2,169,14.1,15.8,4.8,Spanish,Dutch,French
+Spain,Neiker,FALKE ESPORTS,FLK,6,Anchor,Killjoy,Cypher,NaN,17,208,264,45,0.78,0.95,169,12.2,15.5,2.6,Spanish,NaN,NaN
+Portugal,VTaguT,FALKE ESPORTS,FLK,6,Smoker,KAY/O,Omen,Viper,17,198,264,117,0.75,1.19,168,11.6,15.5,6.8,Spanish,Portuguese,Mirandese
+Spain,Negradas,ZETA (Spanish team),ZETA,7,Anchor,Phoenix,Killjoy,Cypher,14,171,208,76,0.82,1.18,168,12.2,14.8,5.4,Spanish,NaN,NaN
+Spain,Kotaro,Imperium Gaming,IMP,8,Anchor,Killjoy,Viper,Cypher,14,165,225,46,0.73,0.93,164,11.7,16,3.2,Spanish,NaN,NaN
+Spain,Faska,ZETA (Spanish team),ZETA,7,Recon,Cypher,Skye,Sova,14,158,209,51,0.75,1,161,11.2,14.9,3.6,Spanish,NaN,NaN
+Argentina,pika,Imperium Gaming,IMP,8,Flash,Gekko,Fade,Skye,14,159,211,88,0.75,1.17,153,11.3,15,6.2,Spanish,NaN,NaN
+Spain,MikaEl,FALKE ESPORTS,FLK,6,Recon,Sova,Skye,Gekko,17,172,280,93,0.61,0.94,152,10.1,16.4,5.4,Spanish,NaN,NaN
+Poland,saiko,Ramboot Club,RBT,4,Entry,Sova,Neon,Jett,13,151,198,59,0.76,1.06,151,11.6,15.2,4.5,Spanish,Polish,NaN
+Turkey,Toronto,Imperium Gaming,IMP,8,Entry,Raze,Jett,NaN,2,17,29,6,0.58,0.79,144,8.5,14.5,3,Spanish,Turkish,NaN
+Argentina,Pukytoo,ZETA (Spanish team),ZETA,7,Flash,Omen,KAY/O,Breach,10,98,163,67,0.6,1.01,141,9.8,16.3,6.7,Spanish,NaN,NaN
+Spain,Daniel0,Ramboot Club,RBT,4,Anchor,Killjoy,NaN,NaN,2,20,35,5,0.57,0.71,133,10,17.5,2.5,Spanish,NaN,NaN
+Spain,humanz,FIVE Media Clan,FIVE,5,Flash,Breach,Gekko,Omen,7,62,116,44,0.53,0.91,132,8.8,16.5,6.2,Spanish,NaN,NaN

@@ -1,0 +1,34 @@
+country,ign,team_name_full,shorthand,standings,role,agent_1,agent_2,agent_3,maps,k,d,a,kd,kda,acs_per_map,k_per_map,d_per_map,a_per_map,language_1,language_2,language_3
+Dominican Republic,Virtyy,E-Xolos LAZER,EXL,1,Entry,Raze,Jett,Neon,22,425,381,128,1.11,1.45,262,19.3,17.3,5.8,Spanish,NaN,NaN
+Brazil,snw,RETA Esports,RETA,2,Entry,Raze,Jett,NaN,28,505,438,88,1.15,1.35,246,18,15.6,3.1,Portuguese,NaN,NaN
+Mexico,Mephisto05,Six Karma,6K,5,Entry,Raze,Jett,NaN,15,254,241,53,1.05,1.27,239,16.9,16,3.5,Spanish,NaN,NaN
+Philippines,GLYPH,Illicit Gaming,IL,4,Flash,Gekko,KAY/O,Fade,16,273,239,114,1.14,1.61,228,17,14.9,7.1,Filipino,English,NaN
+Colombia,Drakk,Reven eClub,PRVN,3,Entry,Raze,Jett,Neon,24,396,404,88,0.98,1.19,223,16.5,16.8,3.6,Spanish,NaN,NaN
+United States,Nate,Illicit Gaming,IL,4,Entry,Raze,Jett,NaN,16,269,267,57,1,1.22,218,16.8,16.6,3.5,English,NaN,NaN
+Colombia,Mited,E-Xolos LAZER,EXL,1,Smoker,Omen,Brimstone,Astra,22,388,300,194,1.29,1.94,213,17.6,13.6,8.8,Spanish,NaN,NaN
+Chile,NagZ,RETA Esports,RETA,2,Anchor,Killjoy,Viper,Cypher,28,460,362,145,1.27,1.67,213,16.4,12.9,5.1,Spanish,NaN,NaN
+Colombia,Darker,E-Xolos LAZER,EXL,1,Flash,Skye,Breach,KAY/O,22,379,353,200,1.07,1.64,212,17.2,16,9,Spanish,NaN,NaN
+Chile,delz1k,RETA Esports,RETA,2,Smoker,Omen,Brimstone,Harbor,28,446,395,237,1.12,1.72,208,15.9,14.1,8.4,Spanish,NaN,NaN
+Dominican Republic,Xhowi,Illicit Gaming,IL,4,Anchor,Cypher,Viper,Killjoy,16,259,251,74,1.03,1.32,208,16.1,15.6,4.6,Spanish,NaN,NaN
+Mexico,OtaQ,Reven eClub,PRVN,3,Flash,KAY/O,Breach,Cypher,21,313,303,213,1.03,1.73,206,14.9,14.4,10.1,Spanish,NaN,NaN
+Colombia,Rei,FUSION,FSN,6,Entry,Jett,Raze,Gekko,11,160,194,46,0.82,1.06,205,14.5,17.6,4.1,Spanish,NaN,NaN
+Dominican Republic,MiniNiwde,Illicit Gaming,IL,4,Smoker,Omen,Brimstone,Viper,16,250,240,127,1.04,1.57,202,15.6,15,7.9,Spanish,NaN,NaN
+Mexico,rowancy,Reven eClub,PRVN,3,Anchor,Cypher,Killjoy,Viper,21,316,301,96,1.04,1.36,195,15,14.3,4.5,Spanish,NaN,NaN
+Colombia,vapes,FUSION,FSN,6,Anchor,Cypher,Viper,Killjoy,7,98,107,20,0.91,1.1,190,14,15.2,2.8,Spanish,NaN,NaN
+Brazil,murizzz,RETA Esports,RETA,2,Recon,Sova,Skye,Fade,28,397,391,189,1.01,1.49,188,14.1,13.9,6.7,Portuguese,NaN,NaN
+Chile,SUTHER,RETA Esports,RETA,2,Flash,Viper,KAY/O,Gekko,28,381,360,274,1.05,1.81,188,13.6,12.8,9.7,Spanish,NaN,NaN
+Venezuela,Winter,FUSION,FSN,6,Recon,Cypher,Sova,Skye,11,160,181,47,0.88,1.14,187,14.5,16.4,4.2,Spanish,NaN,NaN
+Guatemala,GeneralSteak,Six Karma,6K,5,Lurker,Viper,Breach,Killjoy,15,202,228,91,0.88,1.28,183,13.4,15.2,6,Spanish,NaN,NaN
+Costa Rica,Feniz,E-Xolos LAZER,EXL,1,Anchor,Cypher,Gekko,NaN,22,331,306,138,1.08,1.53,183,15,13.9,6.2,Spanish,NaN,NaN
+Colombia,Fresht,FUSION,FSN,6,Flex,Yoru,Breach,Deadlock,11,139,193,74,0.72,1.1,181,12.6,17.5,6.7,Spanish,NaN,NaN
+Colombia,JfoeN,Illicit Gaming,IL,4,Flash,Breach,Skye,Sova,14,194,180,128,1.07,1.78,176,13.8,12.8,9.1,Spanish,NaN,NaN
+Colombia,Jow,E-Xolos LAZER,EXL,1,Flash,Gekko,Harbor,Breach,22,316,337,148,0.93,1.37,175,14.3,15.3,6.7,Spanish,NaN,NaN
+Colombia,BandiCoot,Reven eClub,PRVN,3,Smoker,Omen,Viper,NaN,24,307,341,199,0.9,1.48,171,12.7,14.2,8.2,Spanish,NaN,NaN
+Venezuela,vandals,Six Karma,6K,5,Smoker,Omen,Brimstone,Harbor,15,190,240,112,0.79,1.25,170,12.6,16,7.4,Spanish,NaN,NaN
+Mexico,nAvarro,Six Karma,6K,5,Recon,Fade,Sova,Gekko,6,76,91,45,0.83,1.32,169,12.6,15.1,7.5,Spanish,NaN,NaN
+Colombia,Theory,Six Karma,6K,5,Smoker,Viper,Sova,Gekko,7,86,101,35,0.85,1.19,167,12.2,14.4,5,Spanish,NaN,NaN
+Mexico,Peloncito,Reven eClub,PRVN,3,Flash,Gekko,Sova,Skye,24,285,374,163,0.76,1.19,162,11.8,15.5,6.7,Spanish,NaN,NaN
+Guatemala,RAINMAKER,FUSION,FSN,6,Recon,Sova,NaN,NaN,4,50,73,16,0.68,0.9,161,12.5,18.2,4,Spanish,NaN,NaN
+Mexico,P4ND4,Six Karma,6K,5,Flash,Cypher,Gekko,KAY/O,15,169,228,71,0.74,1.05,156,11.2,15.2,4.7,Spanish,NaN,NaN
+Colombia,ezznap,FUSION,FSN,6,Smoker,Brimstone,Viper,Omen,11,122,186,81,0.65,1.09,154,11,16.9,7.3,Spanish,NaN,NaN
+Costa Rica,Snapss,Six Karma,6K,5,Recon,Fade,Viper,NaN,2,15,30,11,0.5,0.86,150,7.5,15,5.5,Spanish,NaN,NaN

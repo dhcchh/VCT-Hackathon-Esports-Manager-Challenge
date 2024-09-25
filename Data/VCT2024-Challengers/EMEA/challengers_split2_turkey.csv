@@ -1,0 +1,56 @@
+country,ign,team_name_full,shorthand,standings,role,agent_1,agent_2,agent_3,maps,k,d,a,kd,kda,acs_per_map,k_per_map,d_per_map,a_per_map,language_1,language_2,language_3
+Turkey,xeus,HOWL Esports,HOWL,2,Entry,Raze,Jett,NaN,34,719,535,128,1.34,1.58,278,21.1,15.7,3.7,Turkish,NaN,NaN
+Turkey,Izzy,SuperMassive Esports,Team not Mapped,Team not Mapped,Entry,Raze,Neon,Jett,29,609,432,118,1.4,1.68,272,21,14.8,4,Turkish,NaN,NaN
+Turkey,LêwN,Galatasaray Esports,GS,4,Entry,Jett,Raze,Iso,27,547,459,107,1.19,1.42,260,20.2,17,3.9,Turkish,NaN,NaN
+Turkey,ComeBack,Pcific Esports,PCF,1,Entry,Jett,Raze,Chamber,34,642,547,106,1.17,1.36,257,18.8,16,3.1,Turkish,NaN,NaN
+Turkey,deminatiX,İstanbul Wildcats,IW,8,Entry,Jett,Yoru,Raze,21,374,341,75,1.09,1.31,250,17.8,16.2,3.5,Turkish,NaN,NaN
+Netherlands,hiro,SuperMassive Esports,Team not Mapped,Team not Mapped,Lurker,Cypher,Killjoy,Yoru,9,172,125,45,1.37,1.73,242,19.1,13.8,5,Turkish,Dutch,NaN
+Turkey,qw1,Fire Flux Esports,FF,5,Entry,Raze,Jett,Neon,16,279,239,45,1.16,1.35,239,17.4,14.9,2.8,Turkish,NaN,NaN
+Turkey,ip0TT,Galakticos,GAL,3,Entry,Raze,Jett,Iso,35,626,558,174,1.12,1.43,232,17.8,15.9,4.9,Turkish,NaN,NaN
+Turkey,sociablEE,Fire Flux Esports,FF,5,Recon,Sova,Breach,Fade,26,455,378,202,1.2,1.73,228,17.5,14.5,7.7,Turkish,NaN,NaN
+Turkey,Ruxic,Fire Flux Esports,FF,5,Smoker,Omen,Viper,NaN,26,458,375,228,1.22,1.82,228,17.6,14.4,8.7,Turkish,NaN,NaN
+Turkey,lauress,Fire Flux Esports,FF,5,Anchor,Cypher,Killjoy,Clove,27,480,429,115,1.11,1.38,218,17.7,15.8,4.2,Turkish,NaN,NaN
+Turkey,STERBEN,SuperMassive Esports,Team not Mapped,Team not Mapped,Smoker,Omen,Viper,Astra,29,469,417,242,1.12,1.7,214,16.1,14.3,8.3,Turkish,NaN,NaN
+Turkey,batujnax,S2G Esports,S2G,7,Entry,Raze,Neon,Omen,24,382,386,163,0.98,1.41,212,15.9,16,6.7,Turkish,NaN,NaN
+Turkey,Loita,Pcific Esports,PCF,1,Smoker,Omen,Viper,NaN,34,528,497,277,1.06,1.61,207,15.5,14.6,8.1,Turkish,NaN,NaN
+Turkey,skyLeN,SuperMassive Esports,Team not Mapped,Team not Mapped,Flash,KAY/O,Deadlock,Breach,29,454,406,266,1.11,1.77,205,15.6,14,9.1,Turkish,NaN,NaN
+Turkey,Lar0k,Pcific Esports,PCF,1,Flash,Gekko,KAY/O,Breach,34,517,450,276,1.14,1.76,204,15.2,13.2,8.1,Turkish,NaN,NaN
+Turkey,Docent,Galatasaray Esports,GS,4,Smoker,Omen,Viper,Astra,27,430,427,223,1,1.52,204,15.9,15.8,8.2,Turkish,NaN,NaN
+Turkey,AsLanM4shadoW,S2G Esports,S2G,7,Smoker,Omen,Jett,Brimstone,5,74,84,27,0.88,1.2,203,14.8,16.8,5.4,Turkish,NaN,NaN
+Turkey,JrayN,Fenerbahçe Esports,FB,10,Recon,KAY/O,Sova,Deadlock,21,309,295,126,1.04,1.47,202,14.7,14,6,Turkish,NaN,NaN
+Turkey,OXMANN,SuperMassive Esports,Team not Mapped,Team not Mapped,Anchor,Cypher,Viper,Killjoy,12,202,178,57,1.13,1.45,201,16.8,14.8,4.7,Turkish,NaN,NaN
+Turkey,KROSTALY,Eternal Fire,EF,9,Entry,Jett,Raze,Breach,21,315,330,94,0.95,1.23,199,15,15.7,4.4,Turkish,NaN,NaN
+Turkey,Padisah,Galatasaray Esports,GS,4,Anchor,Killjoy,Cypher,Brimstone,27,422,426,114,0.99,1.25,198,15.6,15.7,4.2,Turkish,NaN,NaN
+Turkey,VenTT,HOWL Esports,HOWL,2,Smoker,Omen,Harbor,Brimstone,34,522,514,312,1.01,1.62,197,15.3,15.1,9.1,Turkish,NaN,NaN
+Turkey,cacan,Fenerbahçe Esports,FB,10,Anchor,Killjoy,Cypher,Fade,21,297,316,67,0.93,1.15,196,14.1,15,3.1,Turkish,NaN,NaN
+Turkey,Crewen,HOWL Esports,HOWL,2,Anchor,Cypher,Killjoy,Viper,34,520,509,175,1.02,1.36,196,15.2,14.9,5.1,Turkish,NaN,NaN
+Turkey,DeadInk,Fenerbahçe Esports,FB,10,Entry,Jett,Raze,Gekko,21,285,340,69,0.83,1.04,194,13.5,16.1,3.2,Turkish,NaN,NaN
+Turkey,lurzy0y0,Galakticos,GAL,3,Lurker,Omen,Breach,Cypher,35,543,519,212,1.04,1.45,193,15.5,14.8,6,Turkish,NaN,NaN
+Turkey,Patrui,S2G Esports,S2G,7,Smoker,Viper,Omen,Brimstone,24,354,348,215,1.01,1.63,191,14.7,14.5,8.9,Turkish,NaN,NaN
+Turkey,Turko,Fire Flux Esports,FF,5,Lurker,Cypher,Killjoy,Omen,26,393,374,152,1.05,1.45,191,15.1,14.3,5.8,Turkish,NaN,NaN
+Turkey,Anima,HOWL Esports,HOWL,2,Recon,Skye,KAY/O,Fade,34,476,462,349,1.03,1.78,190,14,13.5,10.2,Turkish,NaN,NaN
+Turkey,russ,S2G Esports,S2G,7,Entry,Raze,Gekko,Fade,24,363,394,87,0.92,1.14,190,15.1,16.4,3.6,Turkish,NaN,NaN
+Turkey,lovers rock,SuperMassive Esports,Team not Mapped,Team not Mapped,Lurker,Cypher,Omen,Clove,8,112,117,34,0.95,1.24,188,14,14.6,4.2,Turkish,NaN,NaN
+Turkey,Touven,Galatasaray Esports,GS,4,Flex,Yoru,KAY/O,Raze,27,399,428,215,0.93,1.43,187,14.7,15.8,7.9,Turkish,NaN,NaN
+Turkey,mojj,Eternal Fire,EF,9,Anchor,Killjoy,Deadlock,Cypher,21,301,311,80,0.96,1.22,187,14.3,14.8,3.8,Turkish,NaN,NaN
+Turkey,Masic,Galakticos,GAL,3,Entry,Jett,Raze,Chamber,35,520,518,158,1,1.3,186,14.8,14.8,4.5,Turkish,NaN,NaN
+Turkey,DESTRUCT1VEE,Galakticos,GAL,3,Lurker,Omen,Viper,Cypher,35,512,528,214,0.96,1.37,184,14.6,15,6.1,Turkish,NaN,NaN
+Turkey,JN3v1cEEE,Eternal Fire,EF,9,Smoker,Omen,Viper,Astra,20,255,303,154,0.84,1.34,182,12.7,15.1,7.7,Turkish,NaN,NaN
+Turkey,dRKY,İstanbul Wildcats,IW,8,Flash,Breach,Harbor,Sova,21,285,304,152,0.93,1.43,179,13.5,14.4,7.2,Turkish,NaN,NaN
+Turkey,baha,İstanbul Wildcats,IW,8,Flash,Gekko,Omen,Raze,21,273,338,130,0.8,1.19,178,13,16,6.1,Turkish,NaN,NaN
+Turkey,Celasun,Pcific Esports,PCF,1,Anchor,Cypher,Killjoy,Gekko,34,464,482,137,0.96,1.24,178,13.6,14.1,4,Turkish,NaN,NaN
+Turkey,sh1va,İstanbul Wildcats,IW,8,Anchor,Cypher,Killjoy,NaN,21,288,288,60,1,1.2,178,13.7,13.7,2.8,Turkish,NaN,NaN
+Turkey,w0zzip,Fire Flux Esports,FF,5,Flash,Gekko,KAY/O,Breach,26,354,382,200,0.92,1.45,177,13.6,14.6,7.6,Turkish,NaN,NaN
+Turkey,Rosé,Pcific Esports,PCF,1,Recon,Sova,Breach,Omen,34,437,513,230,0.85,1.3,174,12.8,15,6.7,Turkish,NaN,NaN
+Turkey,glovee,Galakticos,GAL,3,Recon,Sova,Gekko,Omen,34,456,507,239,0.89,1.37,172,13.4,14.9,7,Turkish,NaN,NaN
+Turkey,Wasp,Eternal Fire,EF,9,Recon,Sova,Iso,Gekko,12,153,193,60,0.79,1.1,170,12.7,16,5,Turkish,NaN,NaN
+Turkey,sturNN,Fenerbahçe Esports,FB,10,Smoker,Omen,Viper,Brimstone,21,246,319,121,0.77,1.15,170,11.7,15.1,5.7,Turkish,NaN,NaN
+Turkey,jeyj7y,S2G Esports,S2G,7,Recon,Sova,KAY/O,Deadlock,19,247,301,122,0.82,1.22,170,13,15.8,6.4,Turkish,NaN,NaN
+Turkey,musz3kk,Eternal Fire,EF,9,Entry,Jett,Gekko,Omen,10,124,166,45,0.74,1.01,167,12.4,16.6,4.5,Turkish,NaN,NaN
+Turkey,SasuKe,Eternal Fire,EF,9,Recon,KAY/O,Omen,Sova,21,247,325,188,0.76,1.33,164,11.7,15.4,8.9,Turkish,NaN,NaN
+Turkey,Gloomy,HOWL Esports,HOWL,2,Flash,Gekko,Viper,Sova,34,391,487,251,0.8,1.31,160,11.5,14.3,7.3,Turkish,NaN,NaN
+Turkey,MERZ,İstanbul Wildcats,IW,8,Smoker,Omen,KAY/O,Viper,21,235,342,181,0.68,1.21,158,11.1,16.2,8.6,Turkish,NaN,NaN
+Turkey,Yigox,Fenerbahçe Esports,FB,10,Anchor,Cypher,Sage,Sova,16,194,244,55,0.79,1.02,154,12.1,15.2,3.4,Turkish,NaN,NaN
+Turkey,SouhcNi,SuperMassive Esports,Team not Mapped,Team not Mapped,Recon,Sova,Gekko,Fade,29,325,414,198,0.78,1.26,153,11.2,14.2,6.8,Turkish,NaN,NaN
+Turkey,CyderX,Galatasaray Esports,GS,4,Recon,Sova,Gekko,Fade,27,330,383,168,0.86,1.3,151,12.2,14.1,6.2,Turkish,NaN,NaN
+Austria,samed,Fenerbahçe Esports,FB,10,Entry,Jett,Raze,Yoru,5,37,87,16,0.42,0.6,128,7.4,17.4,3.2,Turkish,German,NaN

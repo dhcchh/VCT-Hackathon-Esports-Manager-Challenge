@@ -1,0 +1,45 @@
+country,ign,team_name_full,shorthand,standings,role,agent_1,agent_2,agent_3,maps,k,d,a,kd,kda,acs_per_map,k_per_map,d_per_map,a_per_map,language_1,language_2,language_3
+Vietnam,alyaL,Team Flash,FPT,3,Lurker,Viper,Killjoy,Fade,15,260,189,81,1.37,1.8,250,17.3,12.6,5.4,Vietnamese,NaN,NaN
+Vietnam,hansia,Crocodile Tear,TEAR,8,Entry,Jett,Raze,Neon,11,184,160,42,1.14,1.41,247,16.7,14.5,3.8,Vietnamese,NaN,NaN
+Vietnam,lilhieu,Unicorn Cyber,UNC,7,Entry,Raze,Jett,Iso,13,225,211,64,1.06,1.36,240,17.3,16.2,4.9,Vietnamese,NaN,NaN
+Vietnam,YESicaN,Fancy United Esports,FCY,2,Recon,KAY/O,NaN,NaN,12,190,140,113,1.35,2.16,240,15.8,11.6,9.4,Vietnamese,NaN,NaN
+Vietnam,Moef,LAZY,LAZY,5,Entry,Jett,Raze,Reyna,13,209,201,32,1.03,1.19,235,16,15.4,2.4,Vietnamese,NaN,NaN
+Vietnam,Nhatthong2k,Team Big BAAM,BAAM,5,Entry,Jett,Raze,Iso,17,298,287,63,1.03,1.25,234,17.5,16.8,3.7,Vietnamese,NaN,NaN
+Vietnam,DaFt,Rapid Lofi,RLF,1,Entry,Jett,Raze,Gekko,20,330,296,109,1.11,1.48,233,16.5,14.8,5.4,Vietnamese,NaN,NaN
+Vietnam,Hyuse,CyberKing Esports,CKE,4,Entry,Jett,Sova,Clove,15,234,228,56,1.02,1.27,233,15.6,15.2,3.7,Vietnamese,NaN,NaN
+Vietnam,Gin,Fancy United Esports,FCY,2,Entry,Clove,Jett,Raze,12,193,173,29,1.11,1.28,232,16,14.4,2.4,Vietnamese,NaN,NaN
+Vietnam,bobae,Crocodile Tear,TEAR,8,Recon,Sova,Gekko,Fade,11,175,150,53,1.16,1.52,232,15.9,13.6,4.8,Vietnamese,NaN,NaN
+Vietnam,KillerS,Team Flash,FPT,3,Entry,Raze,Skye,Neon,15,235,194,100,1.21,1.72,229,15.6,12.9,6.6,Vietnamese,NaN,NaN
+Vietnam,f1cio,Fancy United Esports,FCY,2,Anchor,Gekko,Deadlock,Viper,12,185,155,74,1.19,1.67,226,15.4,12.9,6.1,Vietnamese,NaN,NaN
+Vietnam,Louboutin,Team Big BAAM,BAAM,5,Lurker,Killjoy,Omen,Sova,13,237,202,60,1.17,1.47,219,18.2,15.5,4.6,Vietnamese,NaN,NaN
+Vietnam,Suka,Rapid Lofi,RLF,1,Recon,Sova,KAY/O,Breach,20,327,297,160,1.1,1.63,218,16.3,14.8,8,Vietnamese,NaN,NaN
+Vietnam,Crus,Fancy United Esports,FCY,2,Lurker,Omen,Cypher,NaN,12,178,144,94,1.23,1.88,216,14.8,12,7.8,Vietnamese,NaN,NaN
+Vietnam,Ting2k5,Team Flash,FPT,3,Entry,Jett,Cypher,Gekko,15,237,173,51,1.36,1.66,214,15.8,11.5,3.4,Vietnamese,NaN,NaN
+Vietnam,SomeThai,Team Big BAAM,BAAM,5,Recon,Sova,Skye,Fade,11,180,192,71,0.93,1.3,210,16.3,17.4,6.4,Vietnamese,NaN,NaN
+Vietnam,Pr0digy,Rapid Lofi,RLF,1,Smoker,Brimstone,Sage,Iso,15,228,233,90,0.97,1.36,210,15.2,15.5,6,Vietnamese,NaN,NaN
+Vietnam,twilight,Fancy United Esports,FCY,2,Anchor,Cypher,Viper,Killjoy,12,177,138,53,1.28,1.66,208,14.7,11.5,4.4,Vietnamese,NaN,NaN
+Vietnam,Hyzee,Team Big BAAM,BAAM,5,Anchor,Cypher,Killjoy,Breach,17,268,261,106,1.02,1.43,207,15.7,15.3,6.2,Vietnamese,NaN,NaN
+Vietnam,D0rf,Team Flash,FPT,3,Flash,Breach,Sova,Killjoy,14,205,160,72,1.28,1.73,204,14.6,11.4,5.1,Vietnamese,NaN,NaN
+Vietnam,Acerola,LAZY,LAZY,5,Smoker,Viper,Omen,KAY/O,13,186,188,84,0.98,1.43,203,14.3,14.4,6.4,Vietnamese,NaN,NaN
+Vietnam,P1na,Team Big BAAM,BAAM,5,Smoker,Viper,Omen,NaN,17,260,257,135,1.01,1.53,202,15.2,15.1,7.9,Vietnamese,NaN,NaN
+Vietnam,rageee,CyberKing Esports,CKE,4,Smoker,Viper,Omen,Fade,15,204,214,86,0.95,1.35,201,13.6,14.2,5.7,Vietnamese,NaN,NaN
+Vietnam,dafam1,Unicorn Cyber,UNC,7,Smoker,Omen,Clove,Viper,13,195,221,91,0.88,1.29,200,15,17,7,Vietnamese,NaN,NaN
+Vietnam,Viness,Team Flash,FPT,3,Smoker,Omen,Viper,Brimstone,15,195,192,124,1.01,1.66,198,13,12.8,8.2,Vietnamese,NaN,NaN
+Vietnam,bioforst,Crocodile Tear,TEAR,8,Lurker,Killjoy,Astra,Cypher,11,144,156,41,0.92,1.18,195,13,14.1,3.7,Vietnamese,NaN,NaN
+Vietnam,Tripciew,Rapid Lofi,RLF,1,Lurker,Viper,Omen,Cypher,20,272,280,127,0.97,1.42,192,13.6,14,6.3,Vietnamese,NaN,NaN
+Vietnam,nTK,LAZY,LAZY,5,Anchor,Cypher,Killjoy,KAY/O,13,161,198,65,0.81,1.14,188,12.3,15.2,5,Vietnamese,NaN,NaN
+Vietnam,Albus,Rapid Lofi,RLF,1,Anchor,Cypher,Killjoy,KAY/O,14,184,213,77,0.86,1.22,183,13.1,15.2,5.5,Vietnamese,NaN,NaN
+Vietnam,Palette,Crocodile Tear,TEAR,8,Lurker,Omen,Viper,Killjoy,9,112,124,70,0.9,1.46,182,12.4,13.7,7.7,Vietnamese,NaN,NaN
+Vietnam,bbc,Crocodile Tear,TEAR,8,Recon,KAY/O,Killjoy,Jett,11,137,166,58,0.82,1.17,180,12.4,15,5.2,Vietnamese,NaN,NaN
+Vietnam,BanhMj,Rapid Lofi,RLF,1,Recon,Killjoy,Sova,Skye,11,138,143,43,0.96,1.26,177,12.5,13,3.9,Vietnamese,NaN,NaN
+Vietnam,DucT,LAZY,LAZY,5,Lurker,Omen,Breach,Killjoy,13,161,191,91,0.84,1.31,175,12.3,14.6,7,Vietnamese,NaN,NaN
+Vietnam,Nh0zKon,Unicorn Cyber,UNC,7,Recon,Sova,Gekko,Viper,13,161,212,72,0.75,1.09,175,12.3,16.3,5.5,Vietnamese,NaN,NaN
+Vietnam,BMV,Unicorn Cyber,UNC,7,Anchor,Cypher,Killjoy,Breach,13,162,199,63,0.81,1.13,174,12.4,15.3,4.8,Vietnamese,NaN,NaN
+Vietnam,Shaun,CyberKing Esports,CKE,4,Anchor,Killjoy,Cypher,Sage,15,182,200,41,0.91,1.11,171,12.1,13.3,2.7,Vietnamese,NaN,NaN
+Vietnam,fuzzie,CyberKing Esports,CKE,4,Flash,Gekko,Breach,KAY/O,15,162,215,102,0.75,1.22,168,10.8,14.3,6.8,Vietnamese,NaN,NaN
+Vietnam,Takoyaki,Crocodile Tear,TEAR,8,Flash,Breach,Viper,NaN,2,21,21,6,1,1.28,168,10.5,10.5,3,Vietnamese,NaN,NaN
+Vietnam,Tyson1,Unicorn Cyber,UNC,7,Anchor,Cypher,Killjoy,Skye,13,165,202,70,0.81,1.16,167,12.6,15.5,5.3,Vietnamese,NaN,NaN
+Vietnam,Aozy,Team Flash,FPT,3,Recon,Skye,NaN,NaN,1,13,10,12,1.3,2.5,162,13,10,12,Vietnamese,NaN,NaN
+Vietnam,NamGoku,CyberKing Esports,CKE,4,Recon,Sova,Raze,Omen,15,163,234,56,0.69,0.93,161,10.8,15.6,3.7,Vietnamese,NaN,NaN
+Vietnam,Akashi,LAZY,LAZY,5,Recon,Sova,Skye,Fade,13,129,194,82,0.66,1.08,148,9.9,14.9,6.3,Vietnamese,NaN,NaN
+Vietnam,Vizz,Team Big BAAM,BAAM,5,Flash,KAY/O,Breach,Skye,10,82,145,100,0.56,1.25,124,8.2,14.5,10,Vietnamese,NaN,NaN

@@ -1,0 +1,43 @@
+country,ign,team_name_full,shorthand,standings,role,agent_1,agent_2,agent_3,maps,k,d,a,kd,kda,acs_per_map,k_per_map,d_per_map,a_per_map,language_1,language_2,language_3
+India,hYperfiction,Alternate Realities,AR,7,Entry,Jett,NaN,NaN,1,22,22,6,1,1.27,287,22,22,6,Hindi,English,NaN
+Kazakhstan,dos9,Revenant Esports,RVNT,1,Lurker,Viper,Killjoy,Omen,15,314,189,97,1.66,2.17,268,20.9,12.6,6.4,Kazakh,Russian,NaN
+India,venka,Velocity Gaming,VLT,3,Entry,Jett,Raze,Gekko,17,339,290,54,1.16,1.35,263,19.9,17,3.1,Hindi,English,NaN
+India,Trinxty,Orangutan,OGS,4,Entry,Jett,Raze,NaN,12,196,172,41,1.13,1.37,249,16.3,14.3,3.4,Hindi,English,NaN
+India,SkRossi,Revenant Esports,RVNT,1,Entry,Jett,Chamber,Gekko,15,265,220,53,1.2,1.44,232,17.6,14.6,3.5,Hindi,English,NaN
+India,Hellff,True Rippers Esports,TRS,2,Recon,Sova,Skye,KAY/O,18,283,246,122,1.15,1.64,225,15.7,13.6,6.7,Hindi,English,NaN
+Kazakhstan,sultan,Revenant Esports,RVNT,1,Lurker,Omen,Viper,Cypher,15,262,191,110,1.37,1.94,223,17.4,12.7,7.3,Kazakh,Russian,NaN
+India,DEATHMAKER,True Rippers Esports,TRS,2,Entry,Jett,Raze,Cypher,18,277,254,49,1.09,1.28,220,15.3,14.1,2.7,Hindi,English,NaN
+India,Deadly10,Medal Esports,MDL,5,Entry,Jett,Raze,NaN,7,109,98,16,1.11,1.27,219,15.5,14,2.2,Hindi,English,NaN
+Philippines,d1srupt,True Rippers Esports,TRS,2,Flash,Omen,KAY/O,Breach,15,241,209,87,1.15,1.56,218,16,13.9,5.8,Filipino,English,NaN
+India,Techno,True Rippers Esports,TRS,2,Smoker,Viper,Omen,Sova,18,276,241,130,1.14,1.68,217,15.3,13.3,7.2,Hindi,English,NaN
+India,Karam1L,Reckoning Esports,RGE,5,Anchor,Killjoy,Cypher,Chamber,6,90,91,18,0.98,1.18,214,15,15.1,3,Hindi,English,NaN
+India,RvK,Reckoning Esports,RGE,5,Entry,Raze,Jett,NaN,6,88,95,15,0.92,1.08,213,14.6,15.8,2.5,Hindi,English,NaN
+India,Excali,Medal Esports,MDL,5,Lurker,Killjoy,Omen,Gekko,7,95,104,50,0.91,1.39,212,13.5,14.8,7.1,Hindi,English,NaN
+Philippines,tesseract,MLT Esports,MLT,7,Recon,Sova,Skye,Cypher,5,74,87,25,0.85,1.13,211,14.8,17.4,5,Filipino,English,NaN
+India,Vibhor,Medal Esports,MDL,5,Lurker,Omen,Viper,Cypher,7,100,99,46,1.01,1.47,205,14.2,14.1,6.5,Hindi,English,NaN
+India,DcRulz,Orangutan,OGS,4,Anchor,Killjoy,Cypher,Viper,12,166,154,30,1.07,1.27,205,13.8,12.8,2.5,Hindi,English,NaN
+Philippines,JoshS,Alternate Realities,AR,7,Recon,Fade,KAY/O,Sova,6,79,96,54,0.82,1.38,203,13.1,16,9,Filipino,English,NaN
+India,tryst,Orangutan,OGS,4,Recon,KAY/O,Viper,Skye,12,162,161,95,1,1.59,200,13.5,13.4,7.9,Hindi,English,NaN
+Indonesia,adrnking,Velocity Gaming,VLT,3,Flash,Killjoy,Breach,KAY/O,17,259,265,115,0.97,1.41,198,15.2,15.5,6.7,Indonesian,NaN,NaN
+India,Kibojn,Medal Esports,MDL,5,Flash,KAY/O,Gekko,Breach,7,97,91,51,1.06,1.62,197,13.8,13,7.2,Hindi,English,NaN
+Philippines,azys,MLT Esports,MLT,7,Entry,Jett,Raze,KAY/O,5,74,81,18,0.91,1.13,196,14.8,16.2,3.6,Filipino,English,NaN
+India,psy,Medal Esports,MDL,5,Recon,Sova,Skye,Cypher,7,95,95,31,1,1.32,195,13.5,13.5,4.4,Hindi,English,NaN
+India,CortezZ,Alternate Realities,AR,7,Smoker,Omen,Viper,NaN,6,76,101,27,0.75,1.01,194,12.6,16.8,4.5,Hindi,English,NaN
+India,Paradox,Revenant Esports,RVNT,1,Entry,Raze,Harbor,Breach,15,208,228,116,0.91,1.42,190,13.8,15.2,7.7,Hindi,English,NaN
+Indonesia,sayoo,Velocity Gaming,VLT,3,Lurker,Cypher,Viper,Omen,17,245,262,89,0.93,1.27,190,14.4,15.4,5.2,Indonesian,NaN,NaN
+India,LeVi,MLT Esports,MLT,7,Smoker,Viper,Omen,NaN,5,65,83,21,0.78,1.03,190,13,16.6,4.2,Hindi,English,NaN
+India,Rawfiul,MLT Esports,MLT,7,Anchor,Cypher,Skye,Jett,5,73,75,18,0.97,1.21,189,14.6,15,3.6,Hindi,English,NaN
+India,DOXZ3RRR,Reckoning Esports,RGE,5,Recon,Sova,Omen,NaN,6,81,92,24,0.88,1.14,184,13.5,15.3,4,Hindi,English,NaN
+India,Kohliii,Velocity Gaming,VLT,3,Recon,Sova,Omen,NaN,17,218,268,137,0.81,1.32,177,12.8,15.7,8,Hindi,English,NaN
+Japan,LBY,Reckoning Esports,RGE,5,Smoker,Omen,Brimstone,Viper,6,72,88,43,0.81,1.3,177,12,14.6,7.1,Japanese,NaN,NaN
+Philippines,Aryu,True Rippers Esports,TRS,2,Anchor,Killjoy,Cypher,Chamber,18,233,231,71,1,1.31,177,12.9,12.8,3.9,Filipino,English,NaN
+India,Makaveli,Orangutan,OGS,4,Lurker,Omen,Viper,Yoru,12,136,150,80,0.9,1.44,176,11.3,12.5,6.6,Hindi,English,NaN
+India,Hoax,Velocity Gaming,VLT,3,Flash,Sage,Breach,Gekko,17,225,248,137,0.9,1.45,175,13.2,14.5,8,Hindi,English,NaN
+Philippines,Dr1ch,Alternate Realities,AR,7,Flash,Gekko,Raze,Killjoy,6,65,100,25,0.65,0.9,168,10.8,16.6,4.1,Filipino,English,NaN
+India,skillZ,Revenant Esports,RVNT,1,Recon,Sova,Skye,Fade,15,186,190,103,0.97,1.52,160,12.4,12.6,6.8,Hindi,English,NaN
+India,MAX,Reckoning Esports,RGE,5,Flash,Breach,Skye,Sage,6,56,94,48,0.59,1.1,156,9.3,15.6,8,Hindi,English,NaN
+India,Mast3r,Alternate Realities,AR,7,Anchor,Brimstone,Cypher,Killjoy,6,62,92,23,0.67,0.92,152,10.3,15.3,3.8,Hindi,English,NaN
+India,GauRanG,True Rippers Esports,TRS,2,Smoker,Viper,Omen,NaN,3,28,33,16,0.84,1.33,152,9.3,11,5.3,Hindi,English,NaN
+India,Rio,Orangutan,OGS,4,Flash,Gekko,Sova,NaN,12,114,154,66,0.74,1.16,145,9.5,12.8,5.5,Hindi,English,NaN
+India,1TaPGoD,Alternate Realities,AR,7,Entry,Raze,Gekko,NaN,5,40,82,20,0.48,0.73,142,8,16.4,4,Hindi,English,NaN
+India,rite2ace,MLT Esports,MLT,7,Smoker,Omen,Killjoy,Brimstone,5,51,79,36,0.64,1.1,137,10.2,15.8,7.2,Hindi,English,NaN

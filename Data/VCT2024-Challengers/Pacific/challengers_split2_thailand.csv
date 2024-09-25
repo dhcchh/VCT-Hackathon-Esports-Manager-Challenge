@@ -1,0 +1,42 @@
+country,ign,team_name_full,shorthand,standings,role,agent_1,agent_2,agent_3,maps,k,d,a,kd,kda,acs_per_map,k_per_map,d_per_map,a_per_map,language_1,language_2,language_3
+Thailand,Potter,XERXIA,XIA,3,Entry,Raze,Jett,NaN,27,501,449,95,1.11,1.32,247,18.5,16.6,3.5,Thai,NaN,NaN
+Thailand,Niffy,Sharper Esport,SPE,4,Entry,Raze,Viper,Jett,23,403,343,100,1.17,1.46,245,17.5,14.9,4.3,Thai,NaN,NaN
+Thailand,JohnOlsen,FULL SENSE,FS,2,Entry,Raze,Jett,Neon,29,515,474,123,1.08,1.34,245,17.7,16.3,4.2,Thai,NaN,NaN
+Thailand,KRX,Sharper Esport,SPE,4,Entry,Neon,KAY/O,NaN,3,58,55,25,1.05,1.5,235,19.3,18.3,8.3,Thai,NaN,NaN
+Thailand,killua,Made in Thailand,MITH,1,Flash,Killjoy,Skye,Breach,24,417,357,89,1.16,1.41,229,17.3,14.8,3.7,Thai,NaN,NaN
+Thailand,canady,Barn nong chok,BNC,7,Entry,Raze,Iso,Jett,14,228,224,43,1.01,1.2,224,16.2,16,3,Thai,NaN,NaN
+Thailand,tbloy,Santa Gang,SG,5,Entry,Raze,Jett,NaN,17,266,281,71,0.94,1.19,224,15.6,16.5,4.1,Thai,NaN,NaN
+Thailand,GarnetS,Team NKT,NKT,5,Entry,Jett,Raze,Reyna,17,261,235,49,1.11,1.31,222,15.3,13.8,2.8,Thai,NaN,NaN
+Thailand,Kadoom,Made in Thailand,MITH,1,Entry,Raze,Jett,Neon,24,379,370,93,1.02,1.27,222,15.7,15.4,3.8,Thai,NaN,NaN
+Thailand,xcool,Barn nong chok,BNC,7,Anchor,Cypher,Killjoy,Deadlock,14,235,193,56,1.21,1.5,217,16.7,13.7,4,Thai,NaN,NaN
+Thailand,maddd,XOXO-01,XOXO,8,Entry,Raze,Killjoy,NaN,10,142,162,40,0.87,1.12,215,14.2,16.2,4,Thai,NaN,NaN
+Thailand,Flukyy,Barn nong chok,BNC,7,Smoker,Omen,Jett,Brimstone,14,219,211,103,1.03,1.52,214,15.6,15,7.3,Thai,NaN,NaN
+Thailand,Seph1roth,Made in Thailand,MITH,1,Lurker,Viper,Killjoy,Cypher,24,390,323,119,1.2,1.57,214,16.2,13.4,4.9,Thai,NaN,NaN
+Thailand,Leviathan,FULL SENSE,FS,2,Smoker,Omen,Viper,Clove,29,478,395,204,1.21,1.72,213,16.4,13.6,7,Thai,NaN,NaN
+Thailand,Kntz,Made in Thailand,MITH,1,Smoker,Omen,Astra,Brimstone,24,408,311,157,1.31,1.81,212,17,12.9,6.5,Thai,NaN,NaN
+Thailand,Umaruchans,XOXO-01,XOXO,8,Flash,Gekko,Killjoy,Skye,15,223,226,60,0.98,1.25,208,14.8,15,4,Thai,NaN,NaN
+Thailand,ALerT,XERXIA,XIA,3,Anchor,Cypher,Killjoy,Viper,27,418,403,113,1.03,1.31,208,15.4,14.9,4.1,Thai,NaN,NaN
+Thailand,SoCoolSoDa,Team NKT,NKT,5,Recon,KAY/O,Omen,Sova,17,250,234,117,1.06,1.56,207,14.7,13.7,6.8,Thai,NaN,NaN
+Thailand,D4rf,XOXO-01,XOXO,8,Smoker,Omen,Raze,Brimstone,15,207,256,86,0.8,1.14,206,13.8,17,5.7,Thai,NaN,NaN
+Thailand,foxz,FULL SENSE,FS,2,Flash,Sova,Gekko,Breach,29,453,415,178,1.09,1.52,203,15.6,14.3,6.1,Thai,NaN,NaN
+Thailand,JAIGRAYRAY,Team NKT,NKT,5,Smoker,Viper,Brimstone,Omen,17,241,237,106,1.01,1.46,201,14.1,13.9,6.2,Thai,NaN,NaN
+Thailand,AloNeFillz,Team NKT,NKT,5,Flash,Gekko,Sova,Harbor,17,243,215,102,1.13,1.6,201,14.2,12.6,6,Thai,NaN,NaN
+Thailand,PTC,FULL SENSE,FS,2,Anchor,Sage,KAY/O,Cypher,29,441,382,223,1.15,1.73,200,15.2,13.1,7.6,Thai,NaN,NaN
+Thailand,Raigard,Santa Gang,SG,5,Smoker,Omen,Viper,NaN,17,242,259,113,0.93,1.37,198,14.2,15.2,6.6,Thai,NaN,NaN
+Thailand,sushiboys,FULL SENSE,FS,2,Anchor,Killjoy,Cypher,Breach,29,409,382,228,1.07,1.66,192,14.1,13.1,7.8,Thai,NaN,NaN
+Thailand,CGRS,Made in Thailand,MITH,1,Recon,Sova,Gekko,Cypher,24,343,307,149,1.11,1.6,192,14.2,12.7,6.2,Thai,NaN,NaN
+Thailand,Reality,Sharper Esport,SPE,4,Anchor,Cypher,Gekko,Viper,23,306,339,107,0.9,1.21,187,13.3,14.7,4.6,Thai,NaN,NaN
+Thailand,Laz,Team NKT,NKT,5,Anchor,Cypher,Viper,Killjoy,17,232,219,86,1.05,1.45,187,13.6,12.8,5,Thai,NaN,NaN
+Thailand,Kongared,Santa Gang,SG,5,Recon,KAY/O,Skye,Fade,17,235,240,131,0.97,1.52,186,13.8,14.1,7.7,Thai,NaN,NaN
+Thailand,NIZ,Santa Gang,SG,5,Recon,Sova,Gekko,Viper,17,238,240,86,0.99,1.35,185,14,14.1,5,Thai,NaN,NaN
+Thailand,PinOcChiOs,Sharper Esport,SPE,4,Flash,Breach,Gekko,Viper,24,322,363,167,0.88,1.34,184,13.4,15.1,6.9,Thai,NaN,NaN
+Thailand,Siraphop,XERXIA,XIA,3,Recon,Gekko,Sova,Fade,27,390,414,188,0.94,1.39,183,14.4,15.3,6.9,Thai,NaN,NaN
+Thailand,b3ta,XERXIA,XIA,3,Smoker,Omen,Brimstone,Viper,27,353,441,240,0.8,1.34,178,13,16.3,8.8,Thai,NaN,NaN
+Thailand,Acetics,Sharper Esport,SPE,4,Recon,Fade,Skye,Sage,21,267,312,126,0.85,1.25,178,12.7,14.8,6,Thai,NaN,NaN
+Thailand,xZe,Sharper Esport,SPE,4,Smoker,Omen,Brimstone,Yoru,23,294,352,159,0.83,1.28,174,12.7,15.3,6.9,Thai,NaN,NaN
+Thailand,ChAlalala,Santa Gang,SG,5,Anchor,Killjoy,Cypher,Brimstone,17,224,249,73,0.89,1.19,173,13.1,14.6,4.2,Thai,NaN,NaN
+Thailand,BnwGiggs,XERXIA,XIA,3,Flash,Breach,KAY/O,Skye,27,327,439,263,0.74,1.34,168,12.1,16.2,9.7,Thai,NaN,NaN
+Thailand,Itaoearth,XOXO-01,XOXO,8,Recon,Cypher,Fade,Skye,15,174,221,77,0.78,1.13,162,11.6,14.7,5.1,Thai,NaN,NaN
+Thailand,pedio,Barn nong chok,BNC,7,Smoker,Viper,Gekko,Sova,14,152,225,88,0.67,1.06,158,10.8,16,6.2,Thai,NaN,NaN
+Thailand,EARTHYRABYRABO,Barn nong chok,BNC,7,Recon,Skye,Fade,Breach,15,162,223,126,0.72,1.29,157,10.8,14.8,8.4,Thai,NaN,NaN
+Thailand,ALLR1GHTT,XOXO-01,XOXO,8,Smoker,Viper,KAY/O,Harbor,15,163,241,76,0.67,0.99,156,10.8,16,5,Thai,NaN,NaN

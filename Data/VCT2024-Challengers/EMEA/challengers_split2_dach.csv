@@ -1,0 +1,56 @@
+country,ign,team_name_full,shorthand,standings,role,agent_1,agent_2,agent_3,maps,k,d,a,kd,kda,acs_per_map,k_per_map,d_per_map,a_per_map,language_1,language_2,language_3
+United Kingdom,Lime,FOKUS,FKS,4,Flex,Yoru,Sage,Jett,30,550,368,129,1.49,1.84,249,18.3,12.2,4.3,English,NaN,NaN
+Poland,xuss,MOUZ,MOUZ,1,Entry,Raze,Yoru,Jett,38,751,581,122,1.29,1.5,248,19.7,15.2,3.2,Polish,NaN,NaN
+Serbia,elllement,CGN Esports,CGN,2,Entry,Raze,Jett,NaN,27,472,365,102,1.29,1.57,243,17.4,13.5,3.7,Serbian,NaN,NaN
+Germany,Click,SK Gaming,SK,7,Entry,Jett,Clove,Raze,20,394,344,54,1.14,1.3,243,19.7,17.2,2.7,German,NaN,NaN
+Germany,quantumrino,Permitta Unicorns,PXU,8,Entry,Raze,Jett,Chamber,20,344,356,73,0.96,1.17,234,17.2,17.8,3.6,German,NaN,NaN
+Portugal,DaviH,CGN Esports,CGN,2,Recon,Sova,Sage,NaN,27,439,322,185,1.36,1.93,226,16.2,11.9,6.8,Portuguese,Mirandese,NaN
+Germany,zery,XPERION NXT,NXT,9,Entry,Raze,Jett,Yoru,20,341,354,85,0.96,1.2,223,17,17.7,4.2,German,NaN,NaN
+Germany,Magnus,ALTERNATE aTTaX,ATN,5,Entry,Raze,Jett,Neon,27,429,378,77,1.13,1.33,223,15.8,14,2.8,German,NaN,NaN
+Switzerland,kovaQ,ALTERNATE aTTaX,ATN,5,Recon,Sova,KAY/O,Skye,27,424,367,205,1.15,1.71,223,15.7,13.5,7.5,German,French,Italian
+Germany,luckeRRR,Eintracht Frankfurt,SGE,3,Lurker,Sage,Yoru,Omen,29,494,458,210,1.07,1.53,219,17,15.7,7.2,German,NaN,NaN
+Germany,Leosen,Eintracht Frankfurt,SGE,3,Entry,Raze,Jett,Neon,29,514,490,99,1.04,1.25,217,17.7,16.8,3.4,German,NaN,NaN
+Germany,al0rante,FOKUS,FKS,4,Lurker,Cypher,Astra,Viper,30,473,410,113,1.15,1.42,215,15.7,13.6,3.7,German,NaN,NaN
+Germany,Linus,DIVIZON,DIV,6,Lurker,Omen,Cypher,NaN,24,388,397,170,0.97,1.4,214,16.1,16.5,7,German,NaN,NaN
+Wales,YaBoiLewis,FOKUS,FKS,4,Recon,KAY/O,Raze,Skye,30,449,422,206,1.06,1.55,214,14.9,14,6.8,Welsh,English,NaN
+Egypt,Ziad,DIVIZON,DIV,6,Entry,Raze,Jett,Yoru,24,378,392,110,0.96,1.24,212,15.7,16.3,4.5,Arabic,NaN,NaN
+Portugal,Fizzy,MOUZ,MOUZ,1,Anchor,Cypher,Viper,Killjoy,38,649,556,176,1.16,1.48,209,17,14.6,4.6,Portuguese,Mirandese,NaN
+Greece,eXampL,DIVIZON,DIV,6,Recon,Sova,Skye,Viper,24,395,320,170,1.23,1.76,207,16.4,13.3,7,Greek,NaN,NaN
+United Kingdom,aNguiSt,CGN Esports,CGN,2,Anchor,Killjoy,Viper,Cypher,27,422,361,93,1.16,1.42,203,15.6,13.3,3.4,English,NaN,NaN
+Germany,Shazeon,Eintracht Frankfurt,SGE,3,Anchor,Cypher,Viper,Killjoy,29,486,456,181,1.06,1.46,203,16.7,15.7,6.2,German,NaN,NaN
+United Kingdom,Luzuh,Ovation eSports,OVA,10,Entry,Jett,Raze,Chamber,21,296,332,67,0.89,1.09,202,14,15.8,3.1,English,NaN,NaN
+Germany,Happen,Permitta Unicorns,PXU,8,Recon,Fade,Sova,Gekko,12,199,186,89,1.06,1.54,200,16.5,15.5,7.4,German,NaN,NaN
+Poland,starki,MOUZ,MOUZ,1,Smoker,Omen,Brimstone,Astra,38,605,563,324,1.07,1.65,199,15.9,14.8,8.5,Polish,NaN,NaN
+Germany,obnoks,MOUZ,MOUZ,1,Recon,Sova,Gekko,Fade,38,606,587,234,1.03,1.43,197,15.9,15.4,6.1,German,NaN,NaN
+Germany,Felix,SK Gaming,SK,7,Recon,Gekko,Sova,Fade,20,286,297,143,0.96,1.44,195,14.3,14.8,7.1,German,NaN,NaN
+Germany,Daveeski,Permitta Unicorns,PXU,8,Anchor,Killjoy,Breach,Cypher,20,285,337,117,0.84,1.19,194,14.2,16.8,5.8,German,NaN,NaN
+United Kingdom,Louitan,Ovation eSports,OVA,10,Anchor,Viper,KAY/O,Sage,21,282,315,122,0.89,1.28,194,13.4,15,5.8,English,NaN,NaN
+Germany,Karma,ALTERNATE aTTaX,ATN,5,Anchor,Killjoy,Cypher,Deadlock,16,226,212,53,1.06,1.31,191,14.1,13.2,3.3,German,NaN,NaN
+Austria,Kongi,XPERION NXT,NXT,9,Lurker,Viper,Killjoy,Cypher,20,298,321,116,0.92,1.28,189,14.9,16,5.8,German,NaN,NaN
+Germany,GENETICZZ,Permitta Unicorns,PXU,8,Anchor,Cypher,Killjoy,Clove,8,104,123,15,0.84,0.96,185,13,15.3,1.8,German,NaN,NaN
+Austria,eNes,Eintracht Frankfurt,SGE,3,Smoker,Omen,Clove,Astra,29,431,481,230,0.89,1.37,183,14.8,16.5,7.9,German,NaN,NaN
+Romania,MCD,DIVIZON,DIV,6,Anchor,Cypher,Killjoy,Viper,19,293,255,69,1.14,1.41,182,15.4,13.4,3.6,Romanian,NaN,NaN
+Germany,bucher,FOKUS,FKS,4,Smoker,Omen,Brimstone,Viper,30,387,378,219,1.02,1.6,182,12.9,12.6,7.3,German,NaN,NaN
+Germany,murii,SK Gaming,SK,7,Lurker,Cypher,Viper,Omen,20,276,321,77,0.85,1.09,181,13.8,16,3.8,German,NaN,NaN
+Germany,xJini,ALTERNATE aTTaX,ATN,5,Smoker,Omen,Viper,Brimstone,27,346,374,201,0.92,1.46,180,12.8,13.8,7.4,German,NaN,NaN
+Germany,Sevkaan,ALTERNATE aTTaX,ATN,5,Anchor,Killjoy,Cypher,NaN,11,147,145,37,1.01,1.26,179,13.3,13.1,3.3,German,NaN,NaN
+Germany,STAVINCI,ALTERNATE aTTaX,ATN,5,Flash,Breach,Gekko,KAY/O,27,351,380,206,0.92,1.46,179,13,14,7.6,German,NaN,NaN
+Germany,xanarchy,Eintracht Frankfurt,SGE,3,Recon,Sova,Gekko,Skye,29,412,432,219,0.95,1.46,178,14.2,14.8,7.5,German,NaN,NaN
+Germany,Vince,CGN Esports,CGN,2,Smoker,Omen,Astra,Brimstone,27,347,346,233,1,1.67,174,12.8,12.8,8.6,German,NaN,NaN
+Finland,SPMAK,DIVIZON,DIV,6,Flash,Breach,Sova,Skye,24,302,371,231,0.81,1.43,174,12.5,15.4,9.6,Finnish,Swedish,NaN
+Germany,BennY,CGN Esports,CGN,2,Flash,Gekko,Sage,Phoenix,27,336,375,150,0.89,1.29,174,12.4,13.8,5.5,German,NaN,NaN
+Ireland,canefis,Ovation eSports,OVA,10,Anchor,Killjoy,Cypher,Viper,21,261,311,62,0.83,1.03,172,12.4,14.8,2.9,English,NaN,NaN
+Germany,CALVIN S,XPERION NXT,NXT,9,Smoker,Omen,Sova,Brimstone,20,276,330,124,0.83,1.21,171,13.8,16.5,6.2,German,NaN,NaN
+Sweden,Meddo,SK Gaming,SK,7,Lurker,Breach,Viper,Killjoy,20,273,289,156,0.94,1.48,170,13.6,14.4,7.8,Swedish,NaN,NaN
+Czechia,eleo,Ovation eSports,OVA,10,Recon,Sova,Fade,KAY/O,21,232,317,123,0.73,1.11,168,11,15,5.8,Czech,NaN,NaN
+Germany,B3ASTM0D3,Ovation eSports,OVA,10,Smoker,Omen,Viper,Brimstone,21,248,299,99,0.82,1.16,166,11.8,14.2,4.7,German,NaN,NaN
+Germany,Movi,Permitta Unicorns,PXU,8,Flash,Breach,Sova,Omen,20,263,316,143,0.83,1.28,166,13.1,15.8,7.1,German,NaN,NaN
+Germany,Spocki,XPERION NXT,NXT,9,Flash,KAY/O,Gekko,Skye,20,263,341,147,0.77,1.2,165,13.1,17,7.3,German,NaN,NaN
+Germany,RxYaL,Permitta Unicorns,PXU,8,Lurker,Omen,Chamber,Viper,8,83,125,37,0.66,0.96,163,10.3,15.6,4.6,German,NaN,NaN
+Germany,shiio,Permitta Unicorns,PXU,8,Smoker,Omen,Viper,Neon,12,159,187,79,0.85,1.27,162,13.2,15.5,6.5,German,NaN,NaN
+Finland,iluri,MOUZ,MOUZ,1,Flash,Breach,Gekko,Skye,38,466,549,282,0.84,1.36,154,12.2,14.4,7.4,Finnish,Swedish,NaN
+Denmark,SEIDER,FOKUS,FKS,4,Recon,Gekko,Fade,Sova,30,326,404,183,0.8,1.25,152,10.8,13.4,6.1,Danish,English,NaN
+Austria,Rexon,XPERION NXT,NXT,9,Lurker,Omen,Cypher,Skye,20,239,327,132,0.73,1.13,152,11.9,16.3,6.6,German,NaN,NaN
+Serbia,qpert,SK Gaming,SK,7,Smoker,Omen,Astra,Viper,20,223,298,172,0.74,1.32,147,11.1,14.9,8.6,Serbian,NaN,NaN
+Germany,NyaRu,DIVIZON,DIV,6,Anchor,Killjoy,Jett,Cypher,3,33,40,8,0.82,1.02,143,11,13.3,2.6,German,NaN,NaN
+Germany,Kirby,DIVIZON,DIV,6,Anchor,Cypher,Killjoy,NaN,2,23,31,9,0.74,1.03,139,11.5,15.5,4.5,German,NaN,NaN
