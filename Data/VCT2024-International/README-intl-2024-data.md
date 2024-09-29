@@ -7,7 +7,13 @@ This folder contains CSV files related to the VCT International 2024 season.
 - **teams_vct_intl_2024.csv**: Contains details of all the teams participating in VCT International 2024.
 - **leagues_vct_intl_2024.csv**: Contains details of all the leagues in the VCT International 2024.
 
+### vct-intl-2024-leagues.csv 
+| Column Name       | Description                                 | Data Type |
+| `country`         | Player's country of origin                  | String    |
+| `VALORANT international league region`| VALORANT League region - AMER: Americas, EMEA: Europe Middle East Asia, CN: China, PAC: Pacific| Categorical | 
+
 ### vct-intl-2024-teams.csv
+This data is from the VCT International Stage 2 of each region. We select this tournament for our pool of international players as it is the highest tier tournament where every player in the league had a chance to compete. 
 
 | Column Name       | Description                                 | Data Type |
 |-------------------|---------------------------------------------|-----------|
@@ -31,8 +37,6 @@ This folder contains CSV files related to the VCT International 2024 season.
 | `prize_pool_usd`    | Total prize pool of the tournament        | Integer   |
 | `winner`          | Winner of the tournament, #1 placement overall | String|
 |`runner_up` | RUnner up of the tournament, #2 placement overall |String |
-
-Here’s the tidied version of the **Pro System** and **Championship Points** format:
 
 ---
 
@@ -106,5 +110,3 @@ Here’s the tidied version of the **Pro System** and **Championship Points** fo
 - **Pacific**: 4 slots (3 teams from Stage 2 + 1 from Championship Points).
 
 ---
-
-This format organizes the information clearly and concisely, making it easy to understand the Pro System and how Championship Points work across different stages and events.
