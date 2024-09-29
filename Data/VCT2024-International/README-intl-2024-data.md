@@ -9,8 +9,9 @@ This folder contains CSV files related to the VCT International 2024 season.
 
 ### vct-intl-2024-leagues.csv 
 | Column Name       | Description                                 | Data Type |
+|-------------------|---------------------------------------------|-----------|
 | `country`         | Player's country of origin                  | String    |
-| `VALORANT international league region`| VALORANT League region - AMER: Americas, EMEA: Europe Middle East Asia, CN: China, PAC: Pacific| Categorical | 
+| `VALORANT international league region`| VALORANT League region - AMER: Americas, EMEA: Europe Middle East Asia, CN: China, PAC: Pacific| Categorical| 
 
 ### vct-intl-2024-teams.csv
 This data is from the VCT International Stage 2 of each region. We select this tournament for our pool of international players as it is the highest tier tournament where every player in the league had a chance to compete. 
