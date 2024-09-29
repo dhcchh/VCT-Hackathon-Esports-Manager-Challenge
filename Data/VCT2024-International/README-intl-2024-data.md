@@ -8,6 +8,7 @@ This folder contains CSV files related to the VCT International 2024 season.
 - **leagues_vct_intl_2024.csv**: Contains details of all the leagues in the VCT International 2024.
 
 ### vct-intl-2024-leagues.csv 
+This data is from the VCT International Stage 2 of each region. We select this tournament for our pool of international players as it is the highest tier tournament where every player in the league had a chance to compete.
 | Column Name       | Description                                                                 | Data Type   |
 |-------------------|-----------------------------------------------------------------------------|-------------|
 | **country**       | The player's country of origin (e.g., Taiwan, China).                       | `object`    |
@@ -32,7 +33,6 @@ This folder contains CSV files related to the VCT International 2024 season.
 | **a_per_map**     | The average number of assists per map.
 
 ### vct-intl-2024-teams.csv
-This data is from the VCT International Stage 2 of each region. We select this tournament for our pool of international players as it is the highest tier tournament where every player in the league had a chance to compete. 
 
 | Column Name       | Description                                 | Data Type |
 |-------------------|---------------------------------------------|-----------|
