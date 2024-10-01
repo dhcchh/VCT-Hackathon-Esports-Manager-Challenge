@@ -13,12 +13,11 @@
   - **data/**
   - **intl/**: Contains data related to the VCT International 2024 events.
   - **challengers/**: Data related to the VCT Challengers 2024 series, including regional competitions.
-  - **game_changers (GC)**: Data for the VCT Game Changers 2024 series, focused on promoting diversity and inclusivity in competitive VALORANT.
-  - **roles/**: Data on agent roles, player roles, and team compositions, outlining how different players fulfill their roles during matches.
+  - **game_changers (GC)/**: Data for the VCT Game Changers 2024 series, focused on promoting diversity and inclusivity in competitive VALORANT.
+  - **game data/**: Data about VALORANT as a game, including in-game agents, roles, maps, and game mechanics. This data provides foundational information about how the game functions, such as the abilities of different agents, the roles players take on within a team (e.g., In-game Leader, Fragger, Support), the dynamics of maps (e.g., map layouts, objectives), and the core game mechanics (e.g., rounds, objectives, and economy system). This data is essential for understanding team compositions, agent synergies, and strategic planning within the game.
+
 
 ### Attributions
-
 This project incorporates data from multiple sources, including:
 
-If you use this repository in your own projects, please ensure that you credit the original data sources.
 
