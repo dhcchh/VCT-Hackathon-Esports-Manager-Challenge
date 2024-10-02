@@ -4,6 +4,7 @@ import requests
 from bs4 import BeautifulSoup
 import glob
 import os
+import re
 
 def make_role_dict(df):
     """
@@ -15,18 +16,13 @@ def make_role_dict(df):
 
     Return type:
         dict: A dictionary where the keys are agent names (str) and the 
-            values are lists of roles (str) of length 3.
+            values are their team roles (str)
     """
     n = len(df)
     d = {}
     for i in range(0, n):
-        name, ar, tr1, tr2, tr3 = df.iloc[i]
-        x = [tr1, tr2, tr3]
-        y = []
-        d[name] = y
-        for tr in x:
-            if type(tr) != float and type(tr) != np.float64:
-                y.append(tr)
+        name, ar = df.iloc[i]
+        d[name] = ar
     return d
 
 def make_language_dict(df):
@@ -124,32 +120,60 @@ def map_languages(country, country_dict, current_languages):
     return languages
 
 
-def map_role(agents, agent_dct):
+def map_role(agents):
     """
     Get the most frequent role for a list of agents from the agent-role dictionary.
     
     Parameters:
         agents (list): A list of agent names
-        agent_dict (dict): A dictionary mapping the agent names to playable roles.
 
     Return type:
         str: The most frequent role among the agents. If the role is not found, 
             it returns 'Not Found' or 'NaN'.
     """
+    role_dict = {'Brimstone': 'Smoker',
+                 'Viper': 'Smoker',
+                 'Omen': 'Smoker',
+                 'Harbor': 'Smoker',
+                 'Clove': 'Smoker',
+                 'Astra': 'Smoker',
+                 'Iso': 'Entry',
+                 'Phoenix': 'Entry',
+                 'Jett': 'Entry',
+                 'Reyna': 'Entry',
+                 'Raze': 'Entry',
+                 'Neon': 'Entry',
+                 'Yoru': 'Entry',
+                 'Gekko': 'Support',
+                 'Fade': 'Support',
+                 'Skye': 'Support',
+                 'Breach': 'Support',
+                 'Sova': 'Support',
+                 'KAY/O': 'Support',
+                 'Chamber': 'Anchor',
+                 'Sage': 'Anchor',
+                 'Cypher': 'Anchor',
+                 'Deadlock': 'Anchor',
+                 'Killjoy': 'Anchor',
+                 'Vyse': 'Anchor'}
     count = {}
     for agent in agents:
-        roles = agent_dct[agent]
-        for role in roles:
-            if role not in count:
-                count[role] = 0
-            count[role] += 1
-    curr = 0
-    y = 'Not Found'
-    for role, freq in count.items():
-        if freq > curr:
-            curr = freq
-            y = role
-    return y
+        if agent not in role_dict:
+            continue
+        role = role_dict[agent]
+        if role not in count:
+            count[role] = 0
+        count[role] += 1
+    n = len(count)
+    if n == 1:
+        return next(iter(count))
+    else:
+        for role, freq in count.items():
+            if freq >= 2:
+                return role
+        return 'Flex'
+    
+     
     
 def map_shorthand(full_name, sh_dict):
     """
@@ -185,7 +209,7 @@ def map_standing(full_name, standings_dict):
         return 'Team not Mapped'
     return standings_dict[full_name]
 
-def get_table(url, main_lang, role_dict, language_dict, shorthand_dict, standings_dict):
+def get_table(url, main_lang, language_dict, shorthand_dict, standings_dict):
     """
     Extracts a table from the given URL and returns a DataFrame.
 
@@ -202,12 +226,12 @@ def get_table(url, main_lang, role_dict, language_dict, shorthand_dict, standing
             such as country, team name, roles, and statistics.
     """
     col = ['country', 'ign', 'language_1', 'language_2', 'language_3', 'team_name_full', 'shorthand', 'standings',
-            'agent_1','agent_2','agent_3', 'role', 'maps',
+            'agent_1','agent_2','agent_3', 'team_role', 'maps',
             'k','d','a','kd','kda','acs_per_map','k_per_map','d_per_map','a_per_map']
-    new_col = ['country', 'ign', 'team_name_full', 'shorthand', 'standings',
-            'role', 'agent_1','agent_2','agent_3', 'maps',
-            'k','d','a','kd','kda','acs_per_map', 'k_per_map', 'd_per_map', 'a_per_map',
-            'language_1', 'language_2', 'language_3']
+    new_col = ['country', 'language_1', 'language_2', 'language_3', 'ign', 'team_role', 'standings', 
+               'team_name_full', 'shorthand', 'agent_1','agent_2','agent_3', 'maps',
+               'k','d','a','kd','kda','acs_per_map', 'k_per_map', 'd_per_map', 'a_per_map',
+            ]
     page = requests.get(url)
     soup = BeautifulSoup(page.text, 'html.parser')
     table = soup.find('tbody').find_all('tr')
@@ -221,10 +245,15 @@ def get_table(url, main_lang, role_dict, language_dict, shorthand_dict, standing
             if j == 0:
                 continue
             elif j == 1: # `country`, `ign`, `language_1/2/3`
-                country = row[j].find('img')['alt']
-                player = row[j].text.strip()
+                tag = row[j].find('img')
+                country = ''
+                if tag is None:
+                    country = 'International'
+                else:
+                    country = tag['alt']
                 if country == '':
                     country = 'International'
+                player = row[j].text.strip()
                 languages = map_languages(country, language_dict, main_lang)
                 data_row.append(country)
                 data_row.append(player)
@@ -253,7 +282,7 @@ def get_table(url, main_lang, role_dict, language_dict, shorthand_dict, standing
                     else:
                         data_row.append(tags[i]['title'])
                         agents.append(tags[i]['title'])
-                data_row.append(map_role(agents, role_dict))
+                data_row.append(map_role(agents))
             else:
                 data_row.append(row[j].text.strip())
         if flag:
@@ -262,7 +291,7 @@ def get_table(url, main_lang, role_dict, language_dict, shorthand_dict, standing
     df = df[new_col]
     return df
 
-def get_table_ignore_table(url, main_lang, role_dict, language_dict, shorthand_dict, standings_dict):
+def get_table_ignore_table(url, main_lang, language_dict, shorthand_dict, standings_dict):
     """
     Extracts a table from the given URL and returns a DataFrame, ignoring the first table (if redundant).
 
@@ -278,12 +307,12 @@ def get_table_ignore_table(url, main_lang, role_dict, language_dict, shorthand_d
         pd.DataFrame: A DataFrame containing player data, including their country, team name, role, and other statistics.
     """
     col = ['country', 'ign', 'language_1', 'language_2', 'language_3', 'team_name_full', 'shorthand', 'standings',
-            'agent_1','agent_2','agent_3', 'role', 'maps',
+            'agent_1','agent_2','agent_3', 'team_role', 'maps',
             'k','d','a','kd','kda','acs_per_map','k_per_map','d_per_map','a_per_map']
-    new_col = ['country', 'ign', 'team_name_full', 'shorthand', 'standings',
-            'role', 'agent_1','agent_2','agent_3', 'maps',
-            'k','d','a','kd','kda','acs_per_map', 'k_per_map', 'd_per_map', 'a_per_map',
-            'language_1', 'language_2', 'language_3']
+    new_col = ['country', 'language_1', 'language_2', 'language_3', 'ign', 'team_role', 'standings', 
+               'team_name_full', 'shorthand', 'agent_1','agent_2','agent_3', 'maps',
+               'k','d','a','kd','kda','acs_per_map', 'k_per_map', 'd_per_map', 'a_per_map',
+            ]
     page = requests.get(url)
     soup = BeautifulSoup(page.text, 'html.parser')
     table = soup.find_all('tbody')[2].find_all('tr')
@@ -322,7 +351,7 @@ def get_table_ignore_table(url, main_lang, role_dict, language_dict, shorthand_d
                     else:
                         data_row.append(tags[i]['title'])
                         agents.append(tags[i]['title'])
-                data_row.append(map_role(agents, role_dict))
+                data_row.append(map_role(agents))
             else:
                 data_row.append(row[j].text.strip())
         data.append(data_row)
@@ -330,7 +359,57 @@ def get_table_ignore_table(url, main_lang, role_dict, language_dict, shorthand_d
     df = df[new_col]
     return df
 
-def merge_subregions(path):
+def ranking_value(standing):
+    """
+    Helper function that determines relative standing of a team.
+
+    Parameters:
+        standing (str): (Relative) Standing of the team.
+    
+    Return type:
+        float: single value for the team's standing.
+    """
+    if isinstance(standing, str):
+        n = len(standing.split('-'))
+        numbers = re.findall(r'\d+', standing)
+        if numbers and n == 2:
+            return int(numbers[0]) + 0.5  
+        return int(numbers[0])
+    return float('inf')  
+    
+def resolve_duplicates(group):
+    """
+    Helper function which handles logic for dropping duplicates.
+    
+    Parameters:
+        group (list): list of standings (str).
+    
+    Return type:
+        list: list with unique standings (str).
+    """
+    return group.loc[group['standings'].apply(ranking_value).idxmin()]
+
+def merge_duplicates(path):
+    """
+    Merges files present in directory, keeping 'ign' column unique.
+    
+    Parameters:
+        path (str): directory to files.
+    
+    Return type:
+        pd.dataframe: Dataframe with all files merged.
+    """
+    merged_df = []
+    files = glob.glob(os.path.join(path, '*.csv'))
+    for file in files:
+        df = pd.read_csv(file)
+        merged_df.append(df)
+    merged_df = pd.concat(merged_df, ignore_index = True)
+    distinct_df = merged_df.groupby('ign', group_keys = False).apply(resolve_duplicates)\
+            .reset_index(drop = True)
+    return distinct_df
+
+def merge_subregions(path, rename_dict):
     """
     Merge multiple sub-regions into a single DataFrame, retaining only player entries with the highest standings.
 
@@ -341,13 +420,19 @@ def merge_subregions(path):
         pd.DataFrame: A DataFrame containing merged player data from all sub-regions, 
             keeping only entries with the highest standings for each player.
     """
+    new_col = ['country', 'sub_region', 'language_1', 'language_2', 'language_3', 'ign', 'team_role', 'igl', 'standings',
+        'team_name_full', 'shorthand', 'agent_1','agent_2','agent_3', 'maps',
+        'k','d','a','kd','kda','acs_per_map', 'k_per_map', 'd_per_map', 'a_per_map']
     csv_files = glob.glob(os.path.join(path, '*.csv'))
     dataframes = []
     for file in csv_files:
         sub_region_df = pd.read_csv(file)
         filename = os.path.basename(file)
-        sub_region_df['sub_region'] = filename.split('_')[-1].replace('.csv', '')
+        sub_region_df['sub_region'] = rename_dict[filename.split('_')[-1].replace('.csv', '')]
         dataframes.append(sub_region_df)
     region_df = pd.concat(dataframes, ignore_index = True)
-    region_df = region_df.loc[region_df.groupby('ign')['standings'].idxmin()].reset_index(drop = True)
+    region_df = region_df.groupby('ign', group_keys = False).apply(resolve_duplicates)\
+            .reset_index(drop = True)
+    region_df = region_df[new_col]
     return region_df
+
