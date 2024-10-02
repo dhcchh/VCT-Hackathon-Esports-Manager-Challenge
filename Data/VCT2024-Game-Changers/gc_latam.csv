@@ -1,0 +1,69 @@
+country,language_1,language_2,language_3,ign,team_role,igl,standings,team_name_full,shorthand,agent_1,agent_2,agent_3,maps,k,d,a,kd,kda,acs_per_map,k_per_map,d_per_map,a_per_map
+Uruguay,Spanish,,,Adenina,Support,True,3rd,9z Team Female,9ZG.GC,KAY/O,Fade,Gekko,22,251,293,165,0.85,1.41,154,11.4,13.3,7.5
+Puerto Rico,Spanish,English,,AlexaIsHot,Support,False,4th,KS Esports,KS,KAY/O,Omen,Gekko,14,224,210,124,1.06,1.65,223,16.0,15.0,8.8
+Venezuela,Spanish,,,Andrehs,Support,True,1st,Akave Esports Black,AKV.GC,Breach,Sova,Fade,18,234,209,178,1.11,1.97,196,13.0,11.6,9.8
+Peru,Spanish,Quechua,Aymara,Asia,Anchor,False,5th,University War GC,UW.GC,Cypher,Killjoy,Deadlock,14,169,212,57,0.79,1.06,161,12.0,15.1,4.0
+Guatemala,Spanish,,,Asomy,Entry,False,6th,Barcelona Esports GC,BSX,Omen,Jett,Raze,10,110,161,53,0.68,1.01,176,11.0,16.1,5.3
+Chile,Spanish,,,Ataraxia,Flex,False,2nd,Leviatán GC,LEV.GC,Cypher,Raze,Viper,10,131,148,49,0.88,1.21,194,13.1,14.8,4.9
+Guatemala,Spanish,,,Banana,Smoker,False,2nd,FUSION X,FSX,Omen,Viper,,2,13,31,11,0.41,0.77,107,6.5,15.5,5.5
+Costa Rica,Spanish,,,Chloee,Support,False,3rd,MYVRA,MVR,Breach,KAY/O,Harbor,17,219,268,165,0.81,1.43,183,12.8,15.7,9.7
+Mexico,Spanish,,,Danonino,Support,False,2nd,FUSION X,FSX,Skye,KAY/O,Sova,18,292,262,181,1.11,1.8,219,16.2,14.5,10.0
+Venezuela,Spanish,,,Ellie,Smoker,False,4th,KS Esports,KS,Omen,Viper,,8,115,117,53,0.98,1.43,197,14.3,14.6,6.6
+Peru,Spanish,Quechua,Aymara,Faith,Anchor,False,5th,K7 Esports (LATAM team),K7,Sage,,,1,8,19,11,0.42,1.0,86,8.0,19.0,11.0
+Colombia,Spanish,,,Fire,Anchor,False,3rd,MYVRA,MVR,Killjoy,Cypher,,8,104,102,27,1.01,1.28,176,13.0,12.7,3.3
+Argentina,Spanish,,,Flossie,Anchor,True,4th,FiRePOWER,FIRE,Cypher,Killjoy,Viper,17,245,243,76,1.0,1.32,202,14.4,14.2,4.4
+Chile,Spanish,,,Gelatycat,Smoker,False,6th,Cruzados Esports Fem,UC.FEM,Fade,Viper,Omen,11,144,170,54,0.84,1.16,174,13.0,15.4,4.9
+Colombia,Spanish,,,GuterWoman,Anchor,False,5th,K7 Esports (LATAM team),K7,Killjoy,Cypher,Brimstone,8,121,129,29,0.93,1.16,209,15.1,16.1,3.6
+Chile,Spanish,,,Hotaru,Support,False,2nd,Leviatán GC,LEV.GC,KAY/O,Skye,Gekko,10,113,151,68,0.74,1.19,161,11.3,15.1,6.8
+Colombia,Spanish,,,ICami,Smoker,True,3rd,MYVRA,MVR,Omen,Viper,Brimstone,18,300,260,140,1.15,1.69,227,16.6,14.4,7.7
+Colombia,Spanish,,,Ivy,Support,False,1st,Akave Esports Black,AKV.GC,Gekko,Skye,KAY/O,18,296,209,142,1.41,2.09,239,16.4,11.6,7.8
+Argentina,Spanish,,,Jazzy,Smoker,False,2nd,Leviatán GC,LEV.GC,Omen,Brimstone,Sova,10,90,145,36,0.62,0.86,126,9.0,14.5,3.6
+Ecuador,Spanish,Quechua,Indigenous,Jia,Support,False,3rd,MYVRA,MVR,Sova,Gekko,Skye,18,282,265,135,1.06,1.57,216,15.6,14.7,7.5
+Brazil,Portuguese,,,JuW,Entry,False,1st,Akave Esports Black,AKV.GC,Raze,Jett,Sage,18,307,234,87,1.31,1.68,256,17.0,13.0,4.8
+Costa Rica,Spanish,,,LaPapaLuna,Smoker,False,5th,K7 Esports (LATAM team),K7,Sova,Omen,Brimstone,7,73,102,34,0.71,1.04,154,10.4,14.5,4.8
+Colombia,Spanish,,,LauGuz,Entry,False,5th,K7 Esports (LATAM team),K7,Raze,Jett,,8,152,125,28,1.21,1.44,265,19.0,15.6,3.5
+Costa Rica,Spanish,,,LiNLiN,Smoker,False,1st,Akave Esports Black,AKV.GC,Omen,Viper,Gekko,18,265,192,145,1.38,2.13,206,14.7,10.6,8.0
+Peru,Spanish,Quechua,Aymara,Lied,Entry,False,2nd,FUSION X,FSX,Raze,Jett,Sova,18,341,286,97,1.19,1.53,260,18.9,15.8,5.3
+Colombia,Spanish,,,Luna qwq,Entry,False,6th,Barcelona Esports GC,BSX,Jett,Raze,,6,77,103,23,0.74,0.97,186,12.8,17.1,3.8
+United States,English,,,LunaFox,Support,False,4th,KS Esports,KS,Skye,Gekko,Breach,14,226,212,106,1.06,1.56,219,16.1,15.1,7.5
+Guatemala,Spanish,,,Luwucia,Smoker,False,6th,Barcelona Esports GC,BSX,Viper,KAY/O,Omen,10,119,146,35,0.81,1.05,176,11.9,14.6,3.5
+Chile,Spanish,,,Lynn,Entry,False,4th,FiRePOWER,FIRE,Raze,Jett,Yoru,17,285,262,60,1.08,1.31,236,16.7,15.4,3.5
+Ecuador,Spanish,Quechua,Indigenous,Maytite,Smoker,False,6th,Barcelona Esports GC,BSX,Sova,Omen,Astra,10,91,145,52,0.62,0.98,143,9.1,14.5,5.2
+Chile,Spanish,,,Mcfly,Smoker,False,6th,Cruzados Esports Fem,UC.FEM,Fade,Omen,Astra,11,114,179,66,0.63,1.0,147,10.3,16.2,6.0
+Uruguay,Spanish,,,MeL,Entry,False,2nd,Leviatán GC,LEV.GC,Raze,Jett,Yoru,10,155,155,35,1.0,1.22,224,15.5,15.5,3.5
+Mexico,Spanish,,,Miku,Flex,False,2nd,FUSION X,FSX,Chamber,Yoru,,2,55,35,5,1.57,1.71,319,27.5,17.5,2.5
+Chile,Spanish,,,Nati,Support,False,2nd,Leviatán GC,LEV.GC,Viper,Sova,Gekko,10,157,143,36,1.09,1.34,222,15.7,14.3,3.6
+Chile,Spanish,,,PoniX,Support,False,3rd,9z Team Female,9ZG.GC,Gekko,Sova,Breach,22,292,300,162,0.97,1.51,179,13.2,13.6,7.3
+Costa Rica,Spanish,,,Raquinuki,Anchor,False,2nd,FUSION X,FSX,Killjoy,Cypher,Deadlock,18,279,270,71,1.03,1.29,207,15.5,15.0,3.9
+Mexico,Spanish,,,Saab,Anchor,False,6th,Barcelona Esports GC,BSX,Killjoy,Chamber,,4,35,57,5,0.61,0.7,154,8.7,14.2,1.2
+Argentina,Spanish,,,Saikiwi,Smoker,False,5th,University War GC,UW.GC,Omen,Viper,Brimstone,13,170,197,92,0.86,1.32,181,13.0,15.1,7.0
+Colombia,Spanish,,,Saraya,Support,False,6th,Barcelona Esports GC,BSX,Sova,Skye,Killjoy,10,120,149,55,0.8,1.17,175,12.0,14.9,5.5
+United States,English,,,Sillyseal27,Entry,False,4th,KS Esports,KS,Yoru,,,1,19,19,5,1.0,1.26,194,19.0,19.0,5.0
+Ecuador,Spanish,Quechua,Indigenous,Supiree,Entry,False,3rd,MYVRA,MVR,Raze,Jett,,18,267,312,86,0.85,1.13,210,14.8,17.3,4.7
+El Salvador,Spanish,,,Vefa,Anchor,False,3rd,MYVRA,MVR,Cypher,Killjoy,Harbor,11,147,171,50,0.85,1.15,183,13.3,15.5,4.5
+Chile,Spanish,,,Vossu,Support,True,5th,University War GC,UW.GC,Breach,Skye,Sova,14,150,208,114,0.72,1.26,151,10.7,14.8,8.1
+Guatemala,Spanish,,,Xalleby,Entry,False,4th,KS Esports,KS,Raze,Reyna,Jett,14,214,225,57,0.95,1.2,211,15.2,16.0,4.0
+Chile,Spanish,,,Yuna,Flex,False,5th,University War GC,UW.GC,Jett,Viper,,2,29,32,6,0.9,1.09,190,14.5,16.0,3.0
+Argentina,Spanish,,,azul,Support,False,4th,FiRePOWER,FIRE,KAY/O,Skye,Omen,17,184,267,120,0.68,1.13,155,10.8,15.7,7.0
+Brazil,Portuguese,,,babzzz,Anchor,False,3rd,9z Team Female,9ZG.GC,Killjoy,Viper,Cypher,22,324,336,91,0.96,1.23,197,14.7,15.2,4.1
+Chile,Spanish,,,bae,Support,False,5th,University War GC,UW.GC,Fade,Sage,Sova,14,239,191,87,1.25,1.7,227,17.0,13.6,6.2
+Brazil,Portuguese,,,biazik,Support,False,1st,KRÜ Blaze,KRU.B,Sova,Skye,Breach,16,206,173,123,1.19,1.9,191,12.8,10.8,7.6
+United States,English,,,citrus,Anchor,False,4th,KS Esports,KS,Cypher,Killjoy,Brimstone,13,193,180,60,1.07,1.4,197,14.8,13.8,4.6
+Chile,Spanish,,,conir,Smoker,True,1st,KRÜ Blaze,KRU.B,Omen,Viper,Brimstone,16,250,149,130,1.67,2.55,216,15.6,9.3,8.1
+Brazil,Portuguese,,,dods,Entry,False,1st,KRÜ Blaze,KRU.B,Raze,Jett,,16,330,206,51,1.6,1.84,306,20.6,12.8,3.1
+Chile,Spanish,,,frantastic,Smoker,False,4th,FiRePOWER,FIRE,Viper,Sova,Omen,17,192,244,95,0.78,1.17,161,11.2,14.3,5.5
+Peru,Spanish,Quechua,Aymara,iYuun,Smoker,False,5th,K7 Esports (LATAM team),K7,Viper,Omen,Harbor,8,75,115,47,0.65,1.06,135,9.3,14.3,5.8
+Dominican Republic,Spanish,,,memi,Smoker,False,4th,KS Esports,KS,Viper,Omen,,6,62,99,27,0.62,0.89,140,10.3,16.5,4.5
+Argentina,Spanish,,,micaela,Support,False,1st,KRÜ Blaze,KRU.B,Harbor,KAY/O,Fade,16,213,174,136,1.22,2.0,194,13.3,10.8,8.5
+Chile,Spanish,,,miwa,Support,False,6th,Cruzados Esports Fem,UC.FEM,Gekko,KAY/O,Breach,11,125,184,66,0.67,1.03,158,11.3,16.7,6.0
+Mexico,Spanish,,,mmonch,Anchor,False,1st,Akave Esports Black,AKV.GC,Cypher,Killjoy,Viper,18,285,199,102,1.43,1.94,232,15.8,11.0,5.6
+United States,English,,,natas,Support,False,2nd,FUSION X,FSX,Gekko,Breach,Reyna,14,170,196,89,0.86,1.32,153,12.1,14.0,6.3
+Argentina,Spanish,,,nicky,Smoker,False,3rd,9z Team Female,9ZG.GC,Omen,Sage,Viper,22,296,314,171,0.94,1.48,184,13.4,14.2,7.7
+Brazil,Portuguese,,,none,Entry,False,3rd,9z Team Female,9ZG.GC,Jett,Raze,Neon,22,460,346,80,1.32,1.56,285,20.9,15.7,3.6
+Chile,Spanish,,,panchill,Anchor,False,6th,Cruzados Esports Fem,UC.FEM,Viper,Cypher,Killjoy,11,139,170,57,0.81,1.15,178,12.6,15.4,5.1
+Argentina,Spanish,,,reshi,Smoker,False,4th,FiRePOWER,FIRE,Omen,Viper,Jett,17,222,244,95,0.9,1.29,190,13.0,14.3,5.5
+Chile,Spanish,,,romi,Anchor,False,1st,KRÜ Blaze,KRU.B,Killjoy,Viper,Cypher,16,248,162,68,1.53,1.95,219,15.5,10.1,4.2
+Chile,Spanish,,,tconda,Entry,False,6th,Cruzados Esports Fem,UC.FEM,Raze,Jett,,11,183,187,40,0.97,1.19,230,16.6,17.0,3.6
+Argentina,Spanish,,,tok1o,Entry,False,5th,University War GC,UW.GC,Raze,Chamber,Jett,13,270,194,53,1.39,1.66,293,20.7,14.9,4.0
+Mexico,Spanish,,,turanator,Smoker,True,2nd,FUSION X,FSX,Omen,Harbor,Viper,18,237,277,134,0.85,1.33,174,13.1,15.3,7.4
+Panama,Spanish,,,wanheda,Support,False,5th,K7 Esports (LATAM team),K7,Skye,Phoenix,Sova,8,88,126,54,0.69,1.12,161,11.0,15.7,6.7

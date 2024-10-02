@@ -5,21 +5,26 @@
 This folder contains CSV files related to the VCT Challengers 2024 Split 2 season.
 
 ## CSV Files
-- **vct_challengers_(p).csv**: Contains details of all the teams participating in VCT Challengers 2024 in the `p (in lower case)` sub-region
-- **Sub_regions.csv**: Contains details of which sub-region belongs to which region
+- **challengers_split2_`p`.csv**: Contains details of all the teams participating in **VCT Challengers 2024 split 2** in the `p (in lower case)` region
 
-### vct_challengers_(p).csv
+- **regions** included are **Americas, China, EMEA, Pacific**
+
+- **sub-regions.csv**: Contains details of which sub-region belongs to which region
+
+### vct_challengers_`p``.csv
 
 | Column Name       | Description                                                   | Data Type |
 |-------------------|---------------------------------------------------------------|-----------|
 | `country`         | Country that player is from, `International` if not found     | String    |
-| `ign`             | Player's in-game name                                         | String    |
+| `sub_region`      | Sub region that tournament was played in                      | String    |
 | `language_1/2/3`  | Languages spoken by player, `NaN` otherwise                   | String    |
+| `ign`             | Player's in-game name                                         | String    |
+| `team_role`       | Primary role played by the player                             | String    |
+| `igl`             | Whether the player currently or was the leader of the team    | String    |
+| `standings`       | Highest placement in tournament achieved by the player        | Integer   |
 | `team_name_full`  | Full name of organisation the player is playing for           | String    |
 | `shorthand`       | Shorthand name of organisation the player is playing for      | String    |
-| `standings`       | Highest placement in tournament achieved by the player        | Integer   |
-| `role`            | Primary role played by the player                             | String    |
-| `agent_1/2/3`     | Agents (in-game characters) played by the player              | String    |
+| `agent_1/2/3`     | Agents (in-game characters) played by the player, `NaN otherwise | String |
 | `maps`            | Total number of maps played by the player in the the tournament | Integer |
 | `k`               | Total number of kills made by the player                      | Integer   |
 | `d`               | Total number of deaths of player                              | Integer   |
@@ -30,7 +35,6 @@ This folder contains CSV files related to the VCT Challengers 2024 Split 2 seaso
 | `k_per_map`       | Total number of kills made by the player per map              | Float     |
 | `d_per_map`       | Total number of deaths of the player per map                  | Float     |
 | `a_per_map`       | Total number of assists made by the player per map            | Float     |
-
 
 ---
 
@@ -60,7 +64,6 @@ This folder contains CSV files related to the VCT Challengers 2024 Split 2 seaso
 - **Top 1** advances to **Ascension**
 ---
 
----
 ### Emea
 
 #### North
@@ -88,7 +91,6 @@ This folder contains CSV files related to the VCT Challengers 2024 Split 2 seaso
 - **Top 1** from each sub-region advances to **Ascension**
 ---
 
----
 ### Pacific
 
 #### South Asia
@@ -108,7 +110,6 @@ This folder contains CSV files related to the VCT Challengers 2024 Split 2 seaso
 - **Top 1** advances to **Ascension**
 ---
 
----
 ### China
 
 #### Valorant China National Competition
@@ -116,5 +117,3 @@ This folder contains CSV files related to the VCT Challengers 2024 Split 2 seaso
 - **8** from **breakout group**
 - **Top 8** from **circuit** advances to **Ascension**
 ---
-
-This format organizes the information clearly and concisely, making it easy to understand the Pro System and how Championship Points work across different stages and events.

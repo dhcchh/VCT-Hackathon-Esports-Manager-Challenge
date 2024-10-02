@@ -1,0 +1,219 @@
+country,sub_region,language_1,language_2,language_3,ign,team_role,igl,standings,team_name_full,shorthand,agent_1,agent_2,agent_3,maps,k,d,a,kd,kda,acs_per_map,k_per_map,d_per_map,a_per_map
+South Korea,South Korea,Korean,,,332,Support,False,1st,Mir Gaming GC,MIR,Sova,Fade,Gekko,8,103,100,60,1.03,1.63,183,12.8,12.5,7.5
+Philippines,South East Asia,Filipino,English,,69Shinobu,Flex,False,4th,4Fun (Filipino team),4F,Clove,Reyna,Gekko,11,123,167,98,0.73,1.32,167,11.1,15.1,8.9
+Japan,Japan,Japanese,,,Ache,Entry,False,5th-6th,DRX Changers,DRX,Jett,Raze,Neon,7,129,106,28,1.21,1.48,241,18.4,15.1,4.0
+International,South Asia,English,,,AfterLyfe,Entry,False,3rd-4th,Gang Gang,GANG,Iso,,,1,8,14,5,0.57,0.92,166,8.0,14.0,5.0
+Thailand,South East Asia,Thai,,,AhMei,Flex,False,9th-12th,LILITH,LL,Clove,Killjoy,Iso,6,85,96,38,0.88,1.28,217,14.1,16.0,6.3
+Japan,Japan,Japanese,,,Aika,Anchor,False,5th-6th,DRX Changers,DRX,Cypher,Killjoy,Viper,7,85,101,23,0.84,1.06,158,12.1,14.4,3.2
+Philippines,South East Asia,Filipino,English,,Aisling,Support,False,4th,4Fun (Filipino team),4F,Sova,Skye,Brimstone,13,166,169,112,0.98,1.64,181,12.7,13.0,8.6
+Philippines,South East Asia,Filipino,English,,Alexy,Entry,False,1st,Xipto Esports,XIP,Jett,Reyna,Fade,14,227,138,59,1.64,2.07,253,16.2,9.8,4.2
+Philippines,South East Asia,Filipino,English,,Alluka,Smoker,False,3rd,BOBA,BOBA,Breach,Harbor,Omen,15,201,198,141,1.01,1.72,184,13.4,13.2,9.4
+India,South Asia,Hindi,English,,Amy,Support,False,1st,Purr-Fectionists,PURR,Breach,Gekko,Viper,5,55,64,52,0.85,1.67,159,11.0,12.8,10.4
+Thailand,South East Asia,Thai,,,Angela,Entry,False,5th-6th,Invincible gc,INVI,Raze,Jett,,12,213,206,58,1.03,1.31,238,17.7,17.1,4.8
+South Korea,South Korea,Korean,,,Arin,Anchor,False,3rd,Nuclear GC,NC,Viper,Killjoy,Cypher,7,110,96,28,1.14,1.43,206,15.7,13.7,4.0
+Thailand,South East Asia,Thai,,,ArinJi,Entry,False,9th-12th,LILITH,LL,Reyna,Raze,Sage,6,84,94,32,0.89,1.23,233,14.0,15.6,5.3
+Philippines,South East Asia,Filipino,English,,Arki,Flex,False,7th-8th,Avernus Esports GC,AVN,Cypher,Breach,Omen,11,116,172,54,0.67,0.98,157,10.5,15.6,4.9
+Australia,Oceania,English,,,Artewolf,Support,False,9th-10th,Clueless,CLS,Gekko,Sova,,4,41,69,20,0.59,0.88,144,10.2,17.2,5.0
+Malaysia,South East Asia,Malay,,,Ayumiii,Entry,False,3rd,BOBA,BOBA,Raze,Neon,Yoru,15,251,213,88,1.17,1.59,241,16.7,14.2,5.8
+South Korea,South Korea,Korean,,,B1nby0,Smoker,False,2nd,URACHACHA GC,UR,Omen,Viper,,10,123,161,86,0.76,1.29,169,12.3,16.1,8.6
+South Korea,South Korea,Korean,,,BIBI,Support,False,1st,Mir Gaming GC,MIR,Breach,Killjoy,KAY/O,8,113,108,63,1.04,1.62,207,14.1,13.5,7.8
+Pakistan,South Asia,English,Urdu,,BriTSy,Smoker,False,3rd-4th,Asmodeus Colosseum Esports,ACE,Omen,,,2,33,37,17,0.89,1.35,195,16.5,18.5,8.5
+Philippines,South East Asia,Filipino,English,,Bugsy,Support,False,9th-12th,RIMA GC,RIMA,Breach,KAY/O,,9,131,139,91,0.94,1.59,210,14.5,15.4,10.1
+Thailand,South East Asia,Thai,,,BuubuuCute,Flex,False,7th-8th,LILAX,LI,Raze,Sova,,2,11,28,3,0.39,0.5,130,5.5,14.0,1.5
+India,South Asia,Hindi,English,,CaspeR,Smoker,False,1st,Purr-Fectionists,PURR,Omen,Brimstone,,5,79,65,54,1.21,2.04,203,15.8,13.0,10.8
+Thailand,South East Asia,Thai,,,Cendary,Smoker,False,7th-8th,LILAX,LI,Clove,,,9,173,167,68,1.03,1.44,276,19.2,18.5,7.5
+South Korea,South Korea,Korean,,,Chamsae,Smoker,False,4th,SGA InCheon,SGA,Omen,Harbor,Brimstone,5,55,67,33,0.82,1.31,151,11.0,13.4,6.6
+Singapore,South East Asia,Mandarin,English,Malay,Chloettw,Support,False,4th,4Fun (Filipino team),4F,Clove,Sova,Gekko,5,77,74,42,1.04,1.6,239,15.4,14.8,8.4
+Thailand,South East Asia,Thai,,,Coyote,Entry,False,9th-12th,Panny Sitter,PS,Raze,Jett,,6,92,98,16,0.93,1.1,219,15.3,16.3,2.6
+Japan,Japan,Japanese,,,Curumi,Support,False,2nd,FENNEL Female,FL,Breach,Viper,KAY/O,16,208,235,163,0.88,1.57,187,13.0,14.6,10.1
+Japan,Japan,Japanese,,,Daf,Support,False,7th-8th,DetonatioN FocusMe GC,DFM,Fade,Sova,,4,42,57,19,0.73,1.07,172,10.5,14.2,4.7
+South Korea,South Korea,Korean,,,Dannn,Flex,False,2nd,URACHACHA GC,UR,Sova,Astra,Killjoy,10,132,142,44,0.92,1.23,175,13.2,14.2,4.4
+Vietnam,South East Asia,Vietnamese,,,Dau7,Entry,False,9th-12th,RIMA GC,RIMA,Raze,Neon,Jett,9,146,141,37,1.03,1.29,233,16.2,15.6,4.1
+Philippines,South East Asia,Filipino,English,,DelBisky,Smoker,False,3rd,BOBA,BOBA,Clove,Omen,Reyna,15,206,217,105,0.94,1.43,195,13.7,14.4,7.0
+South Korea,South Korea,Korean,,,Delilah,Entry,False,2nd,URACHACHA GC,UR,Jett,Raze,Neon,10,144,151,37,0.95,1.19,202,14.4,15.1,3.7
+Japan,Japan,Japanese,,,Dia,Entry,False,5th-6th,SCARZ GC,SZ,Raze,Jett,,7,127,131,32,0.96,1.21,245,18.1,18.7,4.5
+Australia,Oceania,English,,,Dil,Smoker,False,9th-10th,Clueless,CLS,Clove,Viper,,4,51,74,26,0.68,1.04,164,12.7,18.5,6.5
+Japan,Japan,Japanese,,,Dori,Support,False,4th,Cyber Geek,CYG,KAY/O,Gekko,Breach,9,128,134,73,0.95,1.5,183,14.2,14.8,8.1
+Thailand,South East Asia,Thai,,,Dyummy,Support,False,13th-16th,FULL SENSE Pink,FS,KAY/O,Skye,Breach,5,64,75,45,0.85,1.45,146,12.8,15.0,9.0
+Australia,Oceania,English,,,EKS,Smoker,False,5th-6th,Evergarden GC,EV,Omen,Brimstone,Viper,9,98,136,57,0.72,1.13,174,10.8,15.1,6.3
+Indonesia,Oceania,English,Indonesian,,Emi,Anchor,False,1st,swaglord9000,SL9,Deadlock,Yoru,Killjoy,10,162,107,68,1.51,2.14,243,16.2,10.7,6.8
+Indonesia,South East Asia,Indonesian,,,Enerii,Entry,False,1st,Xipto Esports,XIP,Raze,Jett,Deadlock,14,264,149,60,1.77,2.17,310,18.8,10.6,4.2
+Singapore,South East Asia,Mandarin,English,Malay,Envious,Flex,False,5th-6th,Cardboard Dinosaur,CBD,Omen,Jett,Breach,13,181,225,94,0.8,1.22,196,13.9,17.3,7.2
+Australia,Oceania,English,,,Evalin,Entry,False,5th-6th,Scissor Sisters,SNIP,Reyna,Clove,Jett,6,58,87,35,0.66,1.06,162,9.6,14.5,5.8
+South Korea,South Korea,Korean,,,Even1ng,Smoker,False,3rd,Nuclear GC,NC,Fade,Omen,Brimstone,7,88,105,38,0.83,1.2,171,12.5,15.0,5.4
+Thailand,South East Asia,Thai,,,Felce,Support,False,5th-6th,Invincible gc,INVI,Clove,Sova,Fade,12,202,204,77,0.99,1.36,208,16.8,17.0,6.4
+South Korea,Japan,Japanese,Korean,,Festival,Entry,False,7th-8th,Meteor GC,MTR,Jett,Raze,,5,92,82,10,1.12,1.24,243,18.4,16.4,2.0
+Australia,Oceania,English,,,Froggie,Anchor,False,7th-8th,Blossom (Australian team),BLSM,Killjoy,Cypher,,6,80,86,19,0.93,1.15,180,13.3,14.3,3.1
+South Korea,Japan,Japanese,Korean,,FullMoon,Flex,False,7th-8th,Meteor GC,MTR,Cypher,Iso,Clove,5,92,89,26,1.03,1.32,234,18.4,17.8,5.2
+South Korea,Japan,Japanese,Korean,,GGonyaK,Anchor,False,4th,Cyber Geek,CYG,Sage,Killjoy,Cypher,9,147,134,43,1.09,1.41,209,16.3,14.8,4.7
+Australia,Oceania,English,,,Gold,Support,False,5th-6th,Evergarden GC,EV,Sova,Skye,Breach,9,64,131,59,0.48,0.93,105,7.1,14.5,6.5
+Japan,Japan,Japanese,,,HANE,Support,False,3rd,Reignite Lily,RIG,KAY/O,Omen,Breach,13,196,217,125,0.9,1.47,192,15.0,16.6,9.6
+South Korea,Japan,Japanese,Korean,,HakuNa,Anchor,False,3rd,Reignite Lily,RIG,Killjoy,Cypher,Viper,13,200,187,60,1.06,1.39,202,15.3,14.3,4.6
+Australia,Oceania,English,,,Hayyel,Anchor,False,3rd,DXA Esports GC,DXA,Cypher,Killjoy,Reyna,10,146,127,47,1.14,1.51,236,14.6,12.7,4.7
+South Korea,Japan,Japanese,Korean,,Healing,Support,False,5th-6th,DRX Changers,DRX,KAY/O,Fade,Skye,7,103,110,67,0.93,1.54,200,14.7,15.7,9.5
+Philippines,South East Asia,Filipino,English,,Heather,Support,False,13th-16th,Livestrong Queens,LQ,Breach,Sova,,5,52,78,32,0.66,1.07,157,10.4,15.6,6.4
+South Korea,South Korea,Korean,,,HellenCoco,Flex,False,4th,SGA InCheon,SGA,Jett,Gekko,,5,73,72,4,1.01,1.06,206,14.6,14.4,0.8
+Philippines,South East Asia,Filipino,English,,Ivory,Entry,False,4th,4Fun (Filipino team),4F,Jett,Reyna,Neon,15,210,238,60,0.88,1.13,204,14.0,15.8,4.0
+Australia,Oceania,English,,,JUN1,Smoker,False,3rd,DXA Esports GC,DXA,Omen,Viper,Clove,10,115,136,78,0.84,1.41,178,11.5,13.6,7.8
+Philippines,South East Asia,Filipino,English,,Jaja,Anchor,False,13th-16th,Livestrong Queens,LQ,Cypher,Jett,Killjoy,5,70,70,18,1.0,1.25,209,14.0,14.0,3.6
+Thailand,South East Asia,Thai,,,JajaA,Anchor,False,9th-12th,LILITH,LL,Killjoy,,,2,19,25,4,0.76,0.92,146,9.5,12.5,2.0
+Philippines,South Asia,Filipino,English,,Japips,Support,False,3rd-4th,Asmodeus Colosseum Esports,ACE,Breach,,,2,30,32,20,0.93,1.56,196,15.0,16.0,10.0
+Thailand,South East Asia,Thai,,,Jelerak,Flex,False,7th-8th,LILAX,LI,KAY/O,Clove,Sage,11,121,164,86,0.73,1.26,178,11.0,14.9,7.8
+Australia,Oceania,English,,,Jess,Smoker,False,4th,Vixens (Australian team),VIX,Brimstone,Omen,Viper,12,185,159,81,1.16,1.67,220,15.4,13.2,6.7
+Philippines,South East Asia,Filipino,English,,Jingji,Support,False,13th-16th,BAS.Kitsune,BAS.K,Sova,Skye,,4,42,63,9,0.66,0.8,162,10.5,15.7,2.2
+New Zealand,Oceania,English,Maori,,Jinx,Entry,False,7th-8th,Polar bear,BEAR,Omen,Neon,Iso,4,63,61,23,1.03,1.4,222,15.7,15.2,5.7
+Philippines,South East Asia,Filipino,English,,Kachow,Anchor,False,13th-16th,Watermelon,,Killjoy,Cypher,,6,65,80,14,0.81,0.98,161,10.8,13.3,2.3
+Philippines,South East Asia,Filipino,English,,Kamiyu,Support,False,1st,Xipto Esports,XIP,Skye,Sova,Gekko,14,200,131,102,1.52,2.3,221,14.2,9.3,7.2
+Thailand,South East Asia,Thai,,,KanonZ,Smoker,False,9th-12th,Panny Sitter,PS,Brimstone,Omen,Clove,6,88,99,42,0.88,1.31,207,14.6,16.5,7.0
+Philippines,South East Asia,Filipino,English,,Kathrina,Support,False,7th-8th,Avernus Esports GC,AVN,Skye,Sova,Gekko,11,117,166,65,0.7,1.09,160,10.6,15.0,5.9
+Philippines,South East Asia,Filipino,English,,Kathryn,Smoker,False,13th-16th,Livestrong Queens,LQ,Killjoy,Omen,Brimstone,5,55,75,19,0.73,0.98,159,11.0,15.0,3.8
+India,South Asia,Hindi,English,,KiRi,Anchor,False,3rd-4th,Asmodeus Colosseum Esports,ACE,Killjoy,Cypher,,2,26,30,10,0.86,1.2,170,13.0,15.0,5.0
+Singapore,South East Asia,Mandarin,English,Malay,Kohaibi,Flex,False,3rd,BOBA,BOBA,Cypher,Gekko,Raze,15,255,191,80,1.33,1.75,244,17.0,12.7,5.3
+Philippines,South East Asia,Filipino,English,,Kon,Smoker,False,2nd,Sisu,SISU,Sova,Omen,Viper,21,345,277,134,1.24,1.72,231,16.4,13.1,6.3
+Japan,Japan,Japanese,,,Len,Smoker,False,4th,Cyber Geek,CYG,Omen,Viper,Brimstone,9,129,136,77,0.94,1.51,199,14.3,15.1,8.5
+Malaysia,South East Asia,Malay,,,Lily,Anchor,False,13th-16th,BAS.Kitsune,BAS.K,Killjoy,Cypher,Gekko,6,82,84,16,0.97,1.16,201,13.6,14.0,2.6
+Philippines,South East Asia,Filipino,English,,Lizchaaan,Support,False,13th-16th,Livestrong Queens,LQ,KAY/O,Raze,Gekko,5,60,79,22,0.75,1.03,203,12.0,15.8,4.4
+Japan,Japan,Japanese,,,Lucky,Flex,False,7th-8th,DetonatioN FocusMe GC,DFM,Viper,Cypher,KAY/O,4,41,62,21,0.66,1.0,168,10.2,15.5,5.2
+Australia,Oceania,English,,,Lusha,Anchor,False,9th-10th,Clueless,CLS,Killjoy,Cypher,,4,48,59,10,0.81,0.98,155,12.0,14.7,2.5
+Indonesia,South East Asia,Indonesian,,,Lynnie,Anchor,False,9th-12th,BIGG Siren,BIGG.S,Cypher,,,1,4,15,3,0.26,0.46,93,4.0,15.0,3.0
+Philippines,South East Asia,Filipino,English,,Makchin,Entry,False,7th-8th,Avernus Esports GC,AVN,Raze,Jett,,11,162,177,36,0.91,1.11,225,14.7,16.0,3.2
+Japan,Japan,Japanese,,,Maripo,Support,False,3rd,Reignite Lily,RIG,Sova,Skye,Fade,13,208,203,86,1.02,1.44,199,16.0,15.6,6.6
+Thailand,South East Asia,Thai,,,Marpandyz,Support,False,7th-8th,LILAX,LI,Sova,Fade,Sage,11,140,157,61,0.89,1.28,187,12.7,14.2,5.5
+Thailand,South East Asia,Thai,,,Mauvaiz,Support,False,9th-12th,Panny Sitter,PS,Breach,Skye,Killjoy,6,51,85,63,0.6,1.34,134,8.5,14.1,10.5
+Philippines,South East Asia,Filipino,English,,Mayuri,Support,False,13th-16th,Livestrong Queens,LQ,Gekko,,,2,8,35,9,0.22,0.48,85,4.0,17.5,4.5
+Japan,Japan,Japanese,,,Meimei,Flex,False,7th-8th,DetonatioN FocusMe GC,DFM,Omen,Killjoy,,4,42,60,18,0.7,1.0,166,10.5,15.0,4.5
+India,South Asia,Hindi,English,,Meow16K,Entry,False,2nd,9to5 workers,N2F,Neon,Raze,,5,96,90,22,1.06,1.31,253,19.2,18.0,4.4
+Japan,Japan,Japanese,,,Merununtius,Support,False,7th-8th,Meteor GC,MTR,Breach,KAY/O,,5,64,81,44,0.79,1.33,167,12.8,16.2,8.8
+Thailand,South East Asia,Thai,,,Micro,Entry,False,9th-12th,LILITH,LL,Jett,,,6,112,89,21,1.25,1.49,275,18.6,14.8,3.5
+Hong Kong,South East Asia,Cantonese,English,,Mikkasie,Flex,False,13th-16th,Livestrong Queens,LQ,Omen,Raze,,3,32,48,25,0.66,1.18,189,10.6,16.0,8.3
+Thailand,South East Asia,Thai,,,Mimo,Anchor,False,7th-8th,LILAX,LI,Killjoy,Cypher,,11,128,150,26,0.85,1.02,170,11.6,13.6,2.3
+Japan,Japan,Japanese,,,Mochirrrr,Flex,False,7th-8th,DetonatioN FocusMe GC,DFM,Omen,Breach,Killjoy,4,35,54,23,0.64,1.07,147,8.7,13.5,5.7
+Japan,Japan,Japanese,,,Moco,Smoker,False,1st,ZETA DIVISION GC,ZETA,Omen,Viper,,11,173,129,79,1.34,1.95,199,15.7,11.7,7.1
+South Korea,South Korea,Korean,,,MyoH4nN,Flex,False,2nd,URACHACHA GC,UR,Killjoy,Jett,Clove,10,192,146,39,1.31,1.58,257,19.2,14.6,3.9
+Indonesia,South East Asia,Indonesian,,,Naturale,Support,False,9th-12th,BIGG Siren,BIGG.S,Sova,Breach,Jett,5,73,75,43,0.97,1.54,179,14.6,15.0,8.6
+Japan,Japan,Japanese,,,Neko,Entry,False,7th-8th,DetonatioN FocusMe GC,DFM,Raze,Jett,,4,50,59,10,0.84,1.01,196,12.5,14.7,2.5
+Thailand,South East Asia,Thai,,,Newky,Entry,False,7th-8th,LILAX,LI,Reyna,Phoenix,Skye,11,161,166,48,0.96,1.25,206,14.6,15.0,4.3
+Australia,Oceania,English,,,Nila,Anchor,False,5th-6th,Scissor Sisters,SNIP,Killjoy,Cypher,,6,90,78,21,1.15,1.42,220,15.0,13.0,3.5
+South Korea,South Korea,Korean,,,Nlight,Flex,False,4th,SGA InCheon,SGA,Raze,Gekko,Killjoy,5,60,63,13,0.95,1.15,173,12.0,12.6,2.6
+Australia,Oceania,English,,,No Commentt,Entry,False,3rd,DXA Esports GC,DXA,Jett,Raze,KAY/O,9,128,130,32,0.98,1.23,208,14.2,14.4,3.5
+Philippines,South East Asia,Filipino,English,,PIETY,Support,False,2nd,Sisu,SISU,Killjoy,Breach,Gekko,21,345,265,115,1.3,1.73,230,16.4,12.6,5.4
+Australia,Oceania,English,,,Panchiko,Support,False,3rd,DXA Esports GC,DXA,KAY/O,Breach,Skye,10,157,113,89,1.38,2.17,245,15.7,11.3,8.9
+South Korea,South Korea,Korean,,,PenEloPE,Anchor,False,3rd,Nuclear GC,NC,Killjoy,,,3,42,52,11,0.8,1.01,169,14.0,17.3,3.6
+Japan,Japan,Japanese,,,PingSonG,Support,False,2nd,FENNEL Female,FL,Fade,Sova,Skye,16,200,233,118,0.85,1.36,178,12.5,14.5,7.3
+New Zealand,Oceania,English,Maori,,Pink,Entry,False,5th-6th,Scissor Sisters,SNIP,Raze,Iso,KAY/O,6,67,91,34,0.73,1.1,190,11.1,15.1,5.6
+Thailand,South East Asia,Thai,,,Poly,Support,False,2nd,Sisu,SISU,Fade,Gekko,Omen,21,272,273,157,0.99,1.57,174,12.9,13.0,7.4
+Thailand,South East Asia,Thai,,,Pretzel,Anchor,False,13th-16th,FULL SENSE Pink,FS,Killjoy,Cypher,,5,61,70,32,0.87,1.32,144,12.2,14.0,6.4
+Singapore,South East Asia,Mandarin,English,Malay,QiQi,Anchor,False,5th-6th,Cardboard Dinosaur,CBD,Killjoy,Cypher,,6,89,84,23,1.05,1.33,188,14.8,14.0,3.8
+Japan,Japan,Japanese,,,R4M,Smoker,False,3rd,Reignite Lily,RIG,Omen,Brimstone,Viper,13,201,214,111,0.93,1.45,201,15.4,16.4,8.5
+Singapore,South East Asia,Mandarin,English,Malay,Rice,Smoker,False,9th-12th,RIMA GC,RIMA,Omen,Gekko,Brimstone,9,124,118,86,1.05,1.77,194,13.7,13.1,9.5
+Philippines,South East Asia,Filipino,English,,Rizzy,Entry,False,13th-16th,BAS.Kitsune,BAS.K,Killjoy,Raze,Reyna,4,49,67,19,0.73,1.01,200,12.2,16.7,4.7
+Australia,Oceania,English,,,Rosa,Entry,False,1st,swaglord9000,SL9,Raze,Deadlock,Jett,9,142,99,40,1.43,1.83,236,15.7,11.0,4.4
+India,South Asia,Hindi,English,,Rose,Flex,False,2nd,9to5 workers,N2F,Breach,Brimstone,,5,69,72,56,0.95,1.73,185,13.8,14.4,11.2
+Thailand,South East Asia,Thai,,,Rudys,Support,False,9th-12th,LILITH,LL,Breach,Sova,Skye,6,56,76,50,0.73,1.39,151,9.3,12.6,8.3
+Indonesia,South East Asia,Indonesian,,,Sampphire,Support,False,5th-6th,Cardboard Dinosaur,CBD,Breach,Sova,Gekko,14,197,197,99,1.0,1.5,186,14.0,14.0,7.0
+Australia,Oceania,English,,,Sayo,Entry,False,5th-6th,Evergarden GC,EV,Neon,Raze,Clove,9,140,144,25,0.97,1.14,220,15.5,16.0,2.7
+South Korea,Japan,Japanese,Korean,,SereNa,Anchor,False,1st,ZETA DIVISION GC,ZETA,Cypher,Killjoy,,11,165,146,55,1.13,1.5,214,15.0,13.2,5.0
+Australia,Oceania,English,,,Shiny,Support,False,4th,Vixens (Australian team),VIX,Gekko,Fade,,12,185,165,82,1.12,1.61,222,15.4,13.7,6.8
+Philippines,South East Asia,Filipino,English,,Shirazi,Smoker,False,1st,Xipto Esports,XIP,Viper,Omen,Cypher,14,226,124,83,1.82,2.49,252,16.1,8.8,5.9
+Pakistan,South Asia,English,Urdu,,Skel,Support,False,3rd-4th,Gang Gang,GANG,Sova,Breach,,2,24,31,13,0.77,1.19,186,12.0,15.5,6.5
+Singapore,South Asia,Mandarin,English,Malay,Snowwke,Entry,False,3rd-4th,Gang Gang,GANG,Raze,,,2,21,32,9,0.65,0.93,175,10.5,16.0,4.5
+Australia,Oceania,English,,,Starly,Support,False,4th,Vixens (Australian team),VIX,Breach,Fade,KAY/O,12,165,171,90,0.96,1.49,203,13.7,14.2,7.5
+India,South Asia,Hindi,English,,Sway,Entry,False,3rd-4th,Asmodeus Colosseum Esports,ACE,Neon,,,2,38,35,18,1.08,1.6,249,19.0,17.5,9.0
+Australia,Oceania,English,,,Taffy,Entry,False,9th-10th,Clueless,CLS,Jett,,,4,65,68,17,0.95,1.2,222,16.2,17.0,4.2
+Indonesia,South East Asia,Indonesian,,,Taratheil,Anchor,True,1st,Xipto Esports,XIP,Omen,Cypher,Killjoy,14,158,133,83,1.18,1.81,180,11.2,9.5,5.9
+Philippines,South East Asia,Filipino,English,,Tayrawr,Support,False,4th,4Fun (Filipino team),4F,Skye,,,1,13,18,11,0.72,1.33,169,13.0,18.0,11.0
+Philippines,South East Asia,Filipino,English,,Tweeya,Entry,False,4th,4Fun (Filipino team),4F,Reyna,Raze,Omen,15,244,217,92,1.12,1.54,229,16.2,14.4,6.1
+Philippines,South Asia,Filipino,English,,Twirly,Anchor,False,1st,Purr-Fectionists,PURR,Cypher,Killjoy,Viper,5,86,65,20,1.32,1.63,232,17.2,13.0,4.0
+Japan,Japan,Japanese,,,UR,Support,False,1st,ZETA DIVISION GC,ZETA,Clove,Gekko,Sova,11,192,149,84,1.28,1.85,241,17.4,13.5,7.6
+Australia,Oceania,English,,,Vola,Smoker,False,7th-8th,Polar bear,BEAR,Omen,,,2,17,35,12,0.48,0.82,120,8.5,17.5,6.0
+Japan,Japan,Japanese,,,YOME,Support,False,5th-6th,DRX Changers,DRX,Sova,Breach,Gekko,7,85,109,50,0.77,1.23,166,12.1,15.5,7.1
+South Korea,South Korea,Korean,,,YS2,Support,False,3rd,Nuclear GC,NC,Omen,Breach,KAY/O,7,78,105,58,0.74,1.29,154,11.1,15.0,8.2
+South Korea,Japan,Japanese,Korean,,Yamzzi,Flex,False,2nd,FENNEL Female,FL,Omen,Gekko,,16,222,216,148,1.02,1.71,184,13.8,13.5,9.2
+South Korea,South Korea,Korean,,,YuH4,Support,False,2nd,URACHACHA GC,UR,KAY/O,Fade,Sova,10,143,150,85,0.95,1.52,195,14.3,15.0,8.5
+South Korea,South Korea,Korean,,,Yxx,Support,False,4th,SGA InCheon,SGA,Skye,Sova,Omen,5,44,67,35,0.65,1.17,155,8.8,13.4,7.0
+Australia,Oceania,English,,,ZenSan1ty,Smoker,False,5th-6th,Scissor Sisters,SNIP,Omen,Gekko,Viper,6,82,84,32,0.97,1.35,198,13.6,14.0,5.3
+Japan,Japan,Japanese,,,Zodiac,Entry,False,3rd,Reignite Lily,RIG,Neon,Jett,Raze,13,215,225,62,0.95,1.23,221,16.5,17.3,4.7
+Japan,Japan,Japanese,,,aco,Support,True,1st,ZETA DIVISION GC,ZETA,KAY/O,Skye,Breach,11,124,155,103,0.8,1.46,163,11.2,14.0,9.3
+Philippines,South East Asia,Filipino,English,,akn,Support,False,13th-16th,BAS.Kitsune,BAS.K,Skye,Gekko,,2,9,33,6,0.27,0.45,82,4.5,16.5,3.0
+Australia,Oceania,English,,,alannah,Anchor,False,1st,swaglord9000,SL9,Killjoy,Cypher,Sova,9,127,94,46,1.35,1.84,223,14.1,10.4,5.1
+Thailand,South East Asia,Thai,,,annyyuu,Smoker,False,9th-12th,LILITH,LL,Brimstone,Omen,Viper,4,39,62,32,0.62,1.14,165,9.7,15.5,8.0
+South Korea,South Korea,Korean,,,atti,Entry,False,3rd,Nuclear GC,NC,Raze,Jett,,7,116,117,22,0.99,1.17,262,16.5,16.7,3.1
+Australia,Oceania,English,,,averageferret,Smoker,False,1st,swaglord9000,SL9,Omen,Fade,Viper,9,135,99,80,1.36,2.17,232,15.0,11.0,8.8
+New Zealand,Oceania,English,Maori,,ayachzi,Entry,False,7th-8th,Blossom (Australian team),BLSM,Raze,Jett,,6,96,100,19,0.96,1.14,218,16.0,16.6,3.1
+Thailand,South East Asia,Thai,,,babytz,Support,False,3rd,BOBA,BOBA,Sova,Killjoy,Skye,15,254,203,89,1.25,1.68,229,16.9,13.5,5.9
+Philippines,Japan,Japanese,Filipino,English,bes,Smoker,False,5th-6th,DRX Changers,DRX,Omen,Brimstone,,7,115,105,51,1.09,1.58,216,16.4,15.0,7.2
+Australia,Oceania,English,,,bethany,Flex,False,1st,swaglord9000,SL9,Sova,Omen,Phoenix,9,123,95,68,1.29,2.01,211,13.6,10.5,7.5
+Indonesia,South East Asia,Indonesian,,,bittersweet,Smoker,False,9th-12th,BIGG Siren,BIGG.S,Omen,Viper,,5,77,64,41,1.2,1.84,169,15.4,12.8,8.2
+Singapore,South East Asia,Mandarin,English,Malay,bless,Anchor,False,9th-12th,RIMA GC,RIMA,Cypher,Killjoy,Chamber,9,145,118,33,1.22,1.5,226,16.1,13.1,3.6
+Myanmar,Oceania,English,Burmanese,,blue,Anchor,False,2nd,Penguin Party,PIP,Cypher,Viper,Killjoy,15,181,189,63,0.95,1.29,179,12.0,12.6,4.2
+Philippines,South East Asia,Filipino,English,,capriciouS,Entry,False,2nd,Sisu,SISU,Neon,Jett,Clove,21,359,299,81,1.2,1.47,235,17.0,14.2,3.8
+Indonesia,South East Asia,Indonesian,,,capybara,Entry,False,9th-12th,BIGG Siren,BIGG.S,Raze,Jett,,6,105,95,24,1.1,1.35,225,17.5,15.8,4.0
+Singapore,South East Asia,Mandarin,English,Malay,cjsakura,Smoker,False,13th-16th,Watermelon,,Omen,Viper,,6,64,88,45,0.72,1.23,179,10.6,14.6,7.5
+Singapore,South East Asia,Mandarin,English,Malay,cr0w,Entry,False,13th-16th,BAS.Kitsune,BAS.K,Reyna,,,2,24,35,7,0.68,0.88,174,12.0,17.5,3.5
+Indonesia,South Asia,Indonesian,,,crescents,Smoker,False,2nd,9to5 workers,N2F,Omen,Viper,,5,71,77,58,0.92,1.67,176,14.2,15.4,11.6
+South Korea,South Korea,Korean,,,d0r1,Flex,False,4th,SGA InCheon,SGA,Breach,Harbor,,5,60,72,32,0.83,1.27,189,12.0,14.4,6.4
+Australia,Oceania,English,,,dawn,Support,False,3rd,DXA Esports GC,DXA,Sova,Brimstone,Breach,9,107,106,58,1.0,1.55,173,11.8,11.7,6.4
+South Korea,South Korea,Korean,,,dorothy,Entry,False,1st,Mir Gaming GC,MIR,Jett,Raze,Neon,8,168,100,26,1.68,1.94,286,21.0,12.5,3.2
+Singapore,South East Asia,Mandarin,English,Malay,elfie,Flex,False,5th-6th,Cardboard Dinosaur,CBD,Raze,Fade,Omen,14,248,232,94,1.06,1.47,239,17.7,16.5,6.7
+Pakistan,South Asia,English,Urdu,,eluwu,Entry,False,1st,Purr-Fectionists,PURR,Raze,Jett,,5,94,67,22,1.4,1.73,282,18.8,13.4,4.4
+Australia,Oceania,English,,,emixringo,Flex,False,9th-10th,Clueless,CLS,Raze,Sage,,4,54,70,20,0.77,1.05,177,13.5,17.5,5.0
+South Korea,South Korea,Korean,,,f1yk,Anchor,False,1st,Mir Gaming GC,MIR,Killjoy,Viper,Cypher,8,110,88,25,1.25,1.53,182,13.7,11.0,3.1
+Philippines,South East Asia,Filipino,English,,grahams,Flex,False,2nd,Sisu,SISU,Raze,KAY/O,Cypher,20,312,273,111,1.14,1.54,226,15.6,13.6,5.5
+South Korea,South Korea,Korean,,,h4ste,Flex,False,1st,Mir Gaming GC,MIR,Omen,Gekko,,8,128,105,79,1.21,1.97,225,16.0,13.1,9.8
+Philippines,South East Asia,Filipino,English,,hanuh,Anchor,False,2nd,Sisu,SISU,Killjoy,,,1,10,12,3,0.83,1.08,164,10.0,12.0,3.0
+Thailand,South East Asia,Thai,,,izze,Anchor,False,5th-6th,Invincible gc,INVI,Killjoy,Gekko,Cypher,7,86,112,34,0.76,1.07,166,12.2,16.0,4.8
+Australia,Oceania,English,,,jaydiebabie,Anchor,False,4th,Vixens (Australian team),VIX,Cypher,Viper,Killjoy,12,172,160,61,1.07,1.45,210,14.3,13.3,5.0
+Australia,Oceania,English,,,joom,Support,False,7th-8th,Blossom (Australian team),BLSM,Gekko,Skye,Fade,6,88,96,34,0.91,1.27,189,14.6,16.0,5.6
+International,South Asia,English,,,junebug,Anchor,False,3rd-4th,Gang Gang,GANG,Killjoy,Cypher,,2,26,30,6,0.86,1.06,194,13.0,15.0,3.0
+Indonesia,South East Asia,Indonesian,,,kalliqt,Anchor,False,9th-12th,BIGG Siren,BIGG.S,Killjoy,,,3,30,43,10,0.69,0.93,141,10.0,14.3,3.3
+Singapore,South East Asia,Mandarin,English,Malay,kikowo,Flex,False,5th-6th,Cardboard Dinosaur,CBD,Raze,Breach,Clove,14,219,237,97,0.92,1.33,210,15.6,16.9,6.9
+Thailand,South East Asia,Thai,,,kitkatwc,Support,False,5th-6th,Invincible gc,INVI,KAY/O,Skye,Viper,7,125,116,66,1.07,1.64,228,17.8,16.5,9.4
+Thailand,South East Asia,Thai,,,klangngaiz,Entry,False,13th-16th,FULL SENSE Pink,FS,Jett,Raze,,5,91,74,16,1.22,1.44,224,18.2,14.8,3.2
+Japan,Japan,Japanese,,,koyori,Support,False,4th,Cyber Geek,CYG,Breach,Gekko,Fade,9,104,142,90,0.73,1.36,163,11.5,15.7,10.0
+Japan,Japan,Japanese,,,krenn,Flex,False,5th-6th,SCARZ GC,SZ,Viper,Killjoy,,7,107,105,24,1.01,1.24,190,15.2,15.0,3.4
+International,South Asia,English,,,krys,Smoker,False,3rd-4th,Gang Gang,GANG,Omen,Clove,,2,19,28,4,0.67,0.82,143,9.5,14.0,2.0
+Australia,Oceania,English,,,kypsi,Flex,False,7th-8th,Blossom (Australian team),BLSM,Harbor,Breach,,6,79,94,45,0.84,1.31,180,13.1,15.6,7.5
+Australia,Oceania,English,,,legacy,Entry,False,4th,Vixens (Australian team),VIX,Raze,Jett,,12,179,173,51,1.03,1.32,220,14.9,14.4,4.2
+Australia,Oceania,English,,,lielahh,Flex,False,7th-8th,Polar bear,BEAR,Breach,Cypher,,3,39,55,21,0.7,1.09,176,13.0,18.3,7.0
+Taiwan,South Asia,Mandarin,,,lunah,Support,False,1st,Purr-Fectionists,PURR,Sova,Skye,Fade,5,86,63,33,1.36,1.88,232,17.2,12.6,6.6
+New Zealand,Oceania,English,Maori,,mai,Anchor,False,5th-6th,Evergarden GC,EV,Cypher,Killjoy,,8,122,105,19,1.16,1.34,205,15.2,13.1,2.3
+Australia,Oceania,English,,,me1ody,Support,False,7th-8th,Polar bear,BEAR,Sova,Gekko,,4,38,62,19,0.61,0.91,144,9.5,15.5,4.7
+Indonesia,South East Asia,Indonesian,,,metawiN,Support,False,9th-12th,BIGG Siren,BIGG.S,Gekko,Skye,KAY/O,6,88,83,29,1.06,1.4,147,14.6,13.8,4.8
+South Korea,Japan,Japanese,Korean,,miNt,Entry,False,2nd,FENNEL Female,FL,Raze,Jett,,16,339,241,55,1.4,1.63,287,21.1,15.0,3.4
+New Zealand,Oceania,English,Maori,,mini,Smoker,False,7th-8th,Blossom (Australian team),BLSM,Clove,Omen,,6,85,112,38,0.75,1.09,186,14.1,18.6,6.3
+Japan,Japan,Japanese,,,miya,Support,False,5th-6th,SCARZ GC,SZ,Fade,Sova,,7,88,110,47,0.8,1.22,163,12.5,15.7,6.7
+Thailand,South East Asia,Thai,,,mmoopingx,Flex,False,13th-16th,FULL SENSE Pink,FS,Viper,Sova,,5,64,77,33,0.83,1.25,167,12.8,15.4,6.6
+Australia,Oceania,English,,,molly,Support,False,5th-6th,Scissor Sisters,SNIP,Sova,Skye,Breach,6,66,84,29,0.78,1.13,184,11.0,14.0,4.8
+India,South Asia,Hindi,English,,muffinloop,Support,False,2nd,9to5 workers,N2F,Sova,Skye,,5,96,79,37,1.21,1.68,250,19.2,15.8,7.4
+Japan,Japan,Japanese,,,nekop4nchan,Smoker,False,7th-8th,Meteor GC,MTR,Omen,Viper,Astra,5,69,71,40,0.97,1.53,181,13.8,14.2,8.0
+Thailand,South East Asia,Thai,,,nenuay,Smoker,False,13th-16th,FULL SENSE Pink,FS,Omen,Clove,,5,54,78,48,0.69,1.3,121,10.8,15.6,9.6
+Singapore,South East Asia,Mandarin,English,Malay,olulu,Support,False,13th-16th,Watermelon,,Breach,Reyna,Skye,6,80,88,30,0.9,1.25,205,13.3,14.6,5.0
+Japan,Japan,Japanese,,,onni,Entry,False,4th,Cyber Geek,CYG,Brimstone,Neon,Jett,9,157,143,57,1.09,1.49,240,17.4,15.8,6.3
+Thailand,South East Asia,Thai,,,pannyx,Support,False,9th-12th,Panny Sitter,PS,Gekko,Sova,Reyna,6,93,84,27,1.1,1.42,220,15.5,14.0,4.5
+Singapore,South East Asia,Mandarin,English,Malay,pigruto,Anchor,False,5th-6th,Cardboard Dinosaur,CBD,Cypher,Killjoy,Omen,9,95,147,43,0.64,0.93,140,10.5,16.3,4.7
+South Korea,South Korea,Korean,,,ran,Support,False,3rd,Nuclear GC,NC,Sova,Skye,Gekko,4,37,52,22,0.71,1.13,145,9.2,13.0,5.5
+Albania,Oceania,English,Albanian,,reach,Entry,False,7th-8th,Polar bear,BEAR,Phoenix,Neon,Jett,4,61,64,16,0.95,1.2,234,15.2,16.0,4.0
+Japan,Japan,Japanese,,,romia,Anchor,False,2nd,FENNEL Female,FL,Cypher,Killjoy,Sova,16,242,218,59,1.11,1.38,198,15.1,13.6,3.6
+Thailand,South East Asia,Thai,,,rosey,Smoker,False,5th-6th,Invincible gc,INVI,Omen,,,7,98,109,56,0.89,1.41,172,14.0,15.5,8.0
+Philippines,South East Asia,Filipino,English,,sachi,Entry,False,13th-16th,BAS.Kitsune,BAS.K,Jett,Reyna,,6,82,96,14,0.85,1.0,220,13.6,16.0,2.3
+Philippines,South East Asia,Filipino,English,,shina,Anchor,False,4th,4Fun (Filipino team),4F,Killjoy,Cypher,Chamber,15,239,196,43,1.21,1.43,221,15.9,13.0,2.8
+Philippines,South East Asia,Filipino,English,,shirah0sh1,Anchor,False,7th-8th,Avernus Esports GC,AVN,Reyna,Killjoy,Cypher,11,137,178,42,0.76,1.0,178,12.4,16.1,3.8
+Japan,Japan,Japanese,,,shiye,Anchor,False,7th-8th,Meteor GC,MTR,Sova,Killjoy,Deadlock,5,66,79,33,0.83,1.25,178,13.2,15.8,6.6
+Macau,Oceania,Country not mapped,Country not mapped,Country not mapped,silv,Smoker,False,2nd,Penguin Party,PIP,Omen,Brimstone,Viper,15,185,192,91,0.96,1.43,178,12.3,12.8,6.0
+Indonesia,South Asia,Indonesian,,,skyelyse,Anchor,False,2nd,9to5 workers,N2F,Cypher,Killjoy,,5,52,88,29,0.59,0.92,140,10.4,17.6,5.8
+Australia,Oceania,English,,,soko,Entry,False,2nd,Penguin Party,PIP,Raze,Jett,Reyna,15,226,203,58,1.11,1.39,234,15.0,13.5,3.8
+Japan,Japan,Japanese,,,suzu,Entry,False,1st,ZETA DIVISION GC,ZETA,Raze,Jett,Omen,11,208,163,56,1.27,1.61,263,18.9,14.8,5.0
+Philippines,South East Asia,Filipino,English,,syd89,Smoker,False,7th-8th,Avernus Esports GC,AVN,Omen,Brimstone,Killjoy,11,125,167,89,0.74,1.28,164,11.3,15.1,8.0
+Australia,Oceania,English,,,tiff,Support,False,2nd,Penguin Party,PIP,Fade,Sova,Gekko,15,233,184,87,1.26,1.73,240,15.5,12.2,5.8
+Singapore,South East Asia,Mandarin,English,Malay,toffywoffy,Support,False,13th-16th,Watermelon,,Fade,Sova,Deadlock,6,56,87,44,0.64,1.14,169,9.3,14.5,7.3
+Malaysia,South East Asia,Malay,,,tub,Support,False,9th-12th,RIMA GC,RIMA,Gekko,Sova,Omen,9,132,133,55,0.99,1.4,207,14.6,14.7,6.1
+International,South Asia,English,,,ven,Support,False,3rd-4th,Gang Gang,GANG,Breach,,,1,12,17,7,0.7,1.11,162,12.0,17.0,7.0
+Australia,Oceania,English,,,xyro,Entry,False,5th-6th,Evergarden GC,EV,Yoru,Raze,Phoenix,8,151,125,46,1.2,1.57,265,18.8,15.6,5.7
+Indonesia,South East Asia,Indonesian,,,yaamorii,Flex,False,9th-12th,BIGG Siren,BIGG.S,Killjoy,Sova,Omen,4,40,48,11,0.83,1.06,127,10.0,12.0,2.7
+Japan,South East Asia,Japanese,,,yokonomiyaki,Smoker,False,13th-16th,BAS.Kitsune,BAS.K,Omen,Viper,Brimstone,6,72,103,27,0.69,0.96,186,12.0,17.1,4.5
+Singapore,South East Asia,Mandarin,English,Malay,yuchan,Entry,False,13th-16th,Watermelon,,Raze,Jett,,6,88,92,23,0.95,1.2,226,14.6,15.3,3.8
+Australia,Oceania,English,,,yumi,Support,False,2nd,Penguin Party,PIP,Gekko,Breach,Deadlock,15,202,199,93,1.01,1.48,201,13.4,13.2,6.2
+Japan,Japan,Japanese,,,yunah,Smoker,False,5th-6th,SCARZ GC,SZ,Omen,Brimstone,,7,106,107,56,0.99,1.51,187,15.1,15.2,8.0
+Thailand,South East Asia,Thai,,,yuri,Anchor,False,9th-12th,Panny Sitter,PS,Cypher,Killjoy,Viper,6,97,84,35,1.15,1.57,227,16.1,14.0,5.8
+Japan,Japan,Japanese,,,yuzu,Support,False,5th-6th,SCARZ GC,SZ,Killjoy,Gekko,KAY/O,7,106,110,72,0.96,1.61,197,15.1,15.7,10.2
+Philippines,South Asia,Filipino,English,,zini,Support,False,3rd-4th,Asmodeus Colosseum Esports,ACE,Sova,,,2,31,36,16,0.86,1.3,206,15.5,18.0,8.0
