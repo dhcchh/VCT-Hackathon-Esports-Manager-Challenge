@@ -12,7 +12,7 @@ This data is from the VCT International Stage 2 of each region. We select this t
 | Column Name       | Description                                                                  | Data Type   |
 |-------------------|----------------------------------------------------------------------------- |-------------|
 | **country**       | The player's country of origin (e.g., Taiwan, China).                        | `object`    |
-| **valo_region**   | The VALORANT region to which the player belongs (e.g., CN for China).        | `object`    |
+| **valo_region**   | The VALORANT region to which the player belongs (CN for Chinal, AMER for Americas, EMEA for Europe, Middle-East and Africa, PAC for Pacific).        | `object`    |
 | **lang_1, lang_2, lang_3** | The primary and additional languages spoken by the player. If the player speaks only 1 language, only lang_1 will have a value, if they speak 2 languages, lang_1 and lang_2 will have a value   | `object`    |
 | **ign**           | The player's in-game name (IGN).                                             | `object`    |
 | **team_role**     | The role of the player on the team (e.g., Flex, Fragger, Smoker).            | `object`    |
