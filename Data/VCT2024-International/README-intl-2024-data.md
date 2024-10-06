@@ -19,17 +19,17 @@ This data is from the VCT International Stage 2 of each region. The tournament s
 | **ign**           | The player's in-game name (IGN), e.g. f0rsakeN, Jingg, Derke, TenZ.                                             | `object`    |
 | **team_role**     | The role of the player on the team (Flex, Entry, Smoker, Support, Anchor).            | `string`    |
 | **igl**           | A boolean indicator of whether the player is the in-game leader (IGL). If the player is an IGL, then IGL is True, otherwise, it is False.| `bool`      |
-| **Standings** | This represents the team's final placement in Stage 2 of the tournament series. The number indicates the specific rank, for example, **1** means **1st place**, **2** means **2nd place**, and so on. If the value is a range, such as **5th-6th**, it means the team is tied with another team at that same placement.                | `string`     |
+| **standings** | This represents the team's final placement in Stage 2 of the tournament series. The number indicates the specific rank, for example, **1** means **1st place**, **2** means **2nd place**, and so on. If the value is a range, such as **5th-6th**, it means the team is tied with another team at that same placement.                | `string`     |
 | **team_name_full**| The full name of the team (e.g., Paper Rex, Fnatic ).                                | `object`    |
 | **shorthand**     | The shorthand version of the team name (e.g., PRX, FNC).                          | `object`    |
-| **agent_1, agent_2, agent_3** | These are columns indicating the top 3 most commonly used agents by the player in matches. If the player only plays one agent, only agent_1 will have a value, if the player plays 2 agents, only agent_1 and agent_2 has values, if a player plays 3 agents, all 3 columns have values. For example, t3xture from Gen.G Esports plays Jett followed by Raze, agent_1 will be Jett, agent 2 will be Raze                    | `string`    |
+| **agent_1, agent_2, agent_3** | These are columns indicating the top 3 most commonly used agents by the player in matches. If the player only plays one agent, only agent_1 will have a value, if the player plays 2 agents, only agent_1 and agent_2 has values, if a player plays 3 agents, all 3 columns have values. For example, t3xture from Gen.G Esports plays Jett followed by Raze, agent_1 will be Jett, agent_2 will be Raze, agent_3 will be a null value                    | `string`    |
 | **maps**          | The number of maps the player has played in the tournament series.                                    | `int64`     |
 | **k**             | The number of kills secured by the player throughout the entire tournament series. | `int64`     |
 | **d**             | The number of deaths the player experienced throughout the entire tournament series..  | `int64`     |
 | **a**             | The number of assists secured by the player throughout the entire tournament series..    | `int64`     |
 | **kd**            | The kill-to-death ratio for the player.                                      | `float64`   |
 | **kda**           | The kill-death-assist ratio for the player.                                  | `float64`   |
-| **acs_per_map**   | The average combat score per map in the tournament series.                                            | `float64`   |
+| **acs_per_map**   | The average combat score per map in the tournament series.                                           | `float64`   |
 | **k_per_map**     | The average number of kills per map in the tournament series.                                         | `float64`   |
 | **d_per_map**     | The average number of deaths per map in the tournament series.                                        | `float64`   |
 | **a_per_map**     | The average number of assists per map in the tournament series.                                       | `float64`   |
