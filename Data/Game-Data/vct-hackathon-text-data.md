@@ -18,7 +18,7 @@ In this game, the **spike** is equivalent to a **bomb**. The attackers would nee
 
 Attacker win conditions: 
 
-1. The **spike** successfully detonates**.**
+1. The **spike** successfully detonates.
 2. **All** defenders are **eliminated.**
 
 Defender win conditions:
