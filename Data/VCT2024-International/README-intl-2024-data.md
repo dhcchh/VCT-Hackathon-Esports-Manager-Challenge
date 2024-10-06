@@ -9,28 +9,28 @@ This folder contains CSV files related to the VCT International 2024 season.
 
 ### vct-intl-2024-leagues.csv 
 This data is from the VCT International Stage 2 of each region. We select this tournament for our pool of international players as it is the highest tier tournament where every player in the league had a chance to compete.
-| Column Name       | Description                                                                 | Data Type   |
-|-------------------|-----------------------------------------------------------------------------|-------------|
-| **country**       | The player's country of origin (e.g., Taiwan, China).                       | `object`    |
+| Column Name       | Description                                                                  | Data Type   |
+|-------------------|----------------------------------------------------------------------------- |-------------|
+| **country**       | The player's country of origin (e.g., Taiwan, China).                        | `object`    |
 | **valo_region**   | The VALORANT region to which the player belongs (e.g., CN for China).        | `object`    |
 | **lang_1, lang_2, lang_3** | The primary and additional languages spoken by the player.          | `object`    |
 | **ign**           | The player's in-game name (IGN).                                             | `object`    |
 | **team_role**     | The role of the player on the team (e.g., Flex, Fragger, Smoker).            | `object`    |
 | **igl**           | A boolean indicator of whether the player is the in-game leader (True/False).| `bool`      |
 | **standings**     | The final standings of the team in Stage 2 of the tournament.                | `int64`     |
-| **team_name_full**| The full name of the team (e.g., Wolves Esports).                           | `object`    |
-| **shorthand**     | The shorthand version of the team name (e.g., Wolves).                      | `object`    |
-| **agent_1, agent_2, agent_3** | The agents used by the player in matches.                      | `object`    |
-| **maps**          | The number of maps the player has played.                                   | `int64`     |
-| **k**             | The number of kills secured by the player.                                  | `int64`     |
-| **d**             | The number of deaths the player experienced.                                | `int64`     |
-| **a**             | The number of assists the player provided.                                  | `int64`     |
-| **kd**            | The kill-to-death ratio for the player.                                     | `float64`   |
-| **kda**           | The kill-death-assist ratio for the player.                                 | `float64`   |
-| **acs_per_map**   | The average combat score per map.                                           | `float64`   |
-| **k_per_map**     | The average number of kills per map.                                        | `float64`   |
-| **d_per_map**     | The average number of deaths per map.                                       | `float64`   |
-| **a_per_map**     | The average number of assists per map.
+| **team_name_full**| The full name of the team (e.g., Paper Rex ).                                | `object`    |
+| **shorthand**     | The shorthand version of the team name (e.g., PRX).                          | `object`    |
+| **agent_1, agent_2, agent_3** | The agents used by the player in matches.                        | `object`    |
+| **maps**          | The number of maps the player has played.                                    | `int64`     |
+| **k**             | The number of kills secured by the player.                                   | `int64`     |
+| **d**             | The number of deaths the player experienced.                                 | `int64`     |
+| **a**             | The number of assists the player provided.                                   | `int64`     |
+| **kd**            | The kill-to-death ratio for the player.                                      | `float64`   |
+| **kda**           | The kill-death-assist ratio for the player.                                  | `float64`   |
+| **acs_per_map**   | The average combat score per map.                                            | `float64`   |
+| **k_per_map**     | The average number of kills per map.                                         | `float64`   |
+| **d_per_map**     | The average number of deaths per map.                                        | `float64`   |
+| **a_per_map**     | The average number of assists per map.                                       | `float64`   |
 
 ### vct-intl-2024-teams.csv
 
