@@ -9,8 +9,8 @@ This folder contains CSV files related to the VCT International 2024 season.
 - **leagues_vct_intl_2024.csv**: Contains details of all the leagues in the VCT International 2024.
 
 ### vct-intl-2024-s2-players.csv 
-This table below documents the vct-intl-2024-s2-players.csv file. It contains data about players of all the players participating in the VCT Stage 2 tournament series for each region. It provides an detailed explanation on what data each column containes and how it is interpreted.
-We select this tournament series for our pool of international players as it is the highest tier tournament where every player in the league had a chance to compete.
+This table below documents the vct-intl-2024-s2-players.csv file. It contains data about players of all the players participating in the VCT Stage 2 tournament for each region. It provides an detailed explanation on what data each column containes and how it is interpreted.
+We select this tournament for data pool of international players as it is the highest tier tournament where every player in the league had a chance to compete.
 | Column Name       | Description                                                                  | Data Type   |
 |-------------------|----------------------------------------------------------------------------- |-------------|
 | **country**       | The player's country of origin (e.g., Taiwan, China).                        | `string`    |
@@ -35,6 +35,7 @@ We select this tournament series for our pool of international players as it is 
 | **a_per_map**     | The average number of assists per map in the tournament series.                                       | `float64`   |
 
 ### vct-intl-2024-teams.csv
+This table contains data on the teams participating in the VCT International 2024 league. It includes details such as the team's headquarters location, official name, abbreviation, owner, and their type (either a partnered team or one that joined through the VCT-Ascension tournament). The table also tracks the year each team joined the international league and the region in which they compete, categorized into Americas (AMER), Asia Pacific (APAC), China (CN), and Europe, Middle-East, and Africa (EMEA).
 
 | Column Name       | Description                                 | Data Type |
 |-------------------|---------------------------------------------|-----------|
@@ -47,6 +48,7 @@ We select this tournament series for our pool of international players as it is 
 | `region`          | Geographic region where the team competes, AMER : Americas - North & South America , APAC : Asia Pacific, CN : China, EMEA : Eurpoe, Middle-East & Africa  | String |
 
 ### leagues_vct_intl_2024.csv
+This table focuses on the tournaments within the VCT International 2024 season. It provides information on the name of the tournament, the number of teams participating, the location(s) where the tournament is held, and the start and end dates. The table also includes details about the prize pool in USD, and the winner and runner-up teams of each tournament.
 
 | Column Name       | Description                                 | Data Type |
 |-------------------|---------------------------------------------|-----------|
