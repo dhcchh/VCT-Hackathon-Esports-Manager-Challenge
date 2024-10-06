@@ -122,6 +122,7 @@ This folder contains CSV files related to the VCT Challengers 2024 Split 2 seaso
 - Total of **10** teams for **Ascension**. **Top 1** team promoted to **VCT International**.
 
 #### South Asia
+- Teams can qualify for splits by **circuit points**
 - Top **8** teams from **circuit** advances to **playoffs**
 - **Top 1**  from **playoffs** advances to **Ascension**
 
@@ -130,10 +131,12 @@ This folder contains CSV files related to the VCT Challengers 2024 Split 2 seaso
 - **Top 1** from **Qualifiers** advances to **Ascension**
 
 #### Vietnam/Oceania/Malaysia & Singapore/Korea/Japan/Philippines/Indonesia
+- Teams can qualify for splits by **circuit points**
 - **8 teams** from previous split/promotion
 - **Top 1** advances to **Ascension**
 
 #### Hong Kong & Taiwan
+- Teams can qualify for splits by **circuit points**
 - **8 teams** from Open Qualifiers/Previous Split
 - **Top 1** advances to **Ascension**
 ---
@@ -141,7 +144,8 @@ This folder contains CSV files related to the VCT Challengers 2024 Split 2 seaso
 ### China
 
 #### Valorant China National Competition
-- **8** from **advancement group**
-- **8** from **breakout group**
-- **Top 8** from **circuit** advances to **Ascension**
+- **8** teams selected from advancement group and **8** teams selected from breakout group compete to earn circuit points
+- Advancement groups consists of winners and first runners up of the current and previous season national tournaments. The advancement group also consists of winners and 1st runners up of regional tournaments this year.
+- Breakout groups consists of the 2nd and 3rd runners up of current and previous season national tournaments, as well as various smaller scale national tournaments of the current season.
+- **Top 8** teams in circuit points advances to **Ascension**
 ---

@@ -84,4 +84,7 @@ This table below documents the `gc_subregion/region.csv` file. It contains data 
 - **Top 5** teams from **opening games** and **Top 1** team from **opening promotion** compete within each **sub region**
 - **Top 1** team from both **sub regions** play in **Latin America finals**
 - **Top 1** team from **Latin America finals** qualifies for **Championships**
+
+### China 
+- VCT Game Changers has nnot yet established a system in China.
 ---
