@@ -27,29 +27,7 @@ The following LLMs are freely available and have been taken into consideration f
 
 ---
 
-### 2. BLOOM (BigScience)
-
-- **Description**: BLOOM is a multilingual, large-scale model developed by the **BigScience** project. It is designed to handle over 46 natural languages, making it especially useful for projects targeting global audiences or multilingual environments like Singapore.
-
-- **Key Features**:
-  - **Model Sizes**: Available from 560 million parameters up to 176 billion parameters.
-  - **Multilingual**: It can generate responses in English, Chinese, and several Southeast Asian languages, including Malay, Tamil, and others spoken in Singapore.
-  - **Performance**: High-quality text generation across multiple domains, with particular strengths in generating multilingual content and general knowledge. It can handle Singapore's multi-language context well.
-  - **License**: RAIL License (allows free use with limitations, such as avoiding harmful use).
-  
-- **Why Consider for VALORANT?**:
-  - BLOOM’s ability to understand multiple languages makes it perfect for multilingual content in Singapore’s gaming scene, where players might speak English, Chinese, or Malay.
-  - Its multilingual capacity allows more flexibility if the assistant needs to answer questions in different languages.
-  
-- **Challenges**:
-  - The larger model sizes (176B) require significant computational power, which may not be ideal for deployment without high resources.
-  - May not be as specific to gaming or esports unless fine-tuned with game-specific data.
-  
-- **Link**: [BLOOM on Hugging Face](https://huggingface.co/bigscience/bloom)
-
----
-
-### 3. GPT-J (EleutherAI)
+### 2. GPT-J (EleutherAI)
 
 - **Description**: GPT-J is another open-source GPT-like model developed by EleutherAI. It is smaller than GPT-3 and aims to balance performance and computational efficiency, making it accessible for projects with fewer computational resources.
 
@@ -70,7 +48,7 @@ The following LLMs are freely available and have been taken into consideration f
 
 ---
 
-### 4. DistilGPT-2
+### 3. DistilGPT-2
 
 - **Description**: DistilGPT-2 is a lightweight, distilled version of OpenAI's GPT-2. It's faster and smaller, making it ideal for projects with limited computational resources or for faster deployment.
 
@@ -92,7 +70,7 @@ The following LLMs are freely available and have been taken into consideration f
 
 ---
 
-### 5. Flan-T5 (Google)
+### 4. Flan-T5 (Google)
 
 - **Description**: Flan-T5 is a powerful, instruction-tuned model developed by Google that excels at generating responses for task-based requests. It's fine-tuned on instruction-based datasets, making it great for handling complex instructions or detailed requests.
 
@@ -115,13 +93,13 @@ The following LLMs are freely available and have been taken into consideration f
 
 ## Comparison Table
 
-| Model             | Parameters        | Strengths                                      | Challenges                                   | Multilingual Support | License     |
+| Model             | Parameters        | Strengths                                      | Challenges                                    | License     |
 |-------------------|-------------------|------------------------------------------------|----------------------------------------------|----------------------|-------------|
-| GPT-Neo           | 1.3B/2.7B         | General-purpose text generation                | Requires fine-tuning for domain-specific tasks | No                   | Apache 2.0   |
-| BLOOM             | 560M - 176B       | Multilingual, large-scale                      | High resource requirements for larger models  | Yes                  | RAIL         |
-| GPT-J             | 6B                | General-purpose, balanced performance          | Requires fine-tuning for specialized content | No                   | Apache 2.0   |
-| DistilGPT-2       | 124M              | Lightweight, fast text generation              | Limited depth and complexity                 | No                   | MIT          |
-| Flan-T5           | Small - XXL       | Excellent for instruction-following tasks      | Needs domain-specific fine-tuning            | No                   | Apache 2.0   |
+| GPT-Neo           | 1.3B/2.7B         | General-purpose text generation                | Requires fine-tuning for domain-specific tasks |  Apache 2.0   |
+                  | RAIL         |
+| GPT-J             | 6B                | General-purpose, balanced performance          | Requires fine-tuning for specialized content |  Apache 2.0   |
+| DistilGPT-2       | 124M              | Lightweight, fast text generation              | Limited depth and complexity                 |  MIT          |
+| Flan-T5           | Small - XXL       | Excellent for instruction-following tasks      | Needs domain-specific fine-tuning            | Apache 2.0   |
 
 ---
 
@@ -132,9 +110,6 @@ For building a **VALORANT digital assistant** in Singapore, the following model 
 - **For General-Purpose Use**: 
     - **GPT-Neo** and **GPT-J** are strong general-purpose models. They are both open-source and can handle a wide range of tasks with good text generation capabilities. If you're focusing on fluency, coherence, and general knowledge of the game, these models are great starting points.
   
-- **For Multilingual Support in Singapore**: 
-  - **BLOOM** is ideal due to its multilingual capabilities. If your target audience includes users who speak Malay, Tamil, or Chinese (common in Singapore), this model will provide the flexibility to handle multiple languages.
-
 - **For Fast and Lightweight Deployment**:
   - **DistilGPT-2** is your go-to option for low-resource or fast response systems. Although it sacrifices some depth, it is sufficient for handling simpler, quick-response tasks, such as explaining basic game mechanics or answering casual queries.
 
@@ -145,7 +120,6 @@ For building a **VALORANT digital assistant** in Singapore, the following model 
 
 For the **VALORANT digital assistant** project:
 - If you require deep game-specific analysis, consider **GPT-J** for its balance of size and efficiency.
-- If multilingual support is a priority, especially in the **Singaporean context**, **BLOOM** would be a top choice.
 - For specific, instruction-based responses (e.g., explaining strategies in VALORANT), **Flan-T5** is highly recommended.
 
 Additionally, some models like **GPT-Neo** and **GPT-J** can be **fine-tuned** on domain-specific data (such as VALORANT esports data) to improve their ability to answer detailed, game-related queries accurately.
@@ -153,7 +127,6 @@ Additionally, some models like **GPT-Neo** and **GPT-J** can be **fine-tuned** o
 ## Resources and Links
 
 - [GPT-Neo on Hugging Face](https://huggingface.co/EleutherAI/gpt-neo-2.7B)
-- [BLOOM on Hugging Face](https://huggingface.co/bigscience/bloom)
 - [GPT-J on Hugging Face](https://huggingface.co/EleutherAI/gpt-j-6B)
 - [DistilGPT-2 on Hugging Face](https://huggingface.co/distilgpt2)
 - [Flan-T5 on Hugging Face](https://huggingface.co/google/flan-t5-large)
@@ -164,6 +137,5 @@ Additionally, some models like **GPT-Neo** and **GPT-J** can be **fine-tuned** o
 
 All models mentioned are free to use but may have different licenses:
 - **GPT-Neo & GPT-J**: Apache 2.0 (permissive for commercial and non-commercial use)
-- **BLOOM**: RAIL License (free use with some restrictions on harmful applications)
 - **DistilGPT-2**: MIT License (highly permissive, not much of an issue to use)
 - **Flan-T5**: Apache 2.0 (permissive for commercial and non-commercial use)
