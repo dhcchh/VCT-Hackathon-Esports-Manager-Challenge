@@ -91,18 +91,6 @@ The following LLMs are freely available and have been taken into consideration f
 
 ---
 
-## Comparison Table
-
-| Model             | Parameters        | Strengths                                      | Challenges                                    | License     |
-|-------------------|-------------------|------------------------------------------------|----------------------------------------------|----------------------|
-| GPT-Neo           | 1.3B/2.7B         | General-purpose text generation                | Requires fine-tuning for domain-specific tasks |  Apache 2.0   |
-          
-| GPT-J             | 6B                | General-purpose, balanced performance          | Requires fine-tuning for specialized content |  Apache 2.0   |
-| DistilGPT-2       | 124M              | Lightweight, fast text generation              | Limited depth and complexity                 |  MIT          |
-| Flan-T5           | Small - XXL       | Excellent for instruction-following tasks      | Needs domain-specific fine-tuning            | Apache 2.0   |
-
----
-
 ## Conclusion
 
 For building a **VALORANT digital assistant** in Singapore, the following model recommendations can be made:
