@@ -11,7 +11,7 @@ This folder contains CSV files related to the VCT International 2024 season.
 ### vct-intl-2024-s2-players.csv 
 This table below documents the vct-intl-2024-s2-players.csv file. It contains data about players of all the players participating in the VCT Stage 2 tournament for each region. It provides an detailed explanation on what data each column containes and how it is interpreted.
 We select this tournament for data pool of international players as it is the highest tier tournament where every player in the league had a chance to compete.
-| Column Name       | Description                                                                  | Data Type   |
+| Column Names       | Description                                                                  | Data Type   |
 |-------------------|----------------------------------------------------------------------------- |-------------|
 | **country**       | The player's country of origin (e.g., Taiwan, China). Due to the 2022 Russian Invasion of Ukraine, some players from Russian will opt for a non-representing on their country as a form of protest against the invasion. This is to say they are not representing their country even though that is their country of origin                        | `string`    |
 | **valo_region**   | The VALORANT region to which the player belongs (CN for Chinal, AMER for Americas, EMEA for Europe, Middle-East and Africa, PAC for Pacific).        | `object`    |
