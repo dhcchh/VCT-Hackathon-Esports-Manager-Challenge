@@ -1,0 +1,434 @@
+[
+    {
+        "ign": "Anima",
+        "text": "Player of ign Anima is from team HOWL Esports, EMEA region, from VCT Challengers. Anima's role is Support and they are not an IGL. The languages Anima speaks are Turkish.",
+        "standings": "2nd",
+        "maps_played": "34",
+        "kda": "1.78",
+        "acs_per_map": "190"
+    },
+    {
+        "ign": "AsLanM4shadoW",
+        "text": "Player of ign AsLanM4shadoW is from team S2G Esports, EMEA region, from VCT Challengers. AsLanM4shadoW's role is Smoker and they are not an IGL. The languages AsLanM4shadoW speaks are Turkish.",
+        "standings": "7th",
+        "maps_played": "5",
+        "kda": "1.2",
+        "acs_per_map": "203"
+    },
+    {
+        "ign": "Celasun",
+        "text": "Player of ign Celasun is from team Pcific Esports, EMEA region, from VCT Challengers. Celasun's role is Anchor and they are not an IGL. The languages Celasun speaks are Turkish.",
+        "standings": "1st",
+        "maps_played": "34",
+        "kda": "1.24",
+        "acs_per_map": "178"
+    },
+    {
+        "ign": "ComeBack",
+        "text": "Player of ign ComeBack is from team Pcific Esports, EMEA region, from VCT Challengers. ComeBack's role is Entry and they are not an IGL. The languages ComeBack speaks are Turkish.",
+        "standings": "1st",
+        "maps_played": "34",
+        "kda": "1.36",
+        "acs_per_map": "257"
+    },
+    {
+        "ign": "Crewen",
+        "text": "Player of ign Crewen is from team HOWL Esports, EMEA region, from VCT Challengers. Crewen's role is Anchor and they are not an IGL. The languages Crewen speaks are Turkish.",
+        "standings": "2nd",
+        "maps_played": "34",
+        "kda": "1.36",
+        "acs_per_map": "196"
+    },
+    {
+        "ign": "CyderX",
+        "text": "Player of ign CyderX is from team Galatasaray Esports, EMEA region, from VCT Challengers. CyderX's role is Support and they are not an IGL. The languages CyderX speaks are Turkish.",
+        "standings": "4th",
+        "maps_played": "27",
+        "kda": "1.3",
+        "acs_per_map": "151"
+    },
+    {
+        "ign": "DESTRUCT1VEE",
+        "text": "Player of ign DESTRUCT1VEE is from team Galakticos, EMEA region, from VCT Challengers. DESTRUCT1VEE's role is Smoker and they are not an IGL. The languages DESTRUCT1VEE speaks are Turkish.",
+        "standings": "3rd",
+        "maps_played": "35",
+        "kda": "1.37",
+        "acs_per_map": "184"
+    },
+    {
+        "ign": "DeadInk",
+        "text": "Player of ign DeadInk is from team Fenerbah\u00c3\u00a7e Esports, EMEA region, from VCT Challengers. DeadInk's role is Entry and they are not an IGL. The languages DeadInk speaks are Turkish.",
+        "standings": "10th",
+        "maps_played": "21",
+        "kda": "1.04",
+        "acs_per_map": "194"
+    },
+    {
+        "ign": "Docent",
+        "text": "Player of ign Docent is from team Galatasaray Esports, EMEA region, from VCT Challengers. Docent's role is Smoker and they are not an IGL. The languages Docent speaks are Turkish.",
+        "standings": "4th",
+        "maps_played": "27",
+        "kda": "1.52",
+        "acs_per_map": "204"
+    },
+    {
+        "ign": "Gloomy",
+        "text": "Player of ign Gloomy is from team HOWL Esports, EMEA region, from VCT Challengers. Gloomy's role is Support and they are not an IGL. The languages Gloomy speaks are Turkish.",
+        "standings": "2nd",
+        "maps_played": "34",
+        "kda": "1.31",
+        "acs_per_map": "160"
+    },
+    {
+        "ign": "Izzy",
+        "text": "Player of ign Izzy is from team SuperMassive Esports, EMEA region, from VCT Challengers. Izzy's role is Entry and they are not an IGL. The languages Izzy speaks are Turkish.",
+        "standings": "6th",
+        "maps_played": "29",
+        "kda": "1.68",
+        "acs_per_map": "272"
+    },
+    {
+        "ign": "JN3v1cEEE",
+        "text": "Player of ign JN3v1cEEE is from team Eternal Fire, EMEA region, from VCT Challengers. JN3v1cEEE's role is Smoker and they are not an IGL. The languages JN3v1cEEE speaks are Turkish.",
+        "standings": "9th",
+        "maps_played": "20",
+        "kda": "1.34",
+        "acs_per_map": "182"
+    },
+    {
+        "ign": "JrayN",
+        "text": "Player of ign JrayN is from team Fenerbah\u00c3\u00a7e Esports, EMEA region, from VCT Challengers. JrayN's role is Support and they are not an IGL. The languages JrayN speaks are Turkish.",
+        "standings": "10th",
+        "maps_played": "21",
+        "kda": "1.47",
+        "acs_per_map": "202"
+    },
+    {
+        "ign": "KROSTALY",
+        "text": "Player of ign KROSTALY is from team Eternal Fire, EMEA region, from VCT Challengers. KROSTALY's role is Entry and they are not an IGL. The languages KROSTALY speaks are Turkish.",
+        "standings": "9th",
+        "maps_played": "21",
+        "kda": "1.23",
+        "acs_per_map": "199"
+    },
+    {
+        "ign": "Lar0k",
+        "text": "Player of ign Lar0k is from team Pcific Esports, EMEA region, from VCT Challengers. Lar0k's role is Support and they are not an IGL. The languages Lar0k speaks are Turkish.",
+        "standings": "1st",
+        "maps_played": "34",
+        "kda": "1.76",
+        "acs_per_map": "204"
+    },
+    {
+        "ign": "Loita",
+        "text": "Player of ign Loita is from team Pcific Esports, EMEA region, from VCT Challengers. Loita's role is Smoker and they are not an IGL. The languages Loita speaks are Turkish.",
+        "standings": "1st",
+        "maps_played": "34",
+        "kda": "1.61",
+        "acs_per_map": "207"
+    },
+    {
+        "ign": "L\u00c3\u00aawN",
+        "text": "Player of ign L\u00c3\u00aawN is from team Galatasaray Esports, EMEA region, from VCT Challengers. L\u00c3\u00aawN's role is Entry and they are not an IGL. The languages L\u00c3\u00aawN speaks are Turkish.",
+        "standings": "4th",
+        "maps_played": "27",
+        "kda": "1.42",
+        "acs_per_map": "260"
+    },
+    {
+        "ign": "MERZ",
+        "text": "Player of ign MERZ is from team \u00c4\u00b0stanbul Wildcats, EMEA region, from VCT Challengers. MERZ's role is Smoker and they are not an IGL. The languages MERZ speaks are Turkish.",
+        "standings": "8th",
+        "maps_played": "21",
+        "kda": "1.21",
+        "acs_per_map": "158"
+    },
+    {
+        "ign": "Masic",
+        "text": "Player of ign Masic is from team Galakticos, EMEA region, from VCT Challengers. Masic's role is Entry and they are not an IGL. The languages Masic speaks are Turkish.",
+        "standings": "3rd",
+        "maps_played": "35",
+        "kda": "1.3",
+        "acs_per_map": "186"
+    },
+    {
+        "ign": "OXMANN",
+        "text": "Player of ign OXMANN is from team SuperMassive Esports, EMEA region, from VCT Challengers. OXMANN's role is Anchor and they are not an IGL. The languages OXMANN speaks are Turkish.",
+        "standings": "6th",
+        "maps_played": "12",
+        "kda": "1.45",
+        "acs_per_map": "201"
+    },
+    {
+        "ign": "Padisah",
+        "text": "Player of ign Padisah is from team Galatasaray Esports, EMEA region, from VCT Challengers. Padisah's role is Anchor and they are not an IGL. The languages Padisah speaks are Turkish.",
+        "standings": "4th",
+        "maps_played": "27",
+        "kda": "1.25",
+        "acs_per_map": "198"
+    },
+    {
+        "ign": "Patrui",
+        "text": "Player of ign Patrui is from team S2G Esports, EMEA region, from VCT Challengers. Patrui's role is Smoker and they are not an IGL. The languages Patrui speaks are Turkish.",
+        "standings": "7th",
+        "maps_played": "24",
+        "kda": "1.63",
+        "acs_per_map": "191"
+    },
+    {
+        "ign": "Ros\u00c3\u00a9",
+        "text": "Player of ign Ros\u00c3\u00a9 is from team Pcific Esports, EMEA region, from VCT Challengers. Ros\u00c3\u00a9's role is Support and they are an IGL. The languages Ros\u00c3\u00a9 speaks are Turkish.",
+        "standings": "1st",
+        "maps_played": "34",
+        "kda": "1.3",
+        "acs_per_map": "174"
+    },
+    {
+        "ign": "Ruxic",
+        "text": "Player of ign Ruxic is from team Fire Flux Esports, EMEA region, from VCT Challengers. Ruxic's role is Smoker and they are not an IGL. The languages Ruxic speaks are Turkish.",
+        "standings": "5th",
+        "maps_played": "26",
+        "kda": "1.82",
+        "acs_per_map": "228"
+    },
+    {
+        "ign": "STERBEN",
+        "text": "Player of ign STERBEN is from team SuperMassive Esports, EMEA region, from VCT Challengers. STERBEN's role is Smoker and they are not an IGL. The languages STERBEN speaks are Turkish.",
+        "standings": "6th",
+        "maps_played": "29",
+        "kda": "1.7",
+        "acs_per_map": "214"
+    },
+    {
+        "ign": "SasuKe",
+        "text": "Player of ign SasuKe is from team Eternal Fire, EMEA region, from VCT Challengers. SasuKe's role is Support and they are not an IGL. The languages SasuKe speaks are Turkish.",
+        "standings": "9th",
+        "maps_played": "21",
+        "kda": "1.33",
+        "acs_per_map": "164"
+    },
+    {
+        "ign": "SouhcNi",
+        "text": "Player of ign SouhcNi is from team SuperMassive Esports, EMEA region, from VCT Challengers. SouhcNi's role is Support and they are not an IGL. The languages SouhcNi speaks are Turkish.",
+        "standings": "6th",
+        "maps_played": "29",
+        "kda": "1.26",
+        "acs_per_map": "153"
+    },
+    {
+        "ign": "Touven",
+        "text": "Player of ign Touven is from team Galatasaray Esports, EMEA region, from VCT Challengers. Touven's role is Entry and they are not an IGL. The languages Touven speaks are Turkish.",
+        "standings": "4th",
+        "maps_played": "27",
+        "kda": "1.43",
+        "acs_per_map": "187"
+    },
+    {
+        "ign": "Turko",
+        "text": "Player of ign Turko is from team Fire Flux Esports, EMEA region, from VCT Challengers. Turko's role is Anchor and they are not an IGL. The languages Turko speaks are Turkish.",
+        "standings": "5th",
+        "maps_played": "26",
+        "kda": "1.45",
+        "acs_per_map": "191"
+    },
+    {
+        "ign": "VenTT",
+        "text": "Player of ign VenTT is from team HOWL Esports, EMEA region, from VCT Challengers. VenTT's role is Smoker and they are not an IGL. The languages VenTT speaks are Turkish.",
+        "standings": "2nd",
+        "maps_played": "34",
+        "kda": "1.62",
+        "acs_per_map": "197"
+    },
+    {
+        "ign": "Wasp",
+        "text": "Player of ign Wasp is from team Eternal Fire, EMEA region, from VCT Challengers. Wasp's role is Support and they are not an IGL. The languages Wasp speaks are Turkish.",
+        "standings": "9th",
+        "maps_played": "12",
+        "kda": "1.1",
+        "acs_per_map": "170"
+    },
+    {
+        "ign": "Yigox",
+        "text": "Player of ign Yigox is from team Fenerbah\u00c3\u00a7e Esports, EMEA region, from VCT Challengers. Yigox's role is Anchor and they are not an IGL. The languages Yigox speaks are Turkish.",
+        "standings": "10th",
+        "maps_played": "16",
+        "kda": "1.02",
+        "acs_per_map": "154"
+    },
+    {
+        "ign": "baha",
+        "text": "Player of ign baha is from team \u00c4\u00b0stanbul Wildcats, EMEA region, from VCT Challengers. baha's role is Flex and they are not an IGL. The languages baha speaks are Turkish.",
+        "standings": "8th",
+        "maps_played": "21",
+        "kda": "1.19",
+        "acs_per_map": "178"
+    },
+    {
+        "ign": "batujnax",
+        "text": "Player of ign batujnax is from team S2G Esports, EMEA region, from VCT Challengers. batujnax's role is Entry and they are not an IGL. The languages batujnax speaks are Turkish.",
+        "standings": "7th",
+        "maps_played": "24",
+        "kda": "1.41",
+        "acs_per_map": "212"
+    },
+    {
+        "ign": "cacan",
+        "text": "Player of ign cacan is from team Fenerbah\u00c3\u00a7e Esports, EMEA region, from VCT Challengers. cacan's role is Anchor and they are not an IGL. The languages cacan speaks are Turkish.",
+        "standings": "10th",
+        "maps_played": "21",
+        "kda": "1.15",
+        "acs_per_map": "196"
+    },
+    {
+        "ign": "dRKY",
+        "text": "Player of ign dRKY is from team \u00c4\u00b0stanbul Wildcats, EMEA region, from VCT Challengers. dRKY's role is Support and they are an IGL. The languages dRKY speaks are Turkish.",
+        "standings": "8th",
+        "maps_played": "21",
+        "kda": "1.43",
+        "acs_per_map": "179"
+    },
+    {
+        "ign": "deminatiX",
+        "text": "Player of ign deminatiX is from team \u00c4\u00b0stanbul Wildcats, EMEA region, from VCT Challengers. deminatiX's role is Entry and they are not an IGL. The languages deminatiX speaks are Turkish.",
+        "standings": "8th",
+        "maps_played": "21",
+        "kda": "1.31",
+        "acs_per_map": "250"
+    },
+    {
+        "ign": "glovee",
+        "text": "Player of ign glovee is from team Galakticos, EMEA region, from VCT Challengers. glovee's role is Support and they are an IGL. The languages glovee speaks are Turkish.",
+        "standings": "3rd",
+        "maps_played": "34",
+        "kda": "1.37",
+        "acs_per_map": "172"
+    },
+    {
+        "ign": "hiro",
+        "text": "Player of ign hiro is from team SuperMassive Esports, EMEA region, from VCT Challengers. hiro's role is Anchor and they are not an IGL. The languages hiro speaks are Turkish, Dutch.",
+        "standings": "6th",
+        "maps_played": "9",
+        "kda": "1.73",
+        "acs_per_map": "242"
+    },
+    {
+        "ign": "ip0TT",
+        "text": "Player of ign ip0TT is from team Galakticos, EMEA region, from VCT Challengers. ip0TT's role is Entry and they are not an IGL. The languages ip0TT speaks are Turkish.",
+        "standings": "3rd",
+        "maps_played": "35",
+        "kda": "1.43",
+        "acs_per_map": "232"
+    },
+    {
+        "ign": "jeyj7y",
+        "text": "Player of ign jeyj7y is from team S2G Esports, EMEA region, from VCT Challengers. jeyj7y's role is Support and they are an IGL. The languages jeyj7y speaks are Turkish.",
+        "standings": "7th",
+        "maps_played": "19",
+        "kda": "1.22",
+        "acs_per_map": "170"
+    },
+    {
+        "ign": "lauress",
+        "text": "Player of ign lauress is from team Fire Flux Esports, EMEA region, from VCT Challengers. lauress's role is Anchor and they are not an IGL. The languages lauress speaks are Turkish.",
+        "standings": "5th",
+        "maps_played": "27",
+        "kda": "1.38",
+        "acs_per_map": "218"
+    },
+    {
+        "ign": "lurzy0y0",
+        "text": "Player of ign lurzy0y0 is from team Galakticos, EMEA region, from VCT Challengers. lurzy0y0's role is Flex and they are not an IGL. The languages lurzy0y0 speaks are Turkish.",
+        "standings": "3rd",
+        "maps_played": "35",
+        "kda": "1.45",
+        "acs_per_map": "193"
+    },
+    {
+        "ign": "mojj",
+        "text": "Player of ign mojj is from team Eternal Fire, EMEA region, from VCT Challengers. mojj's role is Anchor and they are not an IGL. The languages mojj speaks are Turkish.",
+        "standings": "9th",
+        "maps_played": "21",
+        "kda": "1.22",
+        "acs_per_map": "187"
+    },
+    {
+        "ign": "musz3kk",
+        "text": "Player of ign musz3kk is from team Eternal Fire, EMEA region, from VCT Challengers. musz3kk's role is Flex and they are not an IGL. The languages musz3kk speaks are Turkish.",
+        "standings": "9th",
+        "maps_played": "10",
+        "kda": "1.01",
+        "acs_per_map": "167"
+    },
+    {
+        "ign": "qw1",
+        "text": "Player of ign qw1 is from team Fire Flux Esports, EMEA region, from VCT Challengers. qw1's role is Entry and they are not an IGL. The languages qw1 speaks are Turkish.",
+        "standings": "5th",
+        "maps_played": "16",
+        "kda": "1.35",
+        "acs_per_map": "239"
+    },
+    {
+        "ign": "russ",
+        "text": "Player of ign russ is from team S2G Esports, EMEA region, from VCT Challengers. russ's role is Support and they are not an IGL. The languages russ speaks are Turkish.",
+        "standings": "7th",
+        "maps_played": "24",
+        "kda": "1.14",
+        "acs_per_map": "190"
+    },
+    {
+        "ign": "samed",
+        "text": "Player of ign samed is from team Fenerbah\u00c3\u00a7e Esports, EMEA region, from VCT Challengers. samed's role is Entry and they are not an IGL. The languages samed speaks are Turkish, German.",
+        "standings": "10th",
+        "maps_played": "5",
+        "kda": "0.6",
+        "acs_per_map": "128"
+    },
+    {
+        "ign": "sh1va",
+        "text": "Player of ign sh1va is from team \u00c4\u00b0stanbul Wildcats, EMEA region, from VCT Challengers. sh1va's role is Anchor and they are not an IGL. The languages sh1va speaks are Turkish.",
+        "standings": "8th",
+        "maps_played": "21",
+        "kda": "1.2",
+        "acs_per_map": "178"
+    },
+    {
+        "ign": "skyLeN",
+        "text": "Player of ign skyLeN is from team SuperMassive Esports, EMEA region, from VCT Challengers. skyLeN's role is Support and they are not an IGL. The languages skyLeN speaks are Turkish.",
+        "standings": "6th",
+        "maps_played": "29",
+        "kda": "1.77",
+        "acs_per_map": "205"
+    },
+    {
+        "ign": "sociablEE",
+        "text": "Player of ign sociablEE is from team Fire Flux Esports, EMEA region, from VCT Challengers. sociablEE's role is Support and they are not an IGL. The languages sociablEE speaks are Turkish.",
+        "standings": "5th",
+        "maps_played": "26",
+        "kda": "1.73",
+        "acs_per_map": "228"
+    },
+    {
+        "ign": "sturNN",
+        "text": "Player of ign sturNN is from team Fenerbah\u00c3\u00a7e Esports, EMEA region, from VCT Challengers. sturNN's role is Smoker and they are not an IGL. The languages sturNN speaks are Turkish.",
+        "standings": "10th",
+        "maps_played": "21",
+        "kda": "1.15",
+        "acs_per_map": "170"
+    },
+    {
+        "ign": "w0zzip",
+        "text": "Player of ign w0zzip is from team Fire Flux Esports, EMEA region, from VCT Challengers. w0zzip's role is Support and they are not an IGL. The languages w0zzip speaks are Turkish.",
+        "standings": "5th",
+        "maps_played": "26",
+        "kda": "1.45",
+        "acs_per_map": "177"
+    },
+    {
+        "ign": "xeus",
+        "text": "Player of ign xeus is from team HOWL Esports, EMEA region, from VCT Challengers. xeus's role is Entry and they are not an IGL. The languages xeus speaks are Turkish.",
+        "standings": "2nd",
+        "maps_played": "34",
+        "kda": "1.58",
+        "acs_per_map": "278"
+    }
+]
